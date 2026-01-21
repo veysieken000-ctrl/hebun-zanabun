@@ -3,6 +3,11 @@
 - **English** 🇬🇧– Core framework, system prompt, AI alignment texts  
 - **Turkish** 🇹🇷– Explanations, manifesto, guide texts  
 - **Kurmanji (Kurdish)** 🟢– Conceptual texts and translations
+## 🌐Languages ​​/ Diller / Ziman
+
+- **English** 🇬🇧– Core framework, system prompt, AI alignment texts  
+- **Turkish** 🇹🇷– Explanations, manifesto, guide texts  
+- **Kurmanji (Kurdish)** 🟢– Conceptual texts and translations
 
 # Hebun and Zanabun
 **A Truth-Prior Framework for Being (Ontology), Knowledge (Epistemology), and Responsibility**
