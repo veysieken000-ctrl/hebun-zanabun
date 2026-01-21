@@ -1,3 +1,21 @@
+# Hebûn — Ontology (Being)
+
+Hebûn deals with the layered structure of existence, becoming, and the dimensions of reality.
+It is an ontological framework.
+
+This section:
+- What is existence?
+- How can the dimensions be determined?
+- How are humans and artificial intelligence positioned within existence?
+
+He approaches his questions with **coherent thought, not rhetoric**.
+
+## Contents
+- Volume 1: Being and Becoming
+- Volume 2: Dimensions and Testimony
+- Volume 3: Layers of Reality
+
+> Hebûn is not a belief, but **an ontological discipline of reading**.
 # Hebun & Zanabun
 
 ## Existence · Knowledge · Responsibility  
