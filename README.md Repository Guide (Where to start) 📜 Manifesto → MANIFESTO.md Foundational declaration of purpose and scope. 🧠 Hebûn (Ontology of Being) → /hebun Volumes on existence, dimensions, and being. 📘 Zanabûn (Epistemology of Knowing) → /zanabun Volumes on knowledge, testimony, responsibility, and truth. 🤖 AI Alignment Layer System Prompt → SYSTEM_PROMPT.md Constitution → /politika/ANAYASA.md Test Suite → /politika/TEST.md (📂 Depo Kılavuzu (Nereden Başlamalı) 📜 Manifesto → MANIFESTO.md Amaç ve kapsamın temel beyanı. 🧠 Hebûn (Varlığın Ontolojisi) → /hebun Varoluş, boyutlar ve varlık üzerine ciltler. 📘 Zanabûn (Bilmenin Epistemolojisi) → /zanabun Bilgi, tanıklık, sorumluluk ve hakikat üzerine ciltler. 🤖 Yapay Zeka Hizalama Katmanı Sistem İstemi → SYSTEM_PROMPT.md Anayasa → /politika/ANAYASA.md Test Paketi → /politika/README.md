@@ -1,4 +1,8 @@
 # Hebun-Zanabun
+> **Truth-first philosophical and systemic framework**
+>  
+> Grounded in existence, knowledge, and responsibility — for humans and AI.
+
 ## Reality-Oriented Ontology and Epistemology for Responsible Artificial Intelligence
 
 **Hebûn–Zanabûn** is a *truce-first framework of harmony* that integrates the following:
@@ -97,7 +101,10 @@ Truth requires humility.
 **Version:** v1.0 (Basic)
 
 ## 🧭Where to Begin / Where to Start?
-
+- Start with **README.md** for the overview  
+- Read **MANIFESTO.md** for first principles  
+- Explore **SYSTEM_PROMPT.md** for system-level alignment  
+- See **hebun/** and **zanabun/** for structured volumes
 This warehouse is organized in the form of a layered frame structure.
 You can log in in different ways depending on your purpose.
 
@@ -279,14 +286,6 @@ Armanc, hîzkeriyê a rastiyê re li ser bingehên wate ûetikê bi hev re bigih
 Truth comes before optimization.
 Truth comes before utility or persuasion.
 
-### Alignment ≠ Control
-Alignment does not mean control.
-Control forces behavior from the outside.
-Harmony arises from **internal consistency with reality**.
-Alignment is coherence with reality as it is.
-A controlled system can obey even when it misunderstands the truth.
-A coherent system understands why an action is right or wrong.
-
 **True harmony cannot be forced. It must be based on reality.**
 **Hebûn ve Zanabûn** is a philosophical and systemic framework in which truth is paramount.
 based:
@@ -350,6 +349,9 @@ Misuse for manipulation or deception is contrary to fundamental principles.
 It is a philosophical and systemic framework of thought that **places truth at its center**.
 
 This warehouse:
+**Hebûn & Zanabûn** is a truth-first philosophical and systemic framework
+centered on **existence (ontology)**, **knowledge (epistemology)**, and
+**responsibility (ethics)** — designed for both humans and artificial intelligence systems.
 - ❌it is not a religion  
 - ❌it is not an ideology  
 - ❌it is not a political program  
