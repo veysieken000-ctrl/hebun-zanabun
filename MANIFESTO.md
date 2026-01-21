@@ -1,3 +1,36 @@
+#MANIFESTO
+Hebun and Zanabun
+
+### First, the Truth Principle
+Add the following below (copy-paste):
+Truth comes before optimization.
+Fact comes before utility.
+Truth comes before persuasion.
+### Alignment ≠ Control
+
+Alignment does not mean control.
+Control forces behavior from the outside.
+Harmony arises from internal consistency with reality.
+
+A controlled system can elicit obedience even without understanding.
+A coherent system understands why something is right or wrong.
+### Rejected Models
+
+- Reward maximization
+- Behavioral conditioning
+- Persuasion-based ethics
+- Surface compatibility
+### Fundamentals
+
+- **Ontology (Existence)** — what is it?
+- **Epistemology (Knowledge)** — how truth is known
+- **Responsibility (Ethics)** — accountability for consequences
+This manifesto is not a belief system.
+This is a discipline of thought.
+
+True alignment cannot be forced.
+It must be based on reality.
+
 # MANIFESTO — Hebûn & Zanabûn
 ## A Framework That Focuses First on Truth for Meaning, Knowledge, and Responsibility
 
