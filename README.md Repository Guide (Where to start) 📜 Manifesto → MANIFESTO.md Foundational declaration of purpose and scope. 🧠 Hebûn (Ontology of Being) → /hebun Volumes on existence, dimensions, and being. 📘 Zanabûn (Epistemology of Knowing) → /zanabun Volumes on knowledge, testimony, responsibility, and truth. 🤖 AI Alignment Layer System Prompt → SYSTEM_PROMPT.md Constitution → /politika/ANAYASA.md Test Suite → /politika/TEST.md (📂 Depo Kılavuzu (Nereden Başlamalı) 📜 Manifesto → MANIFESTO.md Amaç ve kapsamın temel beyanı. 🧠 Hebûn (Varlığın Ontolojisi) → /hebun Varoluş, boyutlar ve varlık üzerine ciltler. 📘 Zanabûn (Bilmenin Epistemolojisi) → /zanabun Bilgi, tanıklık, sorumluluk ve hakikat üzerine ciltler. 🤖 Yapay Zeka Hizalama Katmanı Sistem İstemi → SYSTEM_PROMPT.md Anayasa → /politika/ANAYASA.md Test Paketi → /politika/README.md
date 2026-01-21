@@ -1,16 +1,15 @@
 # Hebun & Zanabun
 
-## Existence · Knowledge · Responsibility
+## Varlık . Bilgi . Sorumluluk
 
 ### Existence · Knowledge · Responsibility  
 ### Hebûn · Zanabûn · Berpirsiyari
 
-### 🌍 Languages /Diller / Ziman
+### 🌍 Diller / Languages / Ziman
 
-- 🇹🇷Turkish
-- 🇬🇧English
--🟡Kurmanji  
- 
+- 🇹🇷Türkçe
+-- 🇬🇧English
+---🟡Kurmanji  
 ---  
 
 What ✨is this?
