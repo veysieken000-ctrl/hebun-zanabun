@@ -1,6 +1,6 @@
 # Hebun & Zanabun
 
-## Being · Knowledge · Responsibility
+## Being · Varlık . Bilgi . Sorumluluk
 
 ### Existence · Knowledge · Responsibility  
 ### Hebûn · Zanabûn · Berpirsiyari
