@@ -1,7 +1,8 @@
- # Hebun & Zanabun
+# Hebun & Zanabun
 
 ## Being · Knowledge · Responsibility
-### Varlık . Bilgi . Sorumluluk  
+
+### Existence · Knowledge · Responsibility  
 ### Hebûn · Zanabûn · Berpirsiyari
 ### 🌍Languages ​​/ Ziman / Languages
 
