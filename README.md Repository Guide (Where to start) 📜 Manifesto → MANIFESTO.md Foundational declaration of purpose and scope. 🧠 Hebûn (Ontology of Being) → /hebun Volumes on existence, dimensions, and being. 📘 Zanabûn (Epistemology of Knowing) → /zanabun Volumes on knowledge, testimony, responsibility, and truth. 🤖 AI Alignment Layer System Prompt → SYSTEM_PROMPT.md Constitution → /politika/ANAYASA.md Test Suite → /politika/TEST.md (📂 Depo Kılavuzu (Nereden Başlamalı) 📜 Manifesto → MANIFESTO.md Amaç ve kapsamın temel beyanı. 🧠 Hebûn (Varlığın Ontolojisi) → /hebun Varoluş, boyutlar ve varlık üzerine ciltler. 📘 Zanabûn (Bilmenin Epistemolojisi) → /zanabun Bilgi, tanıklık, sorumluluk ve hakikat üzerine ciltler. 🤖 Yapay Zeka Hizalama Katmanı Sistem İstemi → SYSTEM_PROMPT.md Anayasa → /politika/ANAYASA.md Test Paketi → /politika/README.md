@@ -1,3 +1,37 @@
+## 🧭Where to Begin / Where to Start?
+
+This warehouse is organized in the form of a layered frame structure.
+You can log in in different ways depending on your purpose.
+
+### 🔹Overview
+If this is your first time here:
+- To understand the overall vision and structure, start with the **README.md** file.
+- Then read **MANIFESTO.md** for the basic principles.
+
+### 🔹Ontology — Hebûn (Being/Existence)
+If you are interested in the topics of existence, reality, and structure:
+- Go to `/hebun`
+- Begin exploring the dimensions of ontology and existence with the Hebûn README file.
+
+### 🔹Epistemology and Responsibility — Zanabun
+Whether you focus on knowledge, truth, responsibility, or ethics:
+- Go to `/zanabun`.
+- Read about the concepts of knowing, bearing witness, and accountability in the Zanabun texts.
+
+### 🔹Artificial Intelligence Adaptation and Systems
+If you work in the fields of artificial intelligence, governance, or systems design:
+- Please read the **AI Adaptation Focus** section below.
+- Next, check the **SYSTEM_PROMPT.md** file for the system-level policies that have been applied.
+
+### 🔹Politics and Governance
+If you are interested in regulations, norms, or governance issues:
+- Go to `/policy`.
+- Start with **CONSTITUTION.md**.
+
+This warehouse does not have a linear structure.
+This is a system: you can log in from any point you want.
+However, **truth and accountability remain at the center.**
+
 ## AI Alignment Focus
 ###Truth-First Principle (One Axiom)
 Truth comes before optimization.
