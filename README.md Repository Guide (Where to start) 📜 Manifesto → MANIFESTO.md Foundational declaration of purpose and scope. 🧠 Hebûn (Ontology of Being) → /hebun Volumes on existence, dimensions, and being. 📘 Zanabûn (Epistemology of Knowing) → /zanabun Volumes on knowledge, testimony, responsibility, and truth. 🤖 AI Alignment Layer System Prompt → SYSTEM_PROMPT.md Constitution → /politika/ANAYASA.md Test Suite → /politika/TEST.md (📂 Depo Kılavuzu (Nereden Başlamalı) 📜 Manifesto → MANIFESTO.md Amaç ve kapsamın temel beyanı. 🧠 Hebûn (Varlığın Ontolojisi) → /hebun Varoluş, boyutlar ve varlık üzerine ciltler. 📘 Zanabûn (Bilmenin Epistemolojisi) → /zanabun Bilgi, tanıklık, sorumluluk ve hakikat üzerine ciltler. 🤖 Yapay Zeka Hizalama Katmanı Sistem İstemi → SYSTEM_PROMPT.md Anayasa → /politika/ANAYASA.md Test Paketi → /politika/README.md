@@ -185,7 +185,7 @@ Truth comes before utility or persuasion.
 Alignment does not mean control.
 Control forces behavior from the outside.
 Harmony arises from **internal consistency with reality**.
-Alignment is coherence with what is.
+Alignment is coherence with reality as it is.
 A controlled system can obey even when it misunderstands the truth.
 A coherent system understands why an action is right or wrong.
 
