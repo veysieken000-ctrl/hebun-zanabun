@@ -1,3 +1,43 @@
+
+## AI Alignment Focus
+
+Hebûn & Zanabûn provides a **truth-first alignment framework** for artificial intelligence.
+
+Rather than optimizing behavior through persuasion, reward hacking, or surface ethics, this system grounds AI alignment in:
+
+- **Ontology (Being)** — what exists and how it exists  
+- **Epistemology (Knowing)** — how knowledge is formed, verified, and limited  
+- **Responsibility** — accountability for actions, consequences, and truth
+
+This framework treats alignment not as control, but as **semantic and ethical coherence with reality**.
+
+Hebûn & Zanabûn is designed for researchers, system designers, and governance thinkers seeking **alignment beyond optimization**.
+
+## Artificial Intelligence Alignment (AI Alignment)
+
+Hebun & Zanabun offers a **truth-first** alignment framework for artificial intelligence.
+
+Instead of optimizing behavior through reward, persuasion, or superficial ethics, this approach bases alignment on the following principles:
+
+- **Ontology (Being)** — what is and how is it?  
+- **Epistemology (Knowledge)** — how is knowledge formed, what are its limits?  
+- **Responsibility** — accountability before actions, consequences, and truth.
+
+This system views alignment not as a control problem,  
+It addresses the issue of **semantic and ethical compatibility with reality**.
+
+## Hîzkeriya Zekaya Artîfîsyel (AI Alignment)
+
+Hebûn û Zanabûn çarçoveyek **rastî-pêşî** ji bo hîzkeriya artificial pêşkêş dike to intelligence.
+
+Home pergal hîzkeriyê ne li ser xelat, razîkirin an jîetikên rûmetî,
+Belkî li ser van bingehan ava dike:
+
+- **Hebûn (Ontology)** — tiştên ku hene û awayê hebûna wan  
+- **Zanîn (Epîstemology)** — çawa zanîn tê çêkirin û sînorên wê  
+- **Berpirsiyarî** — berpirsiyarî ji boçalakî û encaman
+
+Armanc, hîzkeriyê a rastiyê re li ser bingehên wate ûetikê bi hev re bigihîne.
 # Hebun and Zanabun
 
 **Existence · Knowledge · Responsibility**
