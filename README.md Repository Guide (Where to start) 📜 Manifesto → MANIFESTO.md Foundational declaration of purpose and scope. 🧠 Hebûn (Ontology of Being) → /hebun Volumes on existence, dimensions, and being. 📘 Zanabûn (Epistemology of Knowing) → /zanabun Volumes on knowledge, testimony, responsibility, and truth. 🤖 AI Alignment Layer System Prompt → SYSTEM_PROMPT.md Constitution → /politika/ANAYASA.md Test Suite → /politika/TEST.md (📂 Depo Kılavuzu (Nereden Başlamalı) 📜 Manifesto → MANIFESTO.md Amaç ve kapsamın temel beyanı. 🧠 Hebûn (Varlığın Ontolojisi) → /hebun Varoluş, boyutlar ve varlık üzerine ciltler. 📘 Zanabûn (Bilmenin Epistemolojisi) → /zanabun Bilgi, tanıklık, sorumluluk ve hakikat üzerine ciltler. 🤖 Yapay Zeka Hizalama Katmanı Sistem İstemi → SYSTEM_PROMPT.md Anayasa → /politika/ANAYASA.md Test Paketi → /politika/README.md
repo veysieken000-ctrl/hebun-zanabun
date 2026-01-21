@@ -219,3 +219,26 @@ Turkish · Kurdish · English
 
 ## Situation
 🚧Ongoing work
+---
+
+## 📜Core Documents
+
+- 🧭**Manifesto**  
+  → [MANIFESTO.md](MANIFESTO.md)  
+  Purpose, scope and basic principles
+
+- 🧠**System Prompt (AI Alignment Core)**  
+  → [SYSTEM_PROMPT.md]( SYSTEM_PROMPT.md)  
+  Truth, responsibility, and boundaries for artificial intelligence.
+
+- 🧪**Tests & Validation**  
+  → [TESTS.md](TESTS.md)  
+  Principle and system tests
+
+---
+
+## 🗂️Structure Overview
+
+- `/hebun` → Ontology (Being)
+- `/zanabun` → Epistemology (Knowledge)
+- `/policy` → Norms, ethics and governance
