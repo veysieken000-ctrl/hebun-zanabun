@@ -352,6 +352,7 @@ This warehouse:
 **Hebûn & Zanabûn** is a truth-first philosophical and systemic framework
 centered on **existence (ontology)**, **knowledge (epistemology)**, and
 **responsibility (ethics)** — designed for both humans and artificial intelligence systems.
+
 - ❌it is not a religion  
 - ❌it is not an ideology  
 - ❌it is not a political program  
