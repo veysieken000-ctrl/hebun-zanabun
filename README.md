@@ -1,4 +1,5 @@
-# hebun-zanabun
+Hebûn & Zanabûn — Ontology, Knowledge, Responsibility
+Truth-first frameworks for humans & AI.# hebun-zanabun
 # Hebûn & Zanabûn
 
 This repository contains the foundational texts of **Hebûn** (Being) and **Zanabûn** (Knowing).
