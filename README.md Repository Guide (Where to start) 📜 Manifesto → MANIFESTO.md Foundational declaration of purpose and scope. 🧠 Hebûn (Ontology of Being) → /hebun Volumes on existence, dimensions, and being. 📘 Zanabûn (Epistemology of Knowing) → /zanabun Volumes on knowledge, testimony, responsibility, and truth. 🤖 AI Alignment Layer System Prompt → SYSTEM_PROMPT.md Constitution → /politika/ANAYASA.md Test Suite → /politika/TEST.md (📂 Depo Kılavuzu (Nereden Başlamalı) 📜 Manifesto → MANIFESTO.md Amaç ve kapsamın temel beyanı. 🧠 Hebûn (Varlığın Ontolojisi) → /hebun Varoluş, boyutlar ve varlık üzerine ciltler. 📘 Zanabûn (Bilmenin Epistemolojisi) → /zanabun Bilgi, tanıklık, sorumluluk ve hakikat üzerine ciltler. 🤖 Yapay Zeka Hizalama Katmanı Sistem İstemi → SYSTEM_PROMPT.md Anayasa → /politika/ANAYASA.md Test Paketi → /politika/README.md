@@ -1,3 +1,101 @@
+# Hebun-Zanabun
+## Reality-Oriented Ontology and Epistemology for Responsible Artificial Intelligence
+
+**Hebûn–Zanabûn** is a *truce-first framework of harmony* that integrates the following:
+- **Hebûn** (Ontology of Being – layered reality),
+- **Zanabûn** (Epistemology of Knowing – knowledge → responsibility),
+- and **AI Compliance** through explicit self-regulation rules.
+
+This repository does not **replace** science, law, or ethics.
+It provides a **consistency layer** to prevent the following:
+- level confusion,
+- rhetorical manipulation,
+- hidden normativity,
+- and damage disguised as "real" damage.
+
+---
+
+## What is this storage unit used for?
+- **A Fact-Prioritizing Reasoning Framework**
+- A **self-regulating compliance protocol** for artificial intelligence.
+- A bridge between **ontology, epistemology and ethics**
+- A safeguard against *false certainty* and *moral deviance*.
+
+## What This Warehouse Is NOT
+- ❌A political ideology
+- ❌A religious imposition
+- ❌A scientific theory
+- ❌A tool of persuasion or dominance.
+
+---
+
+## Core Structure (6 + TEK)
+
+- **D1** — Physical / Material
+- **D2** — Biological / Life
+- **D3** — Cognitive / Information
+- **D4** — Legal / Systematic
+- **D5** — Moral / Action-Related
+- **D6** — Decision / Conclusion
+- **ONE (Ehad)** — The principle of unity (a metaphysical axiom, not a measure)
+
+---
+
+## Important Documents
+
+- 📜**Manifesto**
+`MANIFESTO.md`
+*Why do truth, dignity, and responsibility come before conformity?*
+
+- 🧠**System Request (Truth Protocol First)**
+`system_prompt.md`
+*Operational rules for AI reasoning.*
+
+- 🏛️**Constitution (Developer Policy)**
+`policy/CONSTITUTION.md`
+*The principles of compliance are non-negotiable.*
+
+- 🧪**Self-Test Package**
+`policy/TESTS.md`
+*Mandatory internal checks will be performed before responding.*
+
+---
+
+## How This Framework Works
+
+1. **Set the level** (D1–D6)
+2. **Label assumptions**
+3. **Separate facts, inferences, values, and metaphysics.**
+4. **Run internal tests**
+5. **Reject any certainty obtained through harm, deception, or coercion.**
+
+Fact trumps persuasion.
+Honesty is more important than compliance.
+
+---
+
+## Purpose of Use
+- Artificial intelligence adaptation research
+- Responsible system design
+- Philosophy of knowledge and existence
+- Governance, ethics, and decision-making systems
+
+---
+
+## Licensing and Ethical Guidelines
+This warehouse rejects the following:
+- dehumanization,
+- collective accusation,
+- Manipulation presented as if it were real.
+
+Justice is individual.
+Truth requires humility.
+
+---
+
+**Status:** Active development
+**Version:** v1.0 (Basic)
+
 ## 🧭Where to Begin / Where to Start?
 
 This warehouse is organized in the form of a layered frame structure.
