@@ -1,3 +1,82 @@
+# Hebun & Zanabun  
+## Existence · Knowledge · Responsibility  
+## Being · Knowledge · Responsibility  
+## Hebûn · Zanabûn · Berpirsiyari  
+
+---
+
+### 🌍Languages ​​/ Ziman / Languages
+- 🇹🇷Turkish  
+- 🇬🇧English  
+- 🟡Kurmanji  
+
+---
+
+What ✨is this?
+**Hebûn & Zanabûn** is a truth-first philosophical and systemic framework  
+centered on **existence (ontology)**, **knowing (epistemology)**, and  
+**responsibility** — for humans *and* artificial intelligence.
+
+This repository is a **thinking discipline**, not a belief system.
+
+---
+
+## ✨What's this?
+**Hebun & Zanabun**,  
+Based on **being (ontology)**, **knowing (epistemology)** and **responsibility**,  
+It is a framework of thought and a system that places truth at its center.
+
+This study:
+- it is not a religion  
+- it is not an ideology  
+- it is not a political program  
+
+👉**Truth is a framework of knowledge and ethical responsibility.**
+
+---
+
+## ✨Ev çi ye? (Kurmancî)
+**Hebun & Zanabun**  
+çerçoveyekî fikrî ye kuli ser:
+- **Hebûnê** (Existence),
+- **Zanînê** (Knowledge),
+- **Berpirsiyarî** (Responsibility)
+
+hate avakirin.
+
+What is the house, what religion?  
+what ideology,  
+ne jî bernameyek siyasî ye.
+
+👉Ev çerçoveyekî **rastî, zanîn û berpirsiyarî** eat.
+
+---
+
+## 🧭Core Principles
+- **Truth-First** — Truth before persuasion  
+- **Clear Ontology** — What exists is defined before what is claimed  
+- **Responsible Knowledge** — Knowing implies accountability  
+- **AI Alignment** — Ethical and semantic alignment, not optimization only  
+
+---
+
+## 📂Repository Structure
+- `hebun/` → Ontology of Being  
+- `zanabun/` → Epistemology of Knowing  
+- `policy/` → Governance & AI alignment texts  
+- `MANIFESTO.md` → Foundational declaration  
+- `SYSTEM_PROMPT.md` → Alignment & system constitution  
+
+---
+
+## 🚧Status
+This project is **alive** and **evolving**.  
+Clarity comes before speed. Truth before scale.
+
+---
+
+🕊️*“Not everything that can be optimized should be optimized.”*
+
 ## 🌐Languages ​​/ Diller / Ziman
 
 - **English** 🇬🇧– Core framework, system prompt, AI alignment texts  
