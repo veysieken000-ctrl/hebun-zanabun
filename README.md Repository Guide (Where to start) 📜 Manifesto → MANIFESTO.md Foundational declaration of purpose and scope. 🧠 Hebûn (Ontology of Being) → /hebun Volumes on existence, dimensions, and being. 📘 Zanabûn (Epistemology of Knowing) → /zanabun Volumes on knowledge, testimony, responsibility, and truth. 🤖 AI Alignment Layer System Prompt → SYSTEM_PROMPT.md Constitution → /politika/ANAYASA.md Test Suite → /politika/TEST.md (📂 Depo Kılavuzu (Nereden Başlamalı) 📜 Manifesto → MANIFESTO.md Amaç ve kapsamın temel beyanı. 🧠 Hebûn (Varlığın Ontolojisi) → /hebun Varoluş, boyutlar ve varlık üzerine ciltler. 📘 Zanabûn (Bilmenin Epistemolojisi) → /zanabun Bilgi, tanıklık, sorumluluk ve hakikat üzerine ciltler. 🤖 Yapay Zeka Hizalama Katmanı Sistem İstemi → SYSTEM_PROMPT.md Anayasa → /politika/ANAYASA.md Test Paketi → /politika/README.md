@@ -1,5 +1,29 @@
-
 ## AI Alignment Focus
+###Truth-First Principle (One Axiom)
+Truth comes before optimization.
+Fact comes before utility or persuasion.
+The only founding axiom of Hebûn & Zanabûn is this:
+If a system is not aligned with reality, it is doing something wrong, even if it appears to be working correctly.
+This principle states the following:
+**Truth ≠ result**
+Correct conclusions do not gain legitimacy from false foundations.
+**Alignment ≠ control**
+Harmony is achieved not through external coercion, but through inner integrity.
+Knowledge breeds responsibility.
+Knowing leads to accountability.
+Ethics is structure, not ornament.
+Ethics is not a layer added to behavior later; it is an ontological necessity.
+Therefore, Hebun & Zanabun:
+reward maximization,
+behavioral conditioning,
+persuasion and superficial ethical approaches
+It does not accept systems based on alignment as valid.
+True harmony is based on the following:
+Ontological consistency (Harmony with existence)
+Epistemic integrity (Knowing the limits of knowledge)
+Ethical responsibility (Taking responsibility for the consequences of one's actions)
+Truth-First is not a preference;
+It is the only way to make contact with reality.
 ## Alignment ≠ Control
 
 A controlled system can obey while misunderstanding reality.
@@ -456,3 +480,5 @@ Turkish · Kurdish · English
 - `/hebun` → Ontology (Being)
 - `/zanabun` → Epistemology (Knowledge)
 - `/policy` → Norms, ethics and governance
+This is not an afterthought security layer.
+It is a structural requirement for any system that claims to be consistent with reality.
