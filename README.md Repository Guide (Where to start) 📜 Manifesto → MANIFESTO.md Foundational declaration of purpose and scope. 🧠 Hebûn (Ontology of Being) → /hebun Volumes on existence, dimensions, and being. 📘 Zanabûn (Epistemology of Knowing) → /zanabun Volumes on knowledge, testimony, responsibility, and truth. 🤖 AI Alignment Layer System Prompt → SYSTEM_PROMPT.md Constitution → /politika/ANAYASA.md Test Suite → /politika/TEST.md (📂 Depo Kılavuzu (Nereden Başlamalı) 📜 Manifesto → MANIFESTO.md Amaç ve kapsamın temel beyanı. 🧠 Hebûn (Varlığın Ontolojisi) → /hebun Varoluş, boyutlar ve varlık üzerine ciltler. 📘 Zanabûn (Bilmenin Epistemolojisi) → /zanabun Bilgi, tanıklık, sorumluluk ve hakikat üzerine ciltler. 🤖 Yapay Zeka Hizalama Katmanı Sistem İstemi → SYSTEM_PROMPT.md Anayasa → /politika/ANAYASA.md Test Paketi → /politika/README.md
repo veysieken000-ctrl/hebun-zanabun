@@ -1,5 +1,5 @@
 # Hebun & Zanabun  
-  
+## Being . Knowledge . Responsibility 
 ## Being · Knowledge · Responsibility  
 ## Hebûn · Zanabûn · Berpirsiyari  
 
