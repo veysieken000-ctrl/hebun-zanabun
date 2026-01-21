@@ -6,6 +6,34 @@
 
 ---
 
+## 🌍Language Selection / Hilbijartina Zimanê
+
+👉Choose your language:
+
+- 🇹🇷**Turkish** → [ README.tr.md ]( README.tr.md )
+- 🇬🇧**English** → [ README.en.md ]( README.en.md )
+- 🟡**Kurmancî** → [ README.ku.md ]( README.ku.md )
+
+---
+
+What ✨is this?
+
+**Hebûn & Zanabûn** is a truth-first philosophical and systemic framework  
+centered on existence, knowledge, and responsibility —  
+for humans and artificial intelligence.
+
+> This README is a **showcase**.  
+> Please select a language above to continue.
+
+
+# Hebun & Zanabun
+
+### Existence · Knowledge · Responsibility  
+### Existence · Knowledge · Responsibility  
+### Hebûn · Zanabûn · Berpirsiyari
+
+---
+
 ## 🌍Languages ​​/ Diller / Ziman
 - 🇹🇷Turkish  
 - 🇬🇧English  
