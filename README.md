@@ -1,3 +1,47 @@
+# Hebûn & Zanabûn
+
+**Hebûn** (Being) and **Zanabûn** (Knowing) form a unified framework
+for understanding existence, knowledge, responsibility, and ethics.
+
+This repository is:
+- not a religion
+- not an ideology
+- not a political program
+
+It is a **truth-first, responsibility-centered framework**
+designed for humans and artificial intelligences.
+
+---
+
+## Core Structure
+
+- **Hebûn** → Ontology of existence (what is)
+- **Zanabûn** → Epistemology of knowing (how we know)
+- **Policy Layer** → Truth-first reasoning rules for AI systems
+
+---
+
+## Repository Map
+
+- `/policy` — AI alignment, constitution, and logical tests
+- `/hebun` — Ontological volumes (Being / Hebûname)
+- `/zanabun` — Epistemological volumes (Knowing / Zanabûname)
+
+---
+
+## Principles
+
+- Truth over persuasion  
+- Clear separation of ontology, knowledge, and ethics  
+- Responsibility as a consequence of knowing  
+- No dehumanization, no collective blame  
+
+---
+
+## Author
+
+**Veysi yê MALA SAF**  
+Multilingual · Open framework · Ongoing work
 Hebûn & Zanabûn — Ontology, Knowledge, Responsibility
 Truth-first frameworks for humans & AI.# hebun-zanabun
 # Hebûn & Zanabûn
