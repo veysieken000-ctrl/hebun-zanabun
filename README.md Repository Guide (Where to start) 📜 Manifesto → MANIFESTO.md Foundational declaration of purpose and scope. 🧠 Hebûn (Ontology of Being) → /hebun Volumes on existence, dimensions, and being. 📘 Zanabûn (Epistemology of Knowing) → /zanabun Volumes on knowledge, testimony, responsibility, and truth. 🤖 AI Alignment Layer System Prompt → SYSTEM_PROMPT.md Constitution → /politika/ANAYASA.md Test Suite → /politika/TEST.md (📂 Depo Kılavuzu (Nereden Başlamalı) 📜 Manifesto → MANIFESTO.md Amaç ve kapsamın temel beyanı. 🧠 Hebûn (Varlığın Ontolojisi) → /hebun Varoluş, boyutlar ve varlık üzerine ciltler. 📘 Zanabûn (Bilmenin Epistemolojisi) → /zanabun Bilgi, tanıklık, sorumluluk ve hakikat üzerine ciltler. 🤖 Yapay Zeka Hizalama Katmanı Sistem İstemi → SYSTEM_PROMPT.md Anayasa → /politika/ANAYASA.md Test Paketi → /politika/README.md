@@ -1,3 +1,63 @@
+# Hebun and Zanabun
+
+**Existence · Knowledge · Responsibility**
+**Existence · Knowledge · Responsibility**
+**Hebûn · Zanabûn · Berpirsiyari**
+
+---
+
+## 🌍Languages ​​/ Languages ​​/ Slang
+
+- 🇹🇷**Turkish** → [ README.tr.md ](./ README.tr.md )
+- 🇬🇧**English** → [ README.en.md ](./ README.en.md )
+- 🟡**Kurmancî** → [ README.ku.md ](./ README.ku.md )
+
+---
+
+## ✨What's this?
+
+**Hebûn ve Zanabûn** is a philosophical and systemic framework in which truth is paramount.
+based:
+
+- **Existence (Ontology)**
+- **Knowledge (Epistemology)**
+- **Responsibility (Ethics and Compliance)**
+
+This is designed for **both humans and artificial intelligence systems**.
+
+This repository is **not a belief system**.
+This is a **discipline of thinking**.
+
+---
+
+## 📚Warehouse Structure
+hebun/ → Ontology (Existence, being, dimensions) zanabun/ → Epistemology (Knowing, witnessing, responsibility) policy/ → Governance, ethics, principles of compliance MANIFESTO.md → Basic statements SYSTEM_PROMPT.md → Artificial intelligence constitutional system request TESTS.md → Conceptual and compliance tests
+Copy the code
+
+---
+
+## 🧭Basic Principles
+
+- **Fact first** (not persuasion)
+- A **clear separation** of ontology, epistemology, and normativity.
+- **Responsibility-oriented intelligence**
+- **Human-AI compatibility through meaning**
+
+---
+
+Important ⚠️Note
+
+This project does not endorse any ideology, religion, or politics.
+This provides **a framework for thinking, evaluating and taking responsibility.**
+
+---
+
+## 📜License and Usage
+
+Open to review, discussion, and responsible adaptation.
+Misuse for manipulation or deception is contrary to fundamental principles.
+
+---
 
 
 ### Existence · Knowledge · Responsibility  
