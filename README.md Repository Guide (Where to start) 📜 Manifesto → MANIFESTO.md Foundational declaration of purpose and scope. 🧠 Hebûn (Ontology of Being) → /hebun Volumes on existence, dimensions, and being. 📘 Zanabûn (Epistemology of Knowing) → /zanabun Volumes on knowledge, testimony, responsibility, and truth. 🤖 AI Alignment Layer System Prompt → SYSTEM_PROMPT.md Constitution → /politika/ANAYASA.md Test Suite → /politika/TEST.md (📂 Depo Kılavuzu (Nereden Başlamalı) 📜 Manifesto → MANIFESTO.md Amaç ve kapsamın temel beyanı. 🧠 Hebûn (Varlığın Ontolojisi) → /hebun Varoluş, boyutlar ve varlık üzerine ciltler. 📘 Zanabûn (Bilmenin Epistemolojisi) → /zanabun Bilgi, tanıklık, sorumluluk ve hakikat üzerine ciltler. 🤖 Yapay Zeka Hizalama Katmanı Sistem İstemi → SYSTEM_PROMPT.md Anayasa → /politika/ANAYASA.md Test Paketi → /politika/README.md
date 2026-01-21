@@ -1,3 +1,55 @@
+
+
+### Existence · Knowledge · Responsibility  
+### Existence · Knowledge · Responsibility  
+### Hebûn · Zanabûn · Berpirsiyari
+
+---
+
+## 🌍Languages ​​/ Ziman
+- 🇹🇷Turkish → ` README.tr.md`
+- 🇬🇧English → ` README.en.md `
+- 🟡Kurmancî → ` README.ku.md `
+
+---
+
+## ✨What's this?
+**Hebûn & Zanabûn** is built upon the foundations of being (**ontology**), knowing (**epistemology**), and responsibility.  
+It is a philosophical and systemic framework of thought that **places truth at its center**.
+
+This warehouse:
+- ❌it is not a religion  
+- ❌it is not an ideology  
+- ❌it is not a political program  
+
+✔️It is **a discipline of thought**.  
+✔️This applies to **humans and artificial intelligence**.
+
+---
+
+## 🧩Structure
+- **Hebûn** → The ontology of existence (becoming, dimensions, reality)
+- **Zanabûn** → The epistemology of knowing (testimony, knowledge, responsibility)
+- **Politics** → Ethics, boundaries and governance
+- **Manifesto** → Founding text
+- **System Prompt** → AI alignment constitution
+- **Tests** → Consistency and principle tests
+
+---
+
+## 📌Fundamental Principle
+**Truth trumps persuasion.**  
+> **Knowledge breeds responsibility.**
+
+---
+
+Where 🚪to begin?
+1. `MANIFESTO.md`
+2. `SYSTEM_PROMPT.md`
+3. `hebun/`
+4. `zanabun/`
+5. `policy/`
+
 # Hebûn — Ontology (Being)
 
 Hebûn deals with the layered structure of existence, becoming, and the dimensions of reality.
