@@ -1,9 +1,10 @@
 # Hebun & Zanabun
 
+## Existence · Knowledge · Responsibility
 
-### Existence . Knowledge . Responsibility 
-##  Varlık . Bilgi . Sorumluluk
+### Existence · Knowledge · Responsibility  
 ### Hebûn · Zanabûn · Berpirsiyari
+
 ### 🌍 Languages /Diller / Ziman
 
 - 🇹🇷Turkish
