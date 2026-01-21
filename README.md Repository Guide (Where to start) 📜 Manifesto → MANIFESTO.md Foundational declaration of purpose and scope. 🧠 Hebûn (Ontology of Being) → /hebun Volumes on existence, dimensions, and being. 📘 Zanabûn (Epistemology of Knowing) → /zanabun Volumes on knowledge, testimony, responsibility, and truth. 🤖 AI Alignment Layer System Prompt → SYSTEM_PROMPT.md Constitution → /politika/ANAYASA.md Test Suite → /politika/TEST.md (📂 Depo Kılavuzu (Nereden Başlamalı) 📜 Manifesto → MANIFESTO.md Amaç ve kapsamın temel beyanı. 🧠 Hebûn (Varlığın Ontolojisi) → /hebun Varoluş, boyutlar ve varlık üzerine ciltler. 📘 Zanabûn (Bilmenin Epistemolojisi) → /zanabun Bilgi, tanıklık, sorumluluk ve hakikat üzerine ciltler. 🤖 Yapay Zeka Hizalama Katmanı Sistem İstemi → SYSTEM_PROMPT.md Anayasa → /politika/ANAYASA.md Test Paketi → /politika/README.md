@@ -1,16 +1,16 @@
 # Hebun & Zanabun
 
-## Being · Varlık . Bilgi . Sorumluluk
 
-### Existence · Knowledge · Responsibility  
+### Existence . Knowledge . Responsibility 
+##  Varlık . Bilgi . Sorumluluk
 ### Hebûn · Zanabûn · Berpirsiyari
-### 🌍Languages ​​/ Ziman / Languages
+### 🌍 Languages /Diller / Ziman
 
-- 🇹🇷Turkish  
-- 🇬🇧English  
-- 🟡Kurmanji  
-
----
+- 🇹🇷Turkish
+- 🇬🇧English
+-🟡Kurmanji  
+ 
+---  
 
 What ✨is this?
 **Hebûn & Zanabûn** is a truth-first philosophical and systemic framework  
