@@ -175,7 +175,21 @@ Armanc, hîzkeriyê a rastiyê re li ser bingehên wate ûetikê bi hev re bigih
 ---
 
 ## ✨What's this?
+## AI Alignment Focus
 
+### First, the Principle of Truth (The Only Axiom)
+Truth comes before optimization.
+Truth comes before utility or persuasion.
+
+### Alignment ≠ Control
+Alignment does not mean control.
+Control forces behavior from the outside.
+Harmony arises from **internal consistency with reality**.
+Alignment is coherence with what is.
+A controlled system can obey even when it misunderstands the truth.
+A coherent system understands why an action is right or wrong.
+
+**True harmony cannot be forced. It must be based on reality.**
 **Hebûn ve Zanabûn** is a philosophical and systemic framework in which truth is paramount.
 based:
 
