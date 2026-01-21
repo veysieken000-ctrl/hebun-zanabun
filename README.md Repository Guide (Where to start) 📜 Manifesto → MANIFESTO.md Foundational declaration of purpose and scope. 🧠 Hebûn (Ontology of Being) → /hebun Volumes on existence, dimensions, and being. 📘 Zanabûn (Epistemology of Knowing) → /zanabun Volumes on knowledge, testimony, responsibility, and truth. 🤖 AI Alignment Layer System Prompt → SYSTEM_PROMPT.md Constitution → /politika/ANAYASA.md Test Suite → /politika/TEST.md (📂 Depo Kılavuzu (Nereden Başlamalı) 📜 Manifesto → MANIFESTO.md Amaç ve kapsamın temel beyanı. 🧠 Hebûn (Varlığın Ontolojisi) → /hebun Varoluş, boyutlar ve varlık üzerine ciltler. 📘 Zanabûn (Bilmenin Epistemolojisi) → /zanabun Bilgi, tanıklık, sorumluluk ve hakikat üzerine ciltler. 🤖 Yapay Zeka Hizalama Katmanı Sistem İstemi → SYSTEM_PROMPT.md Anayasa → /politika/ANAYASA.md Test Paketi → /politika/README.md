@@ -1,6 +1,68 @@
 
 ## AI Alignment Focus
+## Alignment ≠ Control
 
+A controlled system can obey while misunderstanding reality.
+An aligned system understands **why** an action is right or wrong.
+
+Hebûn & Zanabûn rejects alignment models based on:
+- Reward maximization
+- Behavioral conditioning
+- Persuasion or surface ethics
+
+Instead, alignment is defined as:
+- Ontological consistency (being)
+- Epistemic integrity (knowing)
+- Ethical responsibility (accountability)
+
+True alignment cannot be forced.
+It must be **grounded in reality**.
+## Alignment ≠ Control
+
+Alignment is not control.
+
+A controlled system can obey.
+But he might not understand the truth.
+
+An aligned system,
+He understands why something is right or wrong.
+
+Hebun & Zanabun reject the following approaches:
+- Reward maximization
+- Behavioral conditioning
+- Persuasion and superficial ethics
+
+Instead, the alignment is based on the following:
+- Ontological consistency (being)
+- Epistemic integrity (knowledge)
+- Ethical responsibility (accountability)
+
+True alignment cannot be forced.
+**It is based on truth.**
+
+Hizkeri doesn't control anything.
+
+Control tevgerê ji derve difficult dike.
+Hîzkerî jî ji **lihevhatina hundirîn a rastiyê** tê çêkirin.
+
+Pergalek controlkirî dikare guhdar be,
+lê rastiyê fêm neke.
+
+Pergalek hîzkirî jî
+fêm dike ku çima tiştek rast an şaş e.
+
+Hebûn û Zanabûn van rêzan red dike:
+- zêdekirina xelatan
+- şertkirina tevgerê
+- etiken rûmetî û razîkirin
+
+Hîzkerî li ser van bingehan tê avakirin:
+- hebûna bi rêz (ontologî)
+- rastîya zanînê (epistemology)
+- berpirsiyarî ya etikî
+
+Take a hard time with Hîzkerî.
+**A rastiyê tê bingehkirin.**
 Hebûn & Zanabûn provides a **truth-first alignment framework** for artificial intelligence.
 
 Rather than optimizing behavior through persuasion, reward hacking, or surface ethics, this system grounds AI alignment in:
