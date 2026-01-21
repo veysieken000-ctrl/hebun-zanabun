@@ -1,3 +1,24 @@
+# Zanabûn — Epistemology (Knowledge)
+
+Zanabun explores the nature of knowing, the limits of witnessing, and
+addressing the relationship between knowledge and responsibility
+It is an epistemological framework.
+
+This section focuses on the following questions:
+- What is knowing?
+- When does testimony turn into information?
+- Does knowledge create responsibility?
+- How do humans and artificial intelligence transmit information?
+
+Zanabun acknowledges that knowledge is **an obligation, not a power**.
+
+## Fundamental Principles
+- Knowledge begins with testimony.
+- Testimony requires truthfulness.
+- Honesty breeds responsibility.
+
+Zanabun is not a system of opinion, but a **discipline of knowledge**.
+
 # Zanabûn
 
 Zanabûn refers to knowing, witnessing, and understanding.
