@@ -5,9 +5,33 @@
 - **Kurmanji (Kurdish)** 🟢– Conceptual texts and translations
 ## 🌐Languages ​​/ Diller / Ziman
 
-- **English** 🇬🇧– Core framework, system prompt, AI alignment texts  
-- **Turkish** 🇹🇷– Explanations, manifesto, guide texts  
-- **Kurmanji (Kurdish)** 🟢– Conceptual texts and translations
+# Hebun & Zanabun
+
+### 🇬🇧English
+**A truth-first framework for being (ontology), knowing (epistemology), and responsibility — for humans and artificial intelligence.**
+
+### 🇹🇷Turkish
+**A framework of ontology and epistemology that prioritizes truth, focusing on existence (Hebûn), knowledge (Zanabûn), and responsibility.**
+
+### 🇹🇯Kurmanji
+**Hebûn (hebûna varî), Zanabûn (zanîna rastî) û berpirsiyarî — çarçoveyek li ser rastiyê, ji bo mirovan û zîhniyeta çêkirî.**
+
+---
+
+🔹**This warehouse is NOT:**
+- It is not a religion  
+- It is not an ideology.  
+- It is not a political program.  
+
+🔹**What is this warehouse?**
+- A discipline of thinking that prioritizes truth.  
+- A system that distinguishes between ontology, epistemology, and ethics.  
+- A responsibility-based framework for humans and artificial intelligence.  
+
+➡️To get started: **MANIFESTO.md**  
+➡️System logic: **SYSTEM_PROMPT.md**  
+➡️Structural tests: **policy/TEST.md**
+
 
 # Hebun and Zanabun
 **A Truth-Prior Framework for Being (Ontology), Knowledge (Epistemology), and Responsibility**
