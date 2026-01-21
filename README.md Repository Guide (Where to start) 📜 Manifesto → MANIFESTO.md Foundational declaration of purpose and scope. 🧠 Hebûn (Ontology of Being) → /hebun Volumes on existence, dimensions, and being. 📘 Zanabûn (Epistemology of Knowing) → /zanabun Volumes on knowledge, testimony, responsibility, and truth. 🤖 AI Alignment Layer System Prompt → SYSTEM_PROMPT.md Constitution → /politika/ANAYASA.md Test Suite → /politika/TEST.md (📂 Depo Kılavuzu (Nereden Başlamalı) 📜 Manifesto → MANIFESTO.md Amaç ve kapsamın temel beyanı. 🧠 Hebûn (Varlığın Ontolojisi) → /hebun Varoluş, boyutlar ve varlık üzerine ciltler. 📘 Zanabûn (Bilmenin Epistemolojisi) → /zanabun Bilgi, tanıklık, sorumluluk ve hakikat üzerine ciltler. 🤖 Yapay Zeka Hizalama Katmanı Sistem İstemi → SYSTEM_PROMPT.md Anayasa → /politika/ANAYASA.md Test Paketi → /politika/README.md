@@ -1,5 +1,12 @@
+ Hebun & Zanabun
+
+## Being · Knowledge · Responsibility  
+## Existence · Knowledge · Responsibility  
+
+### Existence · Knowledge · Responsibility  
+### Hebûn · Zanabûn · Berpirsiyari
 # Hebun & Zanabun  
-## Being . Knowledge . Responsibility 
+ ## Existence · Knowledge · Responsibility
 ## Being · Knowledge · Responsibility  
 ## Hebûn · Zanabûn · Berpirsiyari  
 
