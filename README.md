@@ -142,3 +142,16 @@ Hebûn & Zanabûn proposes that:
 
 > This is not a system of control.  
 > It is a **call to responsibility**.
+# Hebûn — Ontology of Existence
+
+This directory contains the Hebûname corpus, which focuses on the ontology of existence.
+
+Hebûn examines:
+- The structure of being
+- Dimensional existence (D1–D6)
+- The 6 + ONE (Ehad) model
+- Being not as a single object, but as a layered reality
+
+This section forms the ontological core of the Hebûn & Zanabûn framework.
+
+Status: Sealed and versioned.
