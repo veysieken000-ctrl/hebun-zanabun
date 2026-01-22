@@ -639,3 +639,12 @@ Turkish · Kurdish · English
 - `/policy` → Norms, ethics and governance
 This is not an afterthought security layer.
 It is a structural requirement for any system that claims to be consistent with reality.
+
+---
+
+## Original Articles (TR) — Locked Archive
+
+Bu depodaki orijinal Türkçe makaleler, yazarın ilk elden üretimleridir.  
+Metinler **değiştirilmeden**, **yeniden yazılmadan** ve **yapısal müdahale olmadan** korunur.
+
+📁 Arsiv: [makaleler/](./makaleler)
