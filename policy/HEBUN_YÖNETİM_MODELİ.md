@@ -1,5 +1,7 @@
-# Varlık Yönetim Modeli
-
+# HEBUN Yönetim Modeli
+> Not: Bu metin daha önce “Varlık Yönetim Modeli” adıyla anılmıştır.
+> Kavramsal netlik için adı “Hebûn Yönetim Modeli” olarak
+> sabitlenmiştir. İçerikte herhangi bir değişiklik yoktur.
 Bu metin bir yönetim sistemi tasarlamaz.
 Varlığın zaten işleyen düzenini, evrelerini ve zorunlu geçişlerini tanımlar.
 
@@ -101,8 +103,8 @@ birlikte çalışır ve zihnin **birinci evresi** oluşur.
 
 Bu geçişle birlikte:
 - **4. boyut** açılır
-- Bireyde **ruh**, zihinsel yapının birinci evresi olur
-- Doğada **meleklerle** ikinci evreye geçilir
+- Bireyin fiziki, biyolojik ve zihnin kombinasyonunu **ruh** ile zihinsel yapının birinci evresi olur
+- Doğada fiziki, biyolojik ve tüm zihni yani beyinli (hayvan ve insan) canlıların kombinasyonu sağlayan **meleklerle** ikinci evreye geçilir
 
 Bu evre, zihinsel varlığın sınırlarını aşan bir boyuttur.
 
