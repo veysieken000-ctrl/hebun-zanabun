@@ -1,3 +1,6 @@
+## Original Articles (TR)
+Orijinal ve kilitli makaleler icin: [makaleler/](./makaleler)
+
 # Hebun-Zanabun
 > **Truth-first philosophical and systemic framework**
 >  
