@@ -669,3 +669,14 @@ Metinler **değiştirilmeden**, **yeniden yazılmadan** ve **yapısal müdahale 
 1. MANIFESTO.md — Projenin temel amacı ve ilkesi
 2. politika/ANAYASA.md — Bilgi, sorumluluk ve sistem sınırları
 3. makaleler/ — Orijinal Türkçe makaleler (kilitli arşiv)
+
+---
+
+## Project Status
+
+- Original articles are archived and locked.
+- Core philosophical framework is defined.
+- Structure is stable and open for future extensions.
+
+New content may be added without altering original texts.
+This repository is considered **structurally complete**.
