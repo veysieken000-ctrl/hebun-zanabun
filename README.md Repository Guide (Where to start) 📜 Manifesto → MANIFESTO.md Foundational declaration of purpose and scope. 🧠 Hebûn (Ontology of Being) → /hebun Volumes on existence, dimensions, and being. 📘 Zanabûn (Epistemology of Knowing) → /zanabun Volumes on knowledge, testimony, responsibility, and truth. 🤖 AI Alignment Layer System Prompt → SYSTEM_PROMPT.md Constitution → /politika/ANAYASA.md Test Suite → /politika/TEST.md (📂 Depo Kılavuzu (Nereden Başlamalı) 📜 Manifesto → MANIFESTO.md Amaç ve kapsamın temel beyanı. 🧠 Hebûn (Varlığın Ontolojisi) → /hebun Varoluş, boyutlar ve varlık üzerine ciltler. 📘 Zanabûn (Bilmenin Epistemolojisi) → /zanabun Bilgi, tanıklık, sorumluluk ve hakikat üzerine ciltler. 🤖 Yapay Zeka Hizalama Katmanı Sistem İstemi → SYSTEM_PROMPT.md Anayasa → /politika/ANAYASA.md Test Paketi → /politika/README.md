@@ -648,3 +648,9 @@ Bu depodaki orijinal Türkçe makaleler, yazarın ilk elden üretimleridir.
 Metinler **değiştirilmeden**, **yeniden yazılmadan** ve **yapısal müdahale olmadan** korunur.
 
 📁 Arsiv: [makaleler/](./makaleler)
+
+### Okuma Sırası (Önerilen)
+
+1. MANIFESTO.md — Projenin temel amacı ve ilkesi
+2. politika/ANAYASA.md — Bilgi, sorumluluk ve sistem sınırları
+3. makaleler/ — Orijinal Türkçe makaleler (kilitli arşiv)
