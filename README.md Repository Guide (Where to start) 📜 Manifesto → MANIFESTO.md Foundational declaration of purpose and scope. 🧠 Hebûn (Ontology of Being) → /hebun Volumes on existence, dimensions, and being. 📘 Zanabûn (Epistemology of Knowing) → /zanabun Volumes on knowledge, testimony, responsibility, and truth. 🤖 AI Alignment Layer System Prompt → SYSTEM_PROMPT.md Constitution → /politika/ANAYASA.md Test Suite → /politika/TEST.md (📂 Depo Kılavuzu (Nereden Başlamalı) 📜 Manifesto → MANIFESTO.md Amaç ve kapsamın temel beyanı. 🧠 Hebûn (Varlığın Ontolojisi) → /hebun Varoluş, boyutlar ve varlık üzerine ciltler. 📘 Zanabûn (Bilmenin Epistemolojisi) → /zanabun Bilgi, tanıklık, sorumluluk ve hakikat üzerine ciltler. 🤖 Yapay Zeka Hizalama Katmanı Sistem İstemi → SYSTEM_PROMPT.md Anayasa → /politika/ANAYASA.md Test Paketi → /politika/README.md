@@ -1,8 +1,11 @@
 # Hebûn–Zanabûn
----
 
-## Rasterast Yaklaşımı
+Bu depo, Rasterast bütüncül yaklaşımıyla  
+varlığın (Hebûn) ve bilginin (Zanabûn)  
+doğal işleyiş düzenini açıklar.
 
+
+## Rasterast (Bütüncül Yaklaşımı)
 Bu depo, **Rasterast** yaklaşımını esas alır.
 
 Rasterast:
@@ -14,6 +17,13 @@ Bu çerçevede depo üç ana eksen üzerine kuruludur:
 - **Hebûn** → Varlığın ontolojik düzeni  
 - **Zanabûn** → Bilginin ve tanıklığın düzeni  
 - **Mabûn** → Ekonominin ahlak ve doğa ile uyumlu işleyişi  
+
+## Hebun Yönetim Modeli
+Varlığın fizik, biyoloji, zihin ve toplumsal evreler boyunca işleyen yönetim düzeni.
+
+## Mabun Ekonomi Modeli
+Ekonominin ahlak ve doğayla uyumlu, emanet temelli işleyişi.
+
 
 ### Yönetim ve Ekonomi
 - **Hebûn Yönetim Modeli**, yönetimi güç tekniği olarak değil, varlığın evreleri üzerinden açıklar.
@@ -716,3 +726,8 @@ Metinler **değiştirilmeden**, **yeniden yazılmadan** ve **yapısal müdahale 
 
 New content may be added without altering original texts.
 This repository is considered **structurally complete**.
+### Belgeler
+
+- Hebûn Yönetim Modeli → policy/HEBUN_YONETIM_MODELI.md  
+- Mabûn Ekonomi Modeli → hebun/mabun-ekonomi.md  
+- Rasterast → politika/RASTERAST.md
