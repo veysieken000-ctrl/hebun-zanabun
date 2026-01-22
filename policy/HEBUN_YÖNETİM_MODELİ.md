@@ -8,6 +8,25 @@ Varlığın zaten işleyen düzenini, evrelerini ve zorunlu geçişlerini tanım
 Hebûn–Zanabûn çerçevesinde yönetim, insan merkezli bir kurgu değil; varlığın çok katmanlı yapısının doğal sonucudur.
 
 ---
+---
+
+## Rasterast Okumasına Göre Hebûn Yönetim Modeli
+
+Hebûn Yönetim Modeli, Rasterast okuma tarzı esas alınarak anlaşılır.
+
+Bu model:
+- Bir yönetim sistemi icat etmez,
+- Varlığın zaten işleyen çok katmanlı düzenini,
+- **zorunlu evreler** ve **geri dönülmez geçişler** üzerinden tarif eder.
+
+Rasterast burada şunu sağlar:
+- Fizik, biyoloji ve zihin boyutlarının **karıştırılmasını engeller**,
+- Toplum ve yönetim tartışmasının **doğru evrede** yapılmasını zorunlu kılar.
+
+Bu nedenle Hebûn Yönetim Modeli:
+- Güce değil **evreye** dayanır,
+- İrade dayatmaz, **zorunlulukları gösterir**,
+- İnsanı merkeze koymaz; insanı **uygulayıcı ahlaki varlık** olarak konumlandırır.
 
 ## 1. Fiziksel Boyut
 
