@@ -111,6 +111,8 @@ Truth requires humility.
 This warehouse is organized in the form of a layered frame structure.
 You can log in in different ways depending on your purpose.
 
+- **KRİTİK_TESTİLER.md** → Hebûn–Zanabûn çerçevesinin çökebileceği kritik sınama maddeleri
+
 ### 🔹Overview
 If this is your first time here:
 - To understand the overall vision and structure, start with the **README.md** file.
