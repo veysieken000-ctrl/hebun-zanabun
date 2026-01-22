@@ -1,3 +1,8 @@
+> ⚠️ Not:
+Bu makaleler değiştirilemez bir arşiv niteliğindedir.
+Bunlar yalnızca referans ve alıntı amacıyla saklanmaktadır.
+> Düzenleme, yeniden yazma veya yapısal değişikliklere izin verilmez.
+
 # Original Articles (TR) — Locked Archive
 
 This directory contains the author's original Turkish articles.
