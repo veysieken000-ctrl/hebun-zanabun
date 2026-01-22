@@ -4,6 +4,23 @@ Bu depo, Rasterast bütüncül yaklaşımıyla
 varlığın (Hebûn) ve bilginin (Zanabûn)  
 doğal işleyiş düzenini açıklar.
 
+Bu çerçevede depo üç ana eksen üzerine kuruludur:
+- **Hebûn** → Varlığın ontolojik düzeni
+- **Zanabûn** → Bilginin ve tanıklığın düzeni
+- **Mabûn** → Ekonominin ahlak ve doğa ile uyumlu işleyişi
+
+## Zanabûn (Bilgi Düzeni)
+
+Zanabûn, bilginin nasıl oluştuğunu, nasıl sınandığını ve
+nasıl anlam kazandığını açıklayan epistemolojik düzendir.
+
+Bilgi:
+- varsayım değildir,
+- kanaat değildir,
+- tanıklık, akıl ve düzen ile kurulur.
+
+Zanabûn, bilginin güce değil hakikate dayanmasını esas alır.
+
 
 ## Rasterast (Bütüncül Yaklaşımı)
 Bu depo, **Rasterast** yaklaşımını esas alır.
@@ -756,3 +773,7 @@ Yeni çalışmalar yalnızca bu yapının **altına eklenir**.
 
 ## Belgeler
 - Zanabun_ Bilgi Düzeni → zanabun/ZANABUN_BİLGİ_DÜZENİ.md
+- Hebûn Yönetim Modeli → policy/HEBUN_YONETIM_MODELI.md
+- Mabûn Ekonomi Modeli → hebun/mabun-ekonomi.md
+- Zanabûn (Bilgi Düzeni) → politika/ZANABUN_BILGI_DUZENI.md
+- Rasterast → politika/RASTERAST.md
