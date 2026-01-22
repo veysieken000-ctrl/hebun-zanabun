@@ -1,3 +1,93 @@
+MANIFESTO ENTEGRASYON METNİ
+(Hebûn–Zanabûn | v1.1 Entegrasyon)
+I. ONTOLOJİK ZORUNLULUK (GİRİŞE EKLENECEK)
+Bu çerçeve, varlığı bir aksiyom olarak değil, bir kaçınılmazlık olarak ele alır.
+Varlığın inkârı dahi, inkâr eden bir varlığı varsayar.
+Anti-realizm, bir öznenin söylemini gerektirir.
+Konstrüktivizm, inşa eden bir varlığı varsayar.
+Relativizm, göreli olan bir şeyin varlığını kabul eder.
+Bu nedenle Hebûn, “doğru olduğu için” değil,
+kaçınılamadığı için varlığı temel alır.
+Hebûn–Zanabûn yaklaşımı, ontolojik realizmi bir inanç olarak değil, düşünmenin kaçınılmaz zemini olarak kabul eder.
+II. HAKİKAT KAVRAMININ ÜÇLÜ AYRIMI (MERKEZİ DÜZELTME)
+Bu çerçevede “hakikat” tek anlamlı değildir ve bilinçli olarak üç katmanda ele alınır:
+1. Ontolojik Hakikat
+→ Varlığın olduğu gibi olması
+(Hebûn’ün alanı)
+2. Epistemik Doğruluk
+→ Bilginin gerekçeli, tutarlı ve sınanabilir olması
+(Zanabûn’ün alanı)
+3. Etik Doğruluk
+→ Bilginin sorumlulukla kullanılması
+(İnsanî yükümlülük alanı)
+Hebûn ontolojik hakikati,
+Zanabûn epistemik doğruluğu,
+etik ise bu ikisi arasındaki sorumluluğu ele alır.
+Bu ayrım korunmadan yapılan her genelleme, hakikati metafizik dogmaya dönüştürür.
+III. BİLGİ VE ETİK ARASINDAKİ NET AYRIM (ZANABÛN EKİ)
+Bilgi ile etik ihlal aynı şey değildir.
+Bu çerçeve aşağıdaki ayrımı zorunlu kabul eder:
+Durum
+Epistemik Statü
+Etik Statü
+Bilmemek
+Nötr
+Nötr
+Yanlış bilmek (iyi niyet)
+Hata
+Sınırlı sorumluluk
+Bilip çarpıtmak
+İhlal
+Etik suç
+Cehalet suç değildir.
+Hata manipülasyon değildir.
+Etik ihlal, bilginin kasıtlı çarpıtılmasıyla başlar.
+Bu ayrım yapılmadan kurulan her “ahlakî bilgi” iddiası, zorbalığa açıktır.
+IV. YAPAY ZEKÂ VE TÜREV TANIKLIK (AI BÖLÜMÜNE EK)
+Hebûn–Zanabûn çerçevesinde yapay zekâ:
+ontolojik özne değildir,
+ahlaki fail değildir,
+nihai tanık değildir.
+AI, Türev Tanıklık (Derived Witnessing) statüsündedir.
+Hiyerarşi açıktır:
+İnsan → ontolojik ve etik özne
+AI → epistemik araç
+Sorumluluk → daima insanda kalır
+Bu ayrım yapılmadan AI’ye yüklenen her ontolojik rol, hem etik hem hukuki hatadır.
+V. BİLİMSEL ANALOGİ VE METODOLOJİK SINIR (KUANTUM UYARISI)
+Kuantum fiziği bu çerçevede ontolojik kanıt olarak kullanılmaz.
+Kuantum fiziğinin işlevi:
+klasik sezgilerin zorunlu olmadığını göstermek,
+ontolojik tekilliğin bilimsel olarak dayatılmadığını hatırlatmaktır.
+Kuantum → gösterge
+Ontoloji → felsefi inşa
+Bu sınır bilinçli olarak korunur.
+VI. DİL VE ERİŞİLEBİLİRLİK KURALI (YAZIM İLKESİ)
+Her soyut iddia için zorunlu kural:
+1 somut örnek
+1 karşı-örnek
+Örnek: “Bilgi sorumluluk taşır.”
+✔ Somut örnek: Yanlış tıbbi bilginin yayılması
+✘ Karşı-örnek: Masum yanlış tahmin
+Bu kural, metni dogmadan korur.
+VII. ELEŞTİRİ VE YANLIŞLANABİLİRLİK (MANİFESTONUN SONUNA)
+Hebûn–Zanabûn savunulmak için değil, sınanmak için vardır.
+Bu çerçeve şu durumlarda revize edilir veya geçersiz sayılır:
+Tanımlar bildirimsiz biçimde kayarsa
+Ontoloji → normatif sonuç geçişi açık değer ilkesine dayanmazsa
+Evrensellik iddiası kapsam belirtmeden yapılırsa
+Sistem her şeyi “açıklıyor” ama hiçbir şeyi sınamıyorsa
+Bu amaçla eleştirel testler açıkça tanımlanır.
+🔑 OMURGA CÜMLE (MANİFESTONUN EN BAŞINA)
+Hebûn–Zanabûn,
+varlığı kaçınılmaz olduğu için kabul eden,
+bilgiyi bu varlığa sadakatle sınırlayan
+ve sorumluluğu bilinçten ayırmayan
+eleştiriye açık bir düşünce çerçevesidir.
+
+---
+## ORGİNAL MANİFESTO (V1.0)
+
 #MANIFESTO
 Hebun and Zanabun
 
