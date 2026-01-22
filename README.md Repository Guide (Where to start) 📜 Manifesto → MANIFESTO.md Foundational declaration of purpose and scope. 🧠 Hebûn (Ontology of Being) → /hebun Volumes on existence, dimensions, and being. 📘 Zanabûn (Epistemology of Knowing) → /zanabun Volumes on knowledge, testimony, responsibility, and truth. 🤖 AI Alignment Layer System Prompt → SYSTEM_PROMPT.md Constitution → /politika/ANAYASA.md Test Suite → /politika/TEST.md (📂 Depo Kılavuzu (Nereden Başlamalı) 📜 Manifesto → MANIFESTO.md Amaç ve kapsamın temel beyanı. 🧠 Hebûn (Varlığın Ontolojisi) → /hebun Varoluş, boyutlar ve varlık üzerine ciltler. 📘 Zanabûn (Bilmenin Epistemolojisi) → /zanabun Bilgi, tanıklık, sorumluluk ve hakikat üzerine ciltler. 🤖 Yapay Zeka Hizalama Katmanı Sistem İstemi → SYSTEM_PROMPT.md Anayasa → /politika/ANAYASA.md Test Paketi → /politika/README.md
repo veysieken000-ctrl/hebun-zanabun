@@ -393,6 +393,21 @@ Where 🚪to begin?
 4. `zanabun/`
 5. `policy/`
 
+## What this project is NOT
+
+This project is NOT:
+- a religion
+- an ideology
+- a political program
+- a persuasion framework
+- a behavioral control system
+
+It does not optimize obedience.
+It does not reward conformity.
+
+It prioritizes truth over comfort,
+and coherence with reality over compliance.
+
 # Hebûn — Ontology (Being)
 
 Hebûn deals with the layered structure of existence, becoming, and the dimensions of reality.
