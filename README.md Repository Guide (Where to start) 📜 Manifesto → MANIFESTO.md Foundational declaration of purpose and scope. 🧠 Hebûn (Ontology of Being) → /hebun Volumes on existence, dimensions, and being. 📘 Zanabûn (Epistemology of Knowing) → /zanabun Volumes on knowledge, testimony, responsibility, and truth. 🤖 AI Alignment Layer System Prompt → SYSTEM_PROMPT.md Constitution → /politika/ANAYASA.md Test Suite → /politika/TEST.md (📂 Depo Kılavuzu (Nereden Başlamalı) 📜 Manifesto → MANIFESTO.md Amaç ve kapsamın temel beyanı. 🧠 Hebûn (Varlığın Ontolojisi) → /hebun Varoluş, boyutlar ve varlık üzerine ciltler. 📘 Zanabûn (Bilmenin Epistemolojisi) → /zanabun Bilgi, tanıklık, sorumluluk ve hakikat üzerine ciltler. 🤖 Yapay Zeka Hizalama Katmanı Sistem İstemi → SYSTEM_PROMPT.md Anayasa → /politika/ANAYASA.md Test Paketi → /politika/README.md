@@ -372,6 +372,11 @@ centered on **existence (ontology)**, **knowledge (epistemology)**, and
 
 ---
 
+## Original Articles (TR)
+
+This repository includes a locked archive of the author's original Turkish articles.
+See: [makaleler/README.md](./makaleler/README.md)
+
 ## 📌Fundamental Principle
 **Truth trumps persuasion.**  
 > **Knowledge breeds responsibility.**
