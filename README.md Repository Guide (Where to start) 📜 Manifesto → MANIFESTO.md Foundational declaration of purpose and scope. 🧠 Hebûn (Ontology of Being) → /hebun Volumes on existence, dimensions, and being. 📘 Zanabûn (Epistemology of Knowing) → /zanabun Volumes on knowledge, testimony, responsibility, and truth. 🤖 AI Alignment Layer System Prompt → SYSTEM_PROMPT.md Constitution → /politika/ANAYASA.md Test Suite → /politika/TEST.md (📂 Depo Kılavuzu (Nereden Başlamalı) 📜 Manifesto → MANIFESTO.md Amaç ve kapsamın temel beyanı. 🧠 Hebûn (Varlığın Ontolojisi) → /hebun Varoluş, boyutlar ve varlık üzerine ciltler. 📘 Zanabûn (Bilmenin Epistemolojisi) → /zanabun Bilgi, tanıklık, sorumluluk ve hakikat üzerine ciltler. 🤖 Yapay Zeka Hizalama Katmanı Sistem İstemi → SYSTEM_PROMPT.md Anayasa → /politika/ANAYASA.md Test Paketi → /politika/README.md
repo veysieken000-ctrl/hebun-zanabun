@@ -753,3 +753,6 @@ Bu dosyalar:
 
 Yeni çalışmalar yalnızca bu yapının **altına eklenir**.
 👉 Bu metin felsefi değil, tamamen yapısal bir kilittir.
+
+## Belgeler
+- Zanabun_ Bilgi Düzeni → zanabun/ZANABUN_BİLGİ_DÜZENİ.md
