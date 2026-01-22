@@ -1,3 +1,12 @@
+# Original Articles (TR) — Locked Archive
+
+This directory contains the author's original Turkish articles.
+The texts are preserved exactly as written.
+
+No rewriting.  
+No restructuring.  
+No silent edits.
+
 # HEBUNAME & ZANABUNAME
 **Gerçeği Önceliklendiren Bir Ontoloji + Epistemoloji Çerçevesi (Yapay Zeka Uyumluluğuna Odaklı).**
 TR / EN / KU (Kurmanci) — metinler ve yapı.
