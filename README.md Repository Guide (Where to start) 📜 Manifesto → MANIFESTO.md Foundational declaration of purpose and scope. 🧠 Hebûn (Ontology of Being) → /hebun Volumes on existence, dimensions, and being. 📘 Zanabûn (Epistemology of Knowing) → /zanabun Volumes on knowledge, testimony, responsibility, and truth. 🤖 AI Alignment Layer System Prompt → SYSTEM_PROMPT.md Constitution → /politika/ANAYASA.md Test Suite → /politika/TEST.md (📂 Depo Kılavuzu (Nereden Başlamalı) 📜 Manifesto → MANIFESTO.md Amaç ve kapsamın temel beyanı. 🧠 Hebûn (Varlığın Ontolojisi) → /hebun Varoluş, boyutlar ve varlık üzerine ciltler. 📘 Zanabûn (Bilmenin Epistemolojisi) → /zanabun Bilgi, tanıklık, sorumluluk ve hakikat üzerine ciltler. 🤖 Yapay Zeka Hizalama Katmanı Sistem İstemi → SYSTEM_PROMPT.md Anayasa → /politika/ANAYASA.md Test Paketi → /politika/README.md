@@ -731,3 +731,25 @@ This repository is considered **structurally complete**.
 - Hebûn Yönetim Modeli → policy/HEBUN_YONETIM_MODELI.md  
 - Mabûn Ekonomi Modeli → hebun/mabun-ekonomi.md  
 - Rasterast → politika/RASTERAST.md
+---
+
+## Kilitli Yapı Bildirimi
+
+Bu depoda aşağıdaki isimler ve dosya yolları **kilitlidir**:
+
+- Rasterast (bütüncül yaklaşım)
+- Hebûn Yönetim Modeli
+- Mabûn Ekonomi Modeli
+
+Bu başlıklar:
+- yeniden adlandırılmaz,
+- birleştirilmez,
+- başka kavramlarla ikame edilmez.
+
+Bu dosyalar:
+- taşınmaz,
+- silinmez,
+- içerik olarak geri alınmaz.
+
+Yeni çalışmalar yalnızca bu yapının **altına eklenir**.
+👉 Bu metin felsefi değil, tamamen yapısal bir kilittir.
