@@ -1,4 +1,7 @@
 # HEBUN Yönetim Modeli
+Model Açıklaması (Tek Paragraf)
+Bu metinde geçen “model” kavramı, varlığa alternatif bir düzen önermek için değil, ahlak varlığı olan insanın yön seçebilme özgürlüğünü açıklamak için kullanılır. Hebûn düzeni, varlığın zaten işleyen, değişmez ve tek olan nizamını ifade eder; Rasterast bu nizamın doğru, doğrudan ve kurmaca olmayan okunma biçimidir. İnsan bu düzene uymayı ya da ondan kopmayı seçebilir; bu bir dayatma değil, sonuçları olan bir tercihtir. Uyum, varoluşla bütünleşmeyi; kopuş ise çözülmeyi ve yokluğa yönelişi doğurur. Bu nedenle burada sunulan şey bir ideoloji, öneri ya da icat değil; varlığın işleyişini olduğu gibi gösteren ve insanın ahlaki iradesini merkeze alan bir yön çerçevesidir.
+
 > Not: Bu metin daha önce “Varlık Yönetim Modeli” adıyla anılmıştır.
 > Kavramsal netlik için adı “Hebûn Yönetim Modeli” olarak
 > sabitlenmiştir. İçerikte herhangi bir değişiklik yoktur.
