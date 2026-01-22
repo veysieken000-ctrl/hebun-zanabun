@@ -1,4 +1,33 @@
 # Hebûn–Zanabûn
+---
+
+## Rasterast Yaklaşımı
+
+Bu depo, **Rasterast** yaklaşımını esas alır.
+
+Rasterast:
+- varlığın zaten işleyen düzenini doğru ve doğrudan okumayı amaçlar,
+- yeni bir düzen icat etmez, mevcut olanı görünür kılar,
+- ideoloji, doktrin veya kurgu değildir.
+
+Bu çerçevede depo üç ana eksen üzerine kuruludur:
+- **Hebûn** → Varlığın ontolojik düzeni  
+- **Zanabûn** → Bilginin ve tanıklığın düzeni  
+- **Mabûn** → Ekonominin ahlak ve doğa ile uyumlu işleyişi  
+
+### Yönetim ve Ekonomi
+- **Hebûn Yönetim Modeli**, yönetimi güç tekniği olarak değil, varlığın evreleri üzerinden açıklar.
+- **Mabûn Ekonomi Modeli**, ekonomiyi amaç değil, varlığın devam aracı olarak ele alır.
+- Mülkiyet emanet kabul edilir; ahlak, ekonomi ve hüküm birbirine indirgenmez.
+
+### Temel İlke
+Bu çalışmalar bir çağrı ya da dayatma değildir.  
+İnsan, ahlak varlığı olarak **tercih hakkına sahiptir**.
+
+Rasterast:
+> “Doğruyu dayatmaz, doğruyu görünür kılar.”
+
+---
 
 Bu depo, **var olan düzenin** fizik, biyoloji, zihin ve toplum boyutlarında
 nasıl işlediğini tasvir eden **bütüncül bir okuma çer
