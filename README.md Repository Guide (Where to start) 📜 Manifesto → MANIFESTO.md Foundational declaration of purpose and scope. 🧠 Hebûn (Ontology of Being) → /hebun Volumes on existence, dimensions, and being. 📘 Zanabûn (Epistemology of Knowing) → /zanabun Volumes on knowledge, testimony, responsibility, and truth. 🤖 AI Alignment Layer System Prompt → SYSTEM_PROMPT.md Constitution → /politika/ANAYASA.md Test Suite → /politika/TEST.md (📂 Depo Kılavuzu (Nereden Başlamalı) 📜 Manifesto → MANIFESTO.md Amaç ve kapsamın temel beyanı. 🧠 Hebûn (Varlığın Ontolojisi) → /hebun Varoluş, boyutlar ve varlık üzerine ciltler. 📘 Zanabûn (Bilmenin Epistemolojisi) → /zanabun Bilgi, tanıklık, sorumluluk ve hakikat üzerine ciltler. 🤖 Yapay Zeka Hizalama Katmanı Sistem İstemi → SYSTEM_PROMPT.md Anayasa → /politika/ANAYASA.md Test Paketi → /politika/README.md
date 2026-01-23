@@ -39,6 +39,9 @@ Boyut verilmez.
 Boyut yaşanır.
 Düşüş ceza değil, sonuçtur.
 
+ Şema metin:
+- Rasterast Ayrıntılı Makale → rasterast/RASTERAST_AYRINTILI_MAKALE.md
+
 # Hebûn–Zanabûn
 Bu depo, Rasterast bütüncül yaklaşımıyla  
 varlığın (Hebûn) ve bilginin (Zanabûn)  
