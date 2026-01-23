@@ -820,3 +820,4 @@ Yeni çalışmalar yalnızca bu yapının **altına eklenir**.
 - Mabûn Ekonomi Modeli → hebun/mabun-ekonomi.md
 - Zanabûn (Bilgi Düzeni) → politika/ZANABUN_BILGI_DUZENI.md
 - Rasterast → politika/RASTERAST.md
+- İnsan Manifestosu → policy/INSAN_MANIFESTOSU.md
