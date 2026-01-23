@@ -1,5 +1,45 @@
-# Hebûn–Zanabûn
+ PINNED STATEMENT — RASTERAST
+Ontolojik Sabitleme Bildirisi
+Bu depo bir fikir koleksiyonu değildir.
+Bir ideoloji değildir.
+Bir çağrı ya da propaganda değildir.
+Bu depo, varlığın zaten işleyen düzenini tarif eder.
+ÇATI
+Rasterast
+→ Doğrunun dayatılmadığı, fakat görünür kılındığı yaklaşım.
+ALT EKSENLER
+Hebûn → Varlığın ontolojik düzeni
+Zanabûn → Bilginin ve tanıklığın sorumluluğu
+Mabûn → Ekonominin ahlak ve doğa ile uyumlu işleyişi
+İNSAN KONUMU
+İnsan 5. boyut varlığıdır.
+Bu statü bir hak değil, ahlaki bir yüktür.
+Ahlak terk edilirse:
+insan 5. boyuttan düşer,
+boyutu aşamaz,
+boyuta çöker.
+Fıtratına sadık hayvan,
+ahlaksız insandan ontolojik olarak üstündür.
+YÖNETİM İLKESİ
+Hebûn Yönetim Modeli:
+hüküm,
+ahlak,
+ekonomi
+meclislerini doğanın ve fıtratın kanunlarıyla birlikte ele alır.
+Kanun kaynağı insani arzu değil, varlığın işleyişidir.
+SINIR
+Bu çerçeve:
+kimseyi ikna etmeye çalışmaz,
+kimseyi zorlamaz,
+kimseye vaatte bulunmaz.
+Bu düzen tercih edenler içindir.
+Tercih etmeyenler için garanti vermez.
+SON SABİT
+Boyut verilmez.
+Boyut yaşanır.
+Düşüş ceza değil, sonuçtur.
 
+# Hebûn–Zanabûn
 Bu depo, Rasterast bütüncül yaklaşımıyla  
 varlığın (Hebûn) ve bilginin (Zanabûn)  
 doğal işleyiş düzenini açıklar.
