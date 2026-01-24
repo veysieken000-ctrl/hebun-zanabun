@@ -1,49 +1,22 @@
-> ⚠️ Not:
-Bu makaleler değiştirilemez bir arşiv niteliğindedir.
-Bunlar yalnızca referans ve alıntı amacıyla saklanmaktadır.
-> Düzenleme, yeniden yazma veya yapısal değişikliklere izin verilmez.
+# Makaleler
 
-# Original Articles (TR) — Locked Archive
+Bu klasör, Rasterast bütüncül yaklaşımı çerçevesinde yazılmış
+tüm makaleleri tek bir çatı altında toplamak için oluşturulmuştur.
 
-This directory contains the author's original Turkish articles.
-The texts are preserved exactly as written.
+Buradaki metinler:
+- Hebûn (Varlık düzeni)
+- Zanabûn (Bilgi ve tanıklık düzeni)
+- Mabûn (Ekonomi ve rızık düzeni)
+- Zaman, boyutlar, şahitlik ve insanın konumu
 
-No rewriting.  
-No restructuring.  
-No silent edits.
+gibi başlıkları ele alır.
 
-# HEBUNAME & ZANABUNAME
-**Gerçeği Önceliklendiren Bir Ontoloji + Epistemoloji Çerçevesi (Yapay Zeka Uyumluluğuna Odaklı).**
-TR / EN / KU (Kurmanci) — metinler ve yapı.
+Bu klasör:
+- Geçici notlar için değildir
+- Taslak çöplüğü değildir
+- Rastgele yazılar içermez
 
-## Bu depo nedir?
-Bu depo, **orijinal Türkçe makaleleri** ve şu kaynaklardan esinlenerek oluşturulmuş bir **politika katmanını** korumaktadır:
-- **Hebun** (ontoloji: katmanlı varlık / boyutlar)
-- **Zanabun** (epistemoloji: bilgi, sorumluluk, bütünlük)
-
-## Nereden başlamalı
-1) **MANIFESTO.md** — temel amaç ve kapsam
-2) **politika/** — uyum belgeleri (anayasa + testler)
-3) **original-articles-tr/** — 12 orijinal makalenin kilitli arşivi (düzenleme yok)
-
-## Depo yapısı
-- **MANIFESTO.md**
-- **politika/**
-- **SYSTEM_PROMPT.md**
-- **ANAYASA.md**
-- **TESTS.md**
-- **orijinal-makaleler-tr/** (kilitli orijinaller)
-- **hebun/** (gelecek için minimal yer tutucular)
-- **zanabun/** (gelecek için minimal yer tutucular)
-
-## Durum
-- Orijinal makaleler: **korunmuştur (yeniden yazılmamıştır)**
-- Politika katmanı: **aktif**
-- Kitaplar/ciltler: **Şimdilik dahil edilmemiştir** (karışıklığı önlemek için)
-
-## Etik
-İnsanlıktan uzaklaştırma yok. Toplu suçlama yok. Gerçek, sorumlulukla birlikte ele alınmalıdır.
-
-## Etiketler
-ontoloji · epistemoloji · yapay zeka uyumu · yapay zeka etiği · gerçek öncelikli yaklaşım · sistem düşüncesi · yönetişim
-
+Buraya eklenen her metin:
+- Bilinçli olarak yazılmıştır
+- Orijinaldir
+- Rasterast çizgisini bozmadan ilerler
