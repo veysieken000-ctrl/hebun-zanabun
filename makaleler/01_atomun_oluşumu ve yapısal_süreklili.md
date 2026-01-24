@@ -1,3 +1,4 @@
+MAKALE 1
 Atomun Oluşumu ve Yapısal Süreklilik İlkesi
 Fiziksel Varlığın Başlangıcından Düzenli Yapının Ortaya Çıkışına
 Özet (Abstract)
