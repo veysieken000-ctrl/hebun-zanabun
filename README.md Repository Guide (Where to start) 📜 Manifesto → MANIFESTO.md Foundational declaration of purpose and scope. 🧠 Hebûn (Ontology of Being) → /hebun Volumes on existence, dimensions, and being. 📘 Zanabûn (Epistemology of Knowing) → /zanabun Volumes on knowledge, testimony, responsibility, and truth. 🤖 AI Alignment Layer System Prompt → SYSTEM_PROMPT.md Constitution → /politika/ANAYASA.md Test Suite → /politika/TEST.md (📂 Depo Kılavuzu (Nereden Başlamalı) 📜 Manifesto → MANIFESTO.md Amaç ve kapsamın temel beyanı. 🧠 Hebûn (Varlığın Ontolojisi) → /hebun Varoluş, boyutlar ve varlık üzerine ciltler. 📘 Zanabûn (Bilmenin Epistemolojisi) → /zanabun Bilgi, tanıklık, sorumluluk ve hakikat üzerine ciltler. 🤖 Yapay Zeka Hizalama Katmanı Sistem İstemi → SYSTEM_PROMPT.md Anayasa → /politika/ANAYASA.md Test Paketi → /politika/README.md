@@ -1,4 +1,4 @@
- # Rasterast
+# Rasterast
 **Hebûn – Zanabûn – Mabûn Bütüncül Yaklaşımı**
 
 Bu depo, **Rasterast** adı verilen bütüncül bir yaklaşım çerçevesinde  
