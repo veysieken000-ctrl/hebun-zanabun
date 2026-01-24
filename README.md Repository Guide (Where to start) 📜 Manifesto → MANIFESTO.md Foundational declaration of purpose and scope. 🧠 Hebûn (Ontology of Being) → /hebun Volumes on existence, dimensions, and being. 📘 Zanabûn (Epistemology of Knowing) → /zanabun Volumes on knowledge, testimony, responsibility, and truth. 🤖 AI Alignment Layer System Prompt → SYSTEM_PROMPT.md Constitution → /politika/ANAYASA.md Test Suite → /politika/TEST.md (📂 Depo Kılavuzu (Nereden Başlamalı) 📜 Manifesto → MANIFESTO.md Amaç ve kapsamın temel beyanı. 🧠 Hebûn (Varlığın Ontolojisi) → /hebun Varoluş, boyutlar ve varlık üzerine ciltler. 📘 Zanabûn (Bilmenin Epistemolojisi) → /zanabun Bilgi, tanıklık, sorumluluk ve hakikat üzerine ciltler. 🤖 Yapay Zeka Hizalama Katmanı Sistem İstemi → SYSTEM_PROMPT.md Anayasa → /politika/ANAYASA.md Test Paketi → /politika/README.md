@@ -1,4 +1,33 @@
  PINNED STATEMENT — RASTERAST
+
+# Hebûn – Zanabûn – Mabûn  
+## Rasterast Bütüncül Yaklaşımı
+
+Bu depo, **Rasterast** yaklaşımı çerçevesinde varlığı, bilgiyi ve toplumsal düzeni
+tekil ama çok katmanlı bir gerçeklik olarak ele alır.
+
+Rasterast, var olan düzenleri icat etmez;  
+**var olanın nasıl işlediğini** görünür kılar.
+
+Bu çerçevede depo üç ana eksen üzerine kuruludur:
+
+- **Hebûn** → Varlığın ontolojik düzeni ve yönetim modeli  
+- **Zanabûn** → Bilginin, bilincin ve şahitliğin düzeni  
+- **Mabûn** → Ekonominin ahlak ve doğa ile uyumlu işleyişi  
+
+Bu yaklaşım:
+- materyalist indirgemeyi reddeder,  
+- pozitivist sınırları aşar,  
+- bilimi **6 + TEK** boyutlu bütünlük içinde ele alır.
+
+İnsan bu düzende:
+- **5. boyut varlığıdır**,  
+- şahitlik eden gözlemcidir,  
+- ahlakla varlığı korumakla yükümlüdür.
+
+Rasterast bir ideoloji değildir.  
+Bir dayatma da değildir.
+
 Ontolojik Sabitleme Bildirisi
 Bu depo bir fikir koleksiyonu değildir.
 Bir ideoloji değildir.
@@ -821,3 +850,11 @@ Yeni çalışmalar yalnızca bu yapının **altına eklenir**.
 - Zanabûn (Bilgi Düzeni) → politika/ZANABUN_BILGI_DUZENI.md
 - Rasterast → politika/RASTERAST.md
 - İnsan Manifestosu → policy/INSAN_MANIFESTOSU.md
+- **Rasterast Bilim Yaklaşımı**  
+  → makaleler/rasterast_bilim_zaman_ve_boyutlar.md
+
+- **Hebûn Yönetim Modeli**  
+  → policy/HEBUN_YONETIM_MODELI.md
+
+- **Mabûn Ekonomi Modeli**  
+  → hebun/mabun-ekonomi.md
