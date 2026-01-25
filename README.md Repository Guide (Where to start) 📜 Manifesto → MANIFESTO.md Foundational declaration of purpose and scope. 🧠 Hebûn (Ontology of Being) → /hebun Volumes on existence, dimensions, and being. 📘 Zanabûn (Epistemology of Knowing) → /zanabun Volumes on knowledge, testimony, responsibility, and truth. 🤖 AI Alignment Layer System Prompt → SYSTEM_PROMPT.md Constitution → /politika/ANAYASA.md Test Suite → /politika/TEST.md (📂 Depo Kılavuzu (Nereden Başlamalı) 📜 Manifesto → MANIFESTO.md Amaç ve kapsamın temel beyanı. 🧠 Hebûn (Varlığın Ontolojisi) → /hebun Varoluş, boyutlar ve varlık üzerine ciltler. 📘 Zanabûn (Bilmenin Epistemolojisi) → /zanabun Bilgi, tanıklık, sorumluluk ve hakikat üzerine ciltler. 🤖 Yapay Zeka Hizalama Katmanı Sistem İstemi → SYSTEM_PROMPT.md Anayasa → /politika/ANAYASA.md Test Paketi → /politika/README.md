@@ -155,3 +155,5 @@ Her makale öncekini tekrar etmez, onu tamamlar
 Kavramlar sabittir, anlam kayması yapılmaz
 Metinler polemik için değil tespit ve analiz içindir
 Rasterast çizgisi revize edilmez, yalnızca derinleştirilir
+
+- Kavramsal Standartlar: [policy/KAVRAMSAL_STANDART.md](policy/KAVRAMSAL_STANDART.md)
