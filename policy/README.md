@@ -1,5 +1,7 @@
 # Hebun & Zanabun
 
+Manifesto: [Rasterast Manifestosu](politika/MANIFESTO_RASTERAST.md)
+
 ### Existence · Knowledge · Responsibility  
 ### Existence · Knowledge · Responsibility  
 ### Hebûn · Zanabûn · Berpirsiyari
