@@ -185,3 +185,4 @@ Rasterast çizgisi revize edilmez, yalnızca derinleştirilir
 15. Ahir Zaman Çıkış Reçetesi: Rasterast Nizamı
 
 Manifesto: [Rasterast Manifestosu](MANIFESTO.md)
+- [Rasterast Manifestosu](MANIFESTO_RASTERAST.md)
