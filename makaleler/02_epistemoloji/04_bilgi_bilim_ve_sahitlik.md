@@ -105,7 +105,7 @@ Bilim teknikleşir,
 Toplum yönsüzleşir,
 Varlık anlamını yitirir.
 
-04 – BİLGİ, BİLİM VE ŞAHİTLİK
+BİLGİ, BİLİM VE ŞAHİTLİK-02
 (Zanabûn Perspektifi)
 Giriş: Bilgi Nedir?
 Bilgi, salt veri değildir.
@@ -241,3 +241,111 @@ Deneyi reddetmez
 Akla düşman değildir
 Bu metin şunu söyler:
 Bilgi, şahitliği olmayan bir bilimle korunamaz.
+
+BİLGİ, BİLİM VE ŞAHİTLİK 03
+(Epistemolojik Bir İnceleme – Rasterast Perspektifi)
+Giriş: Bilgi Tarafsız mıdır?
+Modern düşüncede bilgi, çoğu zaman tarafsız, nesnel ve bağımsız kabul edilir. Bilim ise bu bilginin sistematik hâli olarak sunulur. Oysa bu yaklaşım, bilginin nasıl oluştuğunu değil, yalnızca nasıl işlendiğini açıklar.
+Rasterast yaklaşımında bilgi:
+Kendiliğinden ortaya çıkmaz
+Sahipsiz değildir
+Şahitlikten bağımsız değildir
+Bu nedenle bilgi meselesi, yalnızca bir bilim felsefesi konusu değil; aynı zamanda ahlaki ve ontolojik bir meseledir.
+1. Bilginin Kaynağı: Gözlem mi, Şahitlik mi?
+Bilimsel bilgi, gözleme dayanır. Ancak her gözlem bilgi üretmez.
+Rasterast’a göre burada kritik ayrım şudur:
+Gözlem: Görmek, ölçmek, kaydetmek
+Şahitlik: Anlamak, bağlamak, sorumluluk almak
+Bir kamera gözlem yapar ama şahit değildir.
+Bir sensör veri üretir ama şahit değildir.
+Çünkü şahitlik:
+Bilinç gerektirir
+Niyet gerektirir
+Ahlaki bağ kurar
+Bu yüzden her bilgi türü eşdeğer değildir.
+2. Bilim: Yöntem mi, İddia mı?
+Bilim, Rasterast perspektifinde:
+Bir hakikat iddiası değil, bir yöntemdir.
+Bilim:
+Ölçer
+Sınıflandırır
+Modelleştirir
+Ama:
+“Niçin” sorusunu cevaplamaz
+“Ne için” sorusunu dışarıda bırakır
+Bu noktada bilim ile bilgelik ayrılır.
+Bilim:
+Nasılı açıklar
+Bilgelik:
+Anlamı taşır
+Bilim şahitlik üretmezse:
+Bilgi çoğalır
+Ama hikmet azalır
+3. Bilgi Türleri: Rasterast Ayrımı
+Rasterast bilgi anlayışı üç katmanlıdır:
+3.1. Ham Bilgi (Veri)
+Ölçülebilir
+Tekrarlanabilir
+Değersiz değildir ama yönsüzdür
+3.2. İşlenmiş Bilgi (Bilimsel Bilgi)
+Yöntemlidir
+Sistemlidir
+Ama hâlâ ahlaki değildir
+3.3. Şahitlik Bilgisi (Hikmet)
+Sorumluluk içerir
+Ahlak içerir
+İmanla ilişkilidir
+Bu üçüncü katman olmadan bilgi:
+Güce dönüşür ama hakikate dönüşmez.
+4. Şahitlik Olmadan Bilginin Tehlikesi
+Şahitlikten kopmuş bilgi:
+Teknoloji üretir
+Ama merhamet üretmez
+Güç verir
+Ama adalet vermez
+Bu yüzden modern çağda:
+Bilgi arttı
+Ama insan küçüldü
+Rasterast’a göre bu durum bir çelişki değil, sonuçtur.
+Çünkü bilgi:
+Ahlaktan ayrıldığında silaha dönüşür.
+5. İman ve Bilgi İlişkisi
+İman, bilginin karşıtı değildir.
+İman, bilginin istikametidir.
+İman olmadan bilgi:
+Şüphe üretir
+Parçalar
+Dağıtır
+İmanla bilgi:
+Bütünleştirir
+Anlamlandırır
+Sorumluluk doğurur
+Bu nedenle:
+Her âlim şahit değildir, ama her şahit bilginin yükünü taşır.
+6. Bilgi–Zaman–Şahitlik Üçgeni
+Bilgi zamansız değildir.
+Bilgi, zaman içinde oluşur ve zaman içinde anlam kazanır.
+Şahitlik:
+Bilgiyi tarihe bağlar
+Bilgiyi hesaba açar
+Şahitlik yoksa:
+Bilgi vardır
+Ama tarih yoktur
+Hesap yoktur
+Bu yüzden şahitlik:
+Bilgiyi zamana mühürleyen ilkedir.
+Sonuç: Bilgi Bir Emanettir
+Rasterast yaklaşımında bilgi:
+Meta değildir
+Tarafsız değildir
+Sahipsiz değildir
+Bilgi:
+İnsana verilmiş bir emanettir.
+Bu emanet:
+Şahitlikle korunur
+Ahlakla taşınır
+İmanla anlam bulur
+Aksi hâlde bilgi:
+İnsanı yükseltmez
+Dünyayı çoğaltır
+Ama insanı eksiltir
