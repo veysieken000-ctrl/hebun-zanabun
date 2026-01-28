@@ -1,0 +1,6 @@
+İlk Yaratılış, Kalem ve Varlığın Bilgiyle Başlaması
+
+İslam kozmolojisinde yaratılış, maddeden önce bilgiyle başlar. Hadis kaynaklarında “Allah’ın yarattığı ilk şey kalemdir” ifadesi, varlığın ontolojik değil epistemik bir başlangıca sahip olduğunu gösterir. Kalem, yazma eylemiyle birlikte ölçüyü, düzeni ve kanunu temsil eder. Bu bağlamda kalem, Hebûn açısından varlığın kendisi değil, varlığın kurulma ilkesidir.
+Kalemin yazması, henüz madde yokken bilginin var olduğunu gösterir. Bu bilgi, varlık sahasına çıkacak olan her şeyin sınırlarını ve düzenini belirleyen ilk yasadır. Zanabûn perspektifinde bu durum, bilginin tanıklıktan önce geldiğini; ancak bilginin anlam kazanması için ikinci bir bilene ihtiyaç duyduğunu ortaya koyar.
+Kur’an’da geçen “Elest Bezmi” (Kalû Belâ), tüm ruhların yaratıcıyla ilk epistemik ilişkisidir. “Ben sizin Rabbiniz değil miyim?” sorusu, bir hüküm değil; bir tanıklık çağrısıdır. Ruhların “Evet” cevabı, varlık sahasına çıkacak her öznenin ön-bilgiye sahip olduğunu gösterir.
+Bu aşamada henüz fiziksel evren yoktur. Melekler ve iblis türleri, maddenin yoğunlaşmasından önce yaratılmış bilinçli varlıklardır. Bu durum, bilincin maddeden önce var olabileceğini gösteren metafizik bir önermedir. Rasterast yaklaşımı bu aşamayı bilgi-öncelikli yaratılış evresi olarak tanımlar.
