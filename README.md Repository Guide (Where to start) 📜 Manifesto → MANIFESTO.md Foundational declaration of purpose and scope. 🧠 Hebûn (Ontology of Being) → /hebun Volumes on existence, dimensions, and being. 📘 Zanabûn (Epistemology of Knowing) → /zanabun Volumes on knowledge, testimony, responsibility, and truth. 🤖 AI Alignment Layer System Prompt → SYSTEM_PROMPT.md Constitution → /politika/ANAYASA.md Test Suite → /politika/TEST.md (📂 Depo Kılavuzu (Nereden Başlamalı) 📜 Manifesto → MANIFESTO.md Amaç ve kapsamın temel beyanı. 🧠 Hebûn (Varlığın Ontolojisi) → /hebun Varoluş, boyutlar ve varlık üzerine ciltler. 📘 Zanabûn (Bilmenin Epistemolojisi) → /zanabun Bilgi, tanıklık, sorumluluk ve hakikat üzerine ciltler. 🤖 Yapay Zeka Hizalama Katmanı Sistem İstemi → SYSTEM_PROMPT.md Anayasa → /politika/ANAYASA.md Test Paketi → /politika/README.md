@@ -1,3 +1,9 @@
+![Fıtrat ve Ahlak Çağı Sancağı](sancak.png)
+
+## Fıtrat ve Ahlak Çağı
+
+- [Bildiri](bildiri.md)
+
 # Rasterast
 # Hebûn–Zanabûn
 ## İçindekiler
