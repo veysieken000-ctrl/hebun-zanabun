@@ -1,4 +1,6 @@
-![Fıtrat ve Ahlak Çağı Sancağı](sancak.png)
+# Fıtrat ve Ahlak Çağı
+
+![Fıtrat ve Ahlak Çağı Sancağı](fitrat-ve-ahlak-cagi-sancagi.png)
 
 ## Fıtrat ve Ahlak Çağı
 
