@@ -1,21 +1,42 @@
 # Fıtrat ve Ahlak Çağı
+
 ![Fıtrat ve Ahlak Çağı Sancağı](fitrat-ve-ahlak-cagi-sancagi.png)
 
 ## Fıtrat ve Ahlak Çağı
 
 - [Bildiri](bildiri.md)
 
-## Hebûn–Zanabûn: Katmanlı Varlık Okuması
+## Okuma Usulü ve Öncelik
 
-Bu depo, varlığı tek boyutlu açıklamalara indirgemeden,
-dinî ilimler ile fen ilimlerini birlikte,
-fakat birbirinin yerine geçirmeden okuma denemesidir.
+Bu depo, içerikten önce **okuma usulünü** esas alır.
+Aşağıdaki yöntemsel okuma tamamlanmadan,
+tematik metinlere geçilmesi tavsiye edilmez.
 
-Çalışmaların çekirdeği:
-- Varlık Sistemi ve Boyutları (kurucu metin)
+---
 
-Açılım metinleri:
-- Katmanlı Varlık Okuması (7 makale)
+## KATMAN 1 — YÖNTEMSEL OKUMA (HERKES İÇİN ZORUNLU)
+📁 `katmanli-varlik-okumasi/`
+
+**Amaç:**  
+Okuyucunun *ne okuyacağını değil*, **nasıl okuyacağını** öğrenmesi.
+
+**Sıra değişmez:**
+1. Rasterast Metodu ve Tanıklık Problemi  
+2. Merkez–Çevre Yasası ve Hebûn Ontolojisi  
+3. Karanlık Düzen ve Kozmik Yapı  
+4. Doğum, Ölüm ve Tanıklığın Sınırları  
+5. Kuantum Benzetmesi ve Post-modern Birey  
+6. Esîr, Alan ve Taşıyıcı Düzen  
+7. Hüküm, Fıtrat ve Ahlaki Yeniden Başlangıç
+
+---
+
+## KATMAN 2 — TEMATİK OKUMA (İHTİSAS)
+📁 `makaleler/`
+
+Yöntemsel okuma tamamlandıktan sonra,
+ontoloji, epistemoloji, aksiyoloji ve diğer tematik
+klasörlere geçilmesi önerilir.
 
 # Rasterast
 # Hebûn–Zanabûn
