@@ -5,6 +5,18 @@
 
 - [Bildiri](bildiri.md)
 
+## Hebûn–Zanabûn: Katmanlı Varlık Okuması
+
+Bu depo, varlığı tek boyutlu açıklamalara indirgemeden,
+dinî ilimler ile fen ilimlerini birlikte,
+fakat birbirinin yerine geçirmeden okuma denemesidir.
+
+Çalışmaların çekirdeği:
+- Varlık Sistemi ve Boyutları (kurucu metin)
+
+Açılım metinleri:
+- Katmanlı Varlık Okuması (7 makale)
+
 # Rasterast
 # Hebûn–Zanabûn
 ## İçindekiler
