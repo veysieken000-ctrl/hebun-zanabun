@@ -1,47 +1,97 @@
-# 01 — İlke: Minimum Yaşam / Maksimum Varoluş
+# Mabûn 01 — Minimum Yaşam, Maksimum Varoluş İlkesi
 
-## 1. Problemin teşhisi (tacirleşme)
-Modern çağda ekonomik akıl şu cümleye indirgenmiştir:
-“Daha çok kazan.”
-Bu indirgeme; insanı 5. boyut sorumluluğundan koparıp
-yalnızca biyoloji + zihin reflekslerine (çıkar/rekabet) kilitler.
-Sonuç: boyutsal daralma ve toplumsal çöküş. 
+## Giriş
 
-## 2. Mabûn’un temel cümlesi
-**Ekonominin amacı:**
-insanın ve toplumun varlığını korumak ve varlık sahasını genişletmektir.
+Mabûn, Hebûn ontolojisi ve Zanabûn epistemolojisi üzerine inşa edilen ekonomik modeldir. 
+Amaç, insanın varlık sahasını daraltmadan, onu tüketim bağımlılığına hapsetmeden, 
+ahlaki ve ontolojik bütünlüğünü koruyarak üretim ve paylaşım düzeni kurmaktır.
 
-Bu iki şey birlikte yürür:
-- Korunmayan varlık genişleyemez.
-- Genişlemeyen varlık korunamaz (daralır ve çatışma üretir).
+Ekonomi burada yalnızca maddi dolaşım değil; varlık alanının yönetimidir.
 
-## 3. Minimum yaşam nedir?
-Minimum yaşam; insanın onurunu ve bedensel bütünlüğünü koruyan tabandır:
-- güvenlik
-- barınma
-- temel beslenme
-- temel sağlık
-- temel eğitim (okuma-yazma + düşünme disiplini)
-- temel adalet erişimi
+---
 
-Bu taban; sadaka değil “düzene ait hak”tır.
+## 1. Temel İlke
 
-## 4. Maksimum varoluş nedir?
-Maksimum varoluş; lüks değil, insanın 5. boyuta uygun “üretkenlik + merhamet + emanet” taşımasıdır:
-- üretmek (mal, hizmet, bilgi, sanat)
-- paylaşmak (adaletli dağılım)
-- korumak (doğayı, canlıyı, toplumsal güveni)
-- büyütmek (nesil, bilgi, kurum)
+Mabûn’un ilkesi şudur:
 
-## 5. Ölçüt: Varlık alanı metriği
-Mabûn’da başarı “kâr”la değil şu 5 ölçütle okunur:
-1) Güven endeksi (hırsızlık/şiddet/istismar düşüyor mu?)
-2) Temel ihtiyaç güvenliği (barınma-gıda-sağlık erişimi)
-3) Üretkenlik (iş, zanaat, bilim, bakım emeği)
-4) Adalet erişimi (hak arama/şeffaflık)
-5) Doğa dengesi (tahribat azalıyor mu?)
+> Minimum zorunlu yaşam standardı + Maksimum varoluş alanı genişlemesi.
 
-## 6. Dönüşüm kuralı
-Bir toplum, ekonomik olarak büyürken bu 5 ölçüt düşüyorsa
-o büyüme “boyutsal genişleme” değil “boyutsal çöküş”tür.
-Mabûn bu ayrımı görünür kılar.
+Bu ne demektir?
+
+- İnsan aç kalmamalıdır.
+- İnsan barınaksız kalmamalıdır.
+- İnsan sağlık ve eğitimden mahrum kalmamalıdır.
+
+Fakat bunun ötesinde:
+
+- İnsan tüketimle ölçülmemelidir.
+- İnsan değeri servetle belirlenmemelidir.
+- İnsan varlığı yalnızca üretim kapasitesine indirgenmemelidir.
+
+---
+
+## 2. Hebûn Perspektifi
+
+Hebûn’a göre varlık katmanlıdır:
+
+1. Fizik
+2. Biyoloji
+3. Zihin
+4. Kanun
+5. Ahlak
+6. Hüküm
+
+Ekonomik sistem yalnızca 1–2. boyutta kalırsa insan biyolojik varlığa indirgenir.
+
+Mabûn, ekonomiyi 5. boyuta (ahlak) sabitler.
+
+Yani üretim + sorumluluk + adalet birlikte işler.
+
+---
+
+## 3. Tüketim Eleştirisi
+
+Modern sistem:
+
+- İhtiyacı üretmez,
+- Arzuyu üretir.
+- Arzuyu bağımlılığa çevirir.
+- Bağımlılığı borç sistemine bağlar.
+
+Bu, varlık sahasını daraltır.
+
+Mabûn ise:
+
+- İhtiyacı tanımlar.
+- Arzuyu disipline eder.
+- Üretimi anlamla ilişkilendirir.
+
+---
+
+## 4. Değer Tanımı
+
+Mabûn’da değer üç katmanlıdır:
+
+1. Hayati değer (zorunlu)
+2. Toplumsal değer (ortak iyi)
+3. Manevi değer (ahlaki yükselme)
+
+Bir sistem yalnızca 1. katmana indirgenirse biyolojikleşir.
+Yalnızca 3. katmana çıkar ve 1’i ihmal ederse gerçeklikten kopar.
+
+Denge şarttır.
+
+---
+
+## 5. Sonuç
+
+Mabûn bir zenginlik modeli değildir.
+Bir varlık koruma modelidir.
+
+Amaç:
+
+- İnsan onurunu korumak
+- Ahlaki zemini sabitlemek
+- Üretimi varlık genişlemesine bağlamak
+
+Bu metin giriş ilkesidir.
