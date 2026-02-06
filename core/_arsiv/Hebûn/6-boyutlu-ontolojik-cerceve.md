@@ -1,4 +1,4 @@
-6 Boyutlu Varlık Modeli Üzerine Ontolojik Bir Çerçeve
+6 Boyutlu Varlık Modeli Üzerine Ontolojik Bir Çerçev
 Giriş
 Modern bilimsel paradigma, varlığı büyük ölçüde fiziksel süreçler, biyolojik organizasyon ve zihinsel faaliyetler üzerinden açıklamaktadır. Özellikle pozitivist yaklaşım, gözlemlenebilir ve ölçülebilir olana odaklanarak gerçekliğin sınırlarını fiziksel evrenle çerçevelemiştir. Bu yaklaşım, doğa bilimlerinde büyük başarılar üretmiş olmakla birlikte, insan deneyiminin tamamını açıklama konusunda yapısal sınırlılıklar taşımaktadır.
 İnsan yalnızca fiziksel bir nesne ya da biyolojik bir organizma değildir. Aynı zamanda anlam üreten, değer belirleyen ve hüküm veren bir varlıktır. Bu durum, varlığın tek katmanlı değil; katmanlı ve hiyerarşik bir yapı arz ettiğini düşündürmektedir. Fiziksel düzen, biyolojik düzeni; biyolojik düzen, zihinsel düzeni mümkün kılar. Ancak zihinsel düzenin ortaya çıkışıyla birlikte varlık yalnızca işleyen bir sistem olmaktan çıkar; değerlendiren, seçen ve yön tayin eden bir yapı kazanır.
