@@ -2,6 +2,7 @@ Küresel Paradigma İçin Varlık ve Bilgi Anayasası
 1. Başlangıç
 Hayat cismaniyette başlar.
 Varlık fizik ile görünür olur.
+
 Biyoloji ile hareket kazanır.
 Zihin ile farkındalık oluşur.
 Ahlak ile yön belirlenir.
@@ -13,7 +14,7 @@ Halkalar varlık katmanlarıdır.
 Hebûn bu katmanlı varlık düzenini inceler.
 Zanabûn bu düzenin bilgisini inceler.
 Rasterast yaklaşımı bu düzeni doğru okumayı önerir.
-2. Hebûn – Varlık Bilimi (Ontoloji)
+3. Hebûn – Varlık Bilimi (Ontoloji)
 Hebûn’a göre varlık 6 boyutludur:
 Fizik – Madde, enerji, kuvvet
 Biyoloji – Canlılık, çoğalma, düzen
@@ -27,7 +28,7 @@ Hiçbir boyut tek başına yeterli değildir.
 Hebûn 5 ve 6. boyutu da bilimin konusu yapar.
 Metafizik değildir.
 Gerçekliğin üst katmanıdır.
-3. Zanabûn – Bilgi Bilimi (Epistemoloji)
+4. Zanabûn – Bilgi Bilimi (Epistemoloji)
 Bilgi, bilen öznenin bilinen nesneye yönelimidir.
 Fakat bilginin tamamlanması için ikinci bir bilen gerekir.
 Bu nedenle bilgi:
@@ -40,7 +41,7 @@ Bilgi; varlığı koruyan ve varlık alanını genişleten sonuçtur.
 Yanlış bilgi varlık alanını daraltır.
 Doğru bilgi varlığı genişletir.
 Bu ölçü evrenseldir.
-4. Ahlak Boyutu – Küresel Paradigma
+5. Ahlak Boyutu – Küresel Paradigma
 İnsanlık 3. boyutta yoğunlaşmıştır.
 Zekâ artmış, ahlak zayıflamıştır.
 Oysa:
@@ -53,7 +54,7 @@ Ahlak bilimdir.
 Çünkü sonuç üretir.
 Çünkü toplumu düzenler.
 Çünkü varlığı korur.
-5. Hedef
+6. Hedef
 Amaç:
 İnsanı 6 boyutlu varlık olarak yeniden tanımlamak
 Bilimi 4 boyuttan 6 boyuta genişletmek
@@ -64,7 +65,7 @@ Dünya ortak bir Araf’tır.
 Seçim bireyseldir.
 Biz yol gösteririz.
 Tercih özgürdür.
-6. İlke
+7. İlke
 Akla hitap
 Fıtrata hitap
 Vicdana hitap
