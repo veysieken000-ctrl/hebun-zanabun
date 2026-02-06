@@ -3,7 +3,7 @@ HEBÛN
 Bu makalenin yapısı 
 1️⃣ Amaç
 Varlığın katmanlı yapısını tanımlamak
-Fizik, biyoloji ve zihnin ötesinde gerçekliğin tamamını modellemek
+Fizik, biyoloji ve zihnin ötesinde gerçekliğin tamamını modelleme
 4 boyutlu pozitivist sınırlamayı aşmak
 6 boyutlu bütüncül ontoloji önermek
 2️⃣ Tanım
