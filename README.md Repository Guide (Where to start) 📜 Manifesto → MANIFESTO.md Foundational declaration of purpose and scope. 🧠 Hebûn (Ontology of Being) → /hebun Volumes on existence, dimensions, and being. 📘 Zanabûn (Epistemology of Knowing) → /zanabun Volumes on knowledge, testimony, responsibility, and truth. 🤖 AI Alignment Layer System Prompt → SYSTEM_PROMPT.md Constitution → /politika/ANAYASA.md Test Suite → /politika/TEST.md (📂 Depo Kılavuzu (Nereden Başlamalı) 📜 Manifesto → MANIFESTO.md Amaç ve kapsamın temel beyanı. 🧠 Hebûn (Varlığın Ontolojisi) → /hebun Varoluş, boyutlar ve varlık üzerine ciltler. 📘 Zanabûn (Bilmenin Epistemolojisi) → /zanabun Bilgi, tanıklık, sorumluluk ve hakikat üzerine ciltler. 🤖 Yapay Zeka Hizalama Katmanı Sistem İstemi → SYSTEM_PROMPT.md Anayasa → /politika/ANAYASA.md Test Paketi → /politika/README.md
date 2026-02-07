@@ -1,3 +1,8 @@
+## ZANISTARAST PHASE (v1.2)
+
+Zanistarast civilizational climate has been introduced as the upper integrative layer of the framework.
+
+
 # 🚀 SYSTEM STATUS: v1.2 — Fıtrat & Ahlak Çağı Modeli
 
 Hebûn–Zanabûn framework has entered the civilizational phase.
