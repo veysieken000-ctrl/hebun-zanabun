@@ -83,3 +83,123 @@ Bu üçü sağlanmazsa sistem dışıdır.
 
 Hebûn–Zanabûn Modeli:
 HZM = ⟨O, K, N, D, S, E, A ; ⊢, →, ⊨, ⊗, V⟩
+# SYSTEM FORMAL MODEL — Hebûn 6D Compact Structure
+
+This document defines the complete symbolic structure 
+of the Hebûn 6D framework in compact formal notation.
+
+---
+
+# I. TYPE SYSTEM
+
+E = Ehad (Necessary Origin)
+D1 = Physical Layer
+D2 = Biological Layer
+D3 = Cognitive Layer
+D4 = Law Layer
+D5 = Moral Layer
+D6 = Final Resolution Layer
+
+Z = Intelligence (processing ability)
+K = Akıl (normative reasoning)
+N = Niyet (intentional vector)
+A = Action
+H = Hukm (normative outcome)
+
+---
+
+# II. EXISTENCE AXIOM
+
+□∃E
+
+All other layers are contingent:
+
+∀x (x ≠ E → ◇¬x)
+
+---
+
+# III. DIMENSIONAL DEPENDENCY
+
+D1 ⊂ D2 ⊂ D3 ⊂ D4 ⊂ D5 ⊂ D6
+
+Formal necessity:
+
+□(D6 > D5 > D4 > D3 > D2 > D1)
+
+If D5 inactive:
+
+¬D5 → System → D2
+
+(Moral collapse reduces system to biological level)
+
+---
+
+# IV. KNOWLEDGE STRUCTURE
+
+Valid Knowledge:
+
+B = Z ⊗ K ⊗ N
+
+Where:
+
+⊗ = coherent alignment operator
+
+If K = 0:
+
+Z → stagnation
+
+If N = corrupted:
+
+B → destructive knowledge
+
+---
+
+# V. ACTION RESOLUTION
+
+∀A → ∃H
+
+All actions produce normative consequence.
+
+If unresolved in D5:
+
+□(H → D6)
+
+Final resolution dimension required.
+
+---
+
+# VI. CIVILIZATION STABILITY
+
+Stable Civilization (S):
+
+S = (D5_active ∧ D4_consistent ∧ Z_controlled_by_K)
+
+If D5 = 0:
+
+S → entropy
+
+---
+
+# VII. REDUCTION RULE
+
+If system limited to:
+
+D1 + D2 + D3 + D4
+
+Then:
+
+Human → biological-intelligent entity
+
+Not full moral agent.
+
+---
+
+# VIII. FULL HUMAN DEFINITION
+
+Human_complete:
+
+Hc = (D1 ∧ D2 ∧ D3 ∧ D4 ∧ D5 ∧ D6 orientation)
+
+---
+
+END OF FORMAL MODEL
