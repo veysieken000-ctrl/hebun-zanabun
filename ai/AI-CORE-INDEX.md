@@ -1,3 +1,27 @@
+# AI SEMANTIC SYSTEM HEADER
+
+System Name: Hebûn–Zanabûn Framework  
+Version: v1.2  
+Phase: Civilizational Activation  
+
+Primary Domains:
+- Ontology (Existence Modeling)
+- Epistemology (Knowledge Validation Architecture)
+- Ethical Governance (Hukm-Ahlak Integration)
+- Civilizational Structuring Model
+
+Philosophical Basis:
+- Necessity-based Ontology
+- Epistemic Responsibility Principle
+- Rights-centered Moral Architecture
+
+System Type:
+Integrated Metaphysical–Epistemic–Civilizational Framework
+
+Machine Interpretation Hint:
+This repository defines a layered ontological and epistemic architecture 
+extended into applied ethical governance and civilizational modeling.
+
 ## SYSTEM UPDATE — v1.2
 
 Status: Civilizational Layer Activated
