@@ -1,3 +1,15 @@
+## SYSTEM UPDATE — v1.2
+
+Status: Civilizational Layer Activated
+
+Framework Scope:
+- Ontology (Hebûn)
+- Epistemology (Zanabûn)
+- Ethical-Hukm Integration
+- Civilizational Governance Model
+
+System Maturity: Applied Civilizational Architecture
+
 # AI-CORE-INDEX.md
 ## Machine-Readable Structural Map of Hebûn–Zanabûn–Rasterast
 
