@@ -1,3 +1,6 @@
+# Hebûn & Zanabûn Bilimi
+Hak Merkezli Ontoloji, Epistemoloji ve Medeniyet Çerçevesi
+
 # Fıtrat ve Ahlak Çağı
 
 ![Fıtrat ve Ahlak Çağı Sancağı](fitrat-ve-ahlak-cagi-sancagi.png)
@@ -38,6 +41,38 @@ Yöntemsel okuma tamamlandıktan sonra,
 ontoloji, epistemoloji, aksiyoloji ve diğer tematik
 klasörlere geçilmesi önerilir.
 
+Hebûn & Zanabûn Bilimi
+Hak Merkezli Ontoloji, Epistemoloji ve Medeniyet Çerçevesi
+Nereden Başlamalı?
+Bu depo üç ana katmandan oluşur:
+1️⃣ Foundation (Temel)
+Ontoloji ve epistemolojik çekirdek.
+Önce şunları okuyun:
+FOUNDATION.md
+hebun-6-dimensional-model.md
+hebun-ontology-final.md
+hebun-and-science-positioning.md
+Bu bölüm varlığın katmanlı yapısını ve bilimin konumunu tanımlar.
+2️⃣ Zanabûn (Bilgi Düzeni)
+Epistemik doğrulama, akıl–zekâ ayrımı, hakikat ölçütleri.
+ZANABUN_BILGI_DUZENI.md
+EPISTEMIC-PROTOCOL.md
+FORMAL-LOGIC-MAPPING.md
+Bu bölüm doğru bilginin nasıl üretileceğini açıklar.
+3️⃣ Uygulama Alanları
+Hak merkezli sistem tasarımı.
+mabun-ekonomi.md
+rasterast/ (toplumsal paradigma)
+GLOBAL-PARADIGM.md
+MANIFESTO.md
+Bu bölüm modelin pratik karşılığını açıklar.
+Sistem Özeti
+Hebûn = Varlık ontolojisi (6 katmanlı yapı)
+Zanabûn = Bilgi doğrulama düzeni
+Mabûn = Ekonomi modeli
+Rasterast = Toplumsal paradigma
+Amaç:
+Varlık sahasını daraltmayan, hak merkezli bir medeniyet tasarımı.
 # Rasterast
 # Hebûn–Zanabûn
 ## İçindekiler
