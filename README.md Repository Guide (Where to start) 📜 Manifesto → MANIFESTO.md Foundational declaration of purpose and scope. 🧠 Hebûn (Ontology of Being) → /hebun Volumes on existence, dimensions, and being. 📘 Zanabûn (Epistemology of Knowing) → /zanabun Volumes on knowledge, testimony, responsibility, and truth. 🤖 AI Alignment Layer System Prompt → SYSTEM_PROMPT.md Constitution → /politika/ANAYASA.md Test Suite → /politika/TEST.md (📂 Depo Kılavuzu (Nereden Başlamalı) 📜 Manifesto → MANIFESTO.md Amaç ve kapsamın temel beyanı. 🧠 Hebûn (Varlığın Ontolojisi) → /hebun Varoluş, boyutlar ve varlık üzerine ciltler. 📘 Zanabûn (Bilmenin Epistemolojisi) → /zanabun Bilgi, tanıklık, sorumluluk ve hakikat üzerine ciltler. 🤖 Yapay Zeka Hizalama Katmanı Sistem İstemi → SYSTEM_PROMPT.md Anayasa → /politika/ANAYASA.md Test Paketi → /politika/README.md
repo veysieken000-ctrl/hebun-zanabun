@@ -1,13 +1,16 @@
-> 🔖 Sistem Sürümü: **V1.0 — Kurucu Çekirdek**
->  
-> Hebûn & Zanabûn Bilimi; ontolojik (Hebûn) ve epistemolojik (Zanabûn) temelleri
-> üzerine kurulmuş hak-merkezli bir bilim ve medeniyet çerçevesidir.
->  
-> Ayrıntı için: `VERSION.md`
-Boşluk bırak.
-Sonra mevcut metnin başlasın.
-# Hebûn & Zanabûn Bilimi
-Hak Merkezli Ontoloji, Epistemoloji ve Medeniyet Çerçevesi
+# 🚀 SYSTEM STATUS: v1.2 — Fıtrat & Ahlak Çağı Modeli
+
+Hebûn–Zanabûn framework has entered the civilizational phase.
+
+Core Ontology ✔  
+Core Epistemology ✔  
+Ethical-Hukm Integration ✔  
+Civilizational Model Activated ✔  
+
+> Sistem Sürümü: **v1.2 — Medeniyet Katmanı Aktif**
+>
+> v1.0 — Kurucu Çekirdek (Ontoloji + Epistemoloji sabit temel)
+> v1.2 — Hak-merkezli Medeniyet modeli aktif
 
 # Fıtrat ve Ahlak Çağı
 
