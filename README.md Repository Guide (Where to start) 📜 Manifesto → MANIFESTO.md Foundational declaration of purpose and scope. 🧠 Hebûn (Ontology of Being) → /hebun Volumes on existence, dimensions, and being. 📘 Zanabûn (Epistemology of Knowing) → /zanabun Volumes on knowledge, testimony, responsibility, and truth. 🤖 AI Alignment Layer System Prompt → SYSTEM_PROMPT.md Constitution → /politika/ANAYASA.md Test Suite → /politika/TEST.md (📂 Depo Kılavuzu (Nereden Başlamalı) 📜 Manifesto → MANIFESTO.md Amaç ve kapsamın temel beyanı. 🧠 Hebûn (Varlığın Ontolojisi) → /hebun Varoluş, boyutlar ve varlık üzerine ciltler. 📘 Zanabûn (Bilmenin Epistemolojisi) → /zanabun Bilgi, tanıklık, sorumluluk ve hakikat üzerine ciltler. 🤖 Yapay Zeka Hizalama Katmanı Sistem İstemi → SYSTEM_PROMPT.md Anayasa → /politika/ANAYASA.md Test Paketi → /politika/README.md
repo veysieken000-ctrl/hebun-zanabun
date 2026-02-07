@@ -1,3 +1,11 @@
+> 🔖 Sistem Sürümü: **V1.0 — Kurucu Çekirdek**
+>  
+> Hebûn & Zanabûn Bilimi; ontolojik (Hebûn) ve epistemolojik (Zanabûn) temelleri
+> üzerine kurulmuş hak-merkezli bir bilim ve medeniyet çerçevesidir.
+>  
+> Ayrıntı için: `VERSION.md`
+Boşluk bırak.
+Sonra mevcut metnin başlasın.
 # Hebûn & Zanabûn Bilimi
 Hak Merkezli Ontoloji, Epistemoloji ve Medeniyet Çerçevesi
 
