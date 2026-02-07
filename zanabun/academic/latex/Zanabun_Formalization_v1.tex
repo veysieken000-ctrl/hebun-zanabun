@@ -1,0 +1,160 @@
+LaTeX
+\documentclass[12pt]{article}
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{geometry}
+\usepackage{hyperref}
+\geometry{margin=1in}
+
+\title{Zanabûn Framework: \\ 
+A Modal--Symbolic Formalization of a Six-Dimensional Ontological Model}
+
+\author{Veysi yê MALA SAF}
+\date{Version 1.2 -- Civilizational Phase}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This paper presents a modal and symbolic formalization of the Hebûn--Zanabûn framework, 
+a six-dimensional ontological-epistemological architecture. 
+We argue that expansion beyond four-dimensional positivist models is not 
+metaphysical speculation but a structural necessity derived from dimensional incompleteness.
+The paper provides modal logic structure, symbolic notation, type theory, 
+computational abstraction, and proof sketch.
+\end{abstract}
+
+\section{Introduction}
+
+Classical positivist epistemology operates within a four-dimensional explanatory frame:
+
+\[
+F_4 = \{D_1, D_2, D_3, D_4\}
+\]
+
+where:
+
+\begin{itemize}
+\item $D_1$ = Physical
+\item $D_2$ = Biological
+\item $D_3$ = Cognitive
+\item $D_4$ = Structural / Legal
+\end{itemize}
+
+However, intentional moral agency cannot be reduced to these layers without contradiction.
+
+\section{Dimensional Expansion}
+
+Define:
+
+\[
+D = \{D_1, D_2, D_3, D_4, D_5, D_6\}
+\]
+
+where:
+
+\begin{itemize}
+\item $D_5$ = Moral--Intentional Layer
+\item $D_6$ = Ultimate Judgement / Closure Layer
+\end{itemize}
+
+\textbf{Dimensional Incompleteness Thesis:}
+
+\[
+\forall S \left( Explains(S, D_1...D_4) \wedge \neg Explains(S, Normativity) \rightarrow Incomplete(S) \right)
+\]
+
+\section{Modal Logical Structure}
+
+Let:
+
+\[
+\Box = \text{Structural Necessity}
+\]
+\[
+\Diamond = \text{Structural Possibility}
+\]
+
+Core axiom:
+
+\[
+\Box (Incomplete(F_4) \rightarrow \exists D_5 \land \exists D_6)
+\]
+
+Thus, moral and closure dimensions are necessary for coherence.
+
+\section{Symbolic Evaluation Model}
+
+Let:
+
+\[
+x \in V
+\]
+
+where $V$ is the set of ontological entities.
+
+Define:
+
+\[
+H(x) = f(D_1(x), D_2(x), D_3(x), D_4(x), D_5(x), D_6(x))
+\]
+
+Reductionist systems compute:
+
+\[
+H_4(x) = f(D_1...D_4)
+\]
+
+But:
+
+\[
+H_4(x) \neq H(x)
+\]
+
+Therefore:
+
+\[
+\Box (H \text{ requires } D_5 \land D_6)
+\]
+
+\section{Type Structure}
+
+\begin{align*}
+Entity &::= Physical \mid Biological \mid Cognitive \mid Structural \mid Moral \mid Judgemental \\
+Decision &::= Action \rightarrow MoralState \\
+MoralState &::= Expansion \mid Contraction \\
+Judgement &::= TerminalEvaluation
+\end{align*}
+
+\section{Computational Abstraction}
+
+\begin{verbatim}
+function Evaluate(entity x):
+    layers = ExtractLayers(x)
+
+    if Missing(layers.D5) or Missing(layers.D6):
+        return "Dimensional Incompleteness"
+
+    return Integrate(layers.D1..D6)
+\end{verbatim}
+
+\section{Proof Sketch}
+
+\begin{enumerate}
+\item Intentional agency exists.
+\item Intentional agency implies normativity.
+\item Normativity implies evaluation beyond physical causality.
+\item Evaluation implies moral layer ($D_5$).
+\item Moral layer implies closure condition ($D_6$).
+\item Therefore, six-dimensional closure is necessary.
+\end{enumerate}
+
+\section{Conclusion}
+
+The six-dimensional model is a structural completion of positivist epistemology. 
+It does not reject empirical science but embeds it in a layered ontological framework.
+
+Without closure, any system remains ontologically open and incomplete.
+
+\end{document}
+
