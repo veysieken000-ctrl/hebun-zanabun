@@ -132,7 +132,72 @@ Mabûn;
 5B ahlaki kalibrasyonla hizalayan,
 geri besleme içeren,
 doğal işleyiş modelidir.
+---
 
+# 8) Dynamic Equilibrium System
+
+Toplumsal durum vektörü:
+
+S(t) = (P(t), N(t), G(t), I(t))
+
+P(t) → toplam üretim
+N(t) → toplam ihtiyaç
+G(t) → dağılım matrisi
+I(t) → eşitsizlik indeksi
+
+---
+
+# 9) Structural Inequality Index
+
+I(t) = Σ | Gᵢ(t) - Dᵢ(t) |
+
+Amaç:
+
+I(t) → minimum
+
+---
+
+# 10) Growth Constraint Principle
+
+Kapitalist model:
+dP/dt → maksimum
+
+Mabûn modeli:
+dP/dt ≤ λ · Sustainability(t)
+
+Burada:
+
+λ = doğal büyüme katsayısı
+
+Sustainability(t) = ekolojik + toplumsal denge ölçüsü
+
+---
+
+# 11) Moral Feedback Loop
+
+Toplumsal denge diferansiyel modeli:
+
+dS/dt = -αΔ₄ - βΔ₅ - γI
+
+α → üretim dengesine hassasiyet
+β → ahlaki sapmaya hassasiyet
+γ → eşitsizliğe hassasiyet
+
+Sistem dengeye konverge eder.
+
+---
+
+# 12) Mabûn Tanımı (Güncellenmiş)
+
+Mabûn;
+
+• sınırsız büyüme modelini reddeder  
+• zoraki eşitlemeyi reddeder  
+• sürdürülebilir üretim  
+• ahlaki kalibrasyon  
+• geri besleme dengesi  
+
+üzerine kurulu doğal işleyiş sistemidir.
 Ne sınırsız büyüme,
 ne zorla eşitleme.
 
