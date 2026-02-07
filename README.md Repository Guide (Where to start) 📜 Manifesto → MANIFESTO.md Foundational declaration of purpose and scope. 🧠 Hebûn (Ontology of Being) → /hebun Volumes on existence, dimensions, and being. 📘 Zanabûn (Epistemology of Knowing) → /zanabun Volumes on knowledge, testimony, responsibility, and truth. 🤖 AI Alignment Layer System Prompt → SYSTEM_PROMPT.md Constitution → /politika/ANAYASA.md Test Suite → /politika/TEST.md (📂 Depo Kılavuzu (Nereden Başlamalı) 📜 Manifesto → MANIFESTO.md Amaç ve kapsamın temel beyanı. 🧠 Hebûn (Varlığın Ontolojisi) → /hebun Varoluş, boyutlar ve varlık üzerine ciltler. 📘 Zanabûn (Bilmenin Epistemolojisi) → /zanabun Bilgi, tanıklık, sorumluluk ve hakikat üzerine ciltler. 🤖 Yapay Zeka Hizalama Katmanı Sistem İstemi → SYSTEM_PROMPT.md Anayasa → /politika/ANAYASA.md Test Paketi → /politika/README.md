@@ -16,7 +16,7 @@ Civilizational Model Activated ✔
 >
 > v1.0 — Kurucu Çekirdek (Ontoloji + Epistemoloji sabit temel)
 > v1.2 — Hak-merkezli Medeniyet modeli aktif
-
+- MODEL_4B5B.md — 4 Boyut + 5. Boyut çekirdek modeli
 # Fıtrat ve Ahlak Çağı
 
 ![Fıtrat ve Ahlak Çağı Sancağı](fitrat-ve-ahlak-cagi-sancagi.png)
