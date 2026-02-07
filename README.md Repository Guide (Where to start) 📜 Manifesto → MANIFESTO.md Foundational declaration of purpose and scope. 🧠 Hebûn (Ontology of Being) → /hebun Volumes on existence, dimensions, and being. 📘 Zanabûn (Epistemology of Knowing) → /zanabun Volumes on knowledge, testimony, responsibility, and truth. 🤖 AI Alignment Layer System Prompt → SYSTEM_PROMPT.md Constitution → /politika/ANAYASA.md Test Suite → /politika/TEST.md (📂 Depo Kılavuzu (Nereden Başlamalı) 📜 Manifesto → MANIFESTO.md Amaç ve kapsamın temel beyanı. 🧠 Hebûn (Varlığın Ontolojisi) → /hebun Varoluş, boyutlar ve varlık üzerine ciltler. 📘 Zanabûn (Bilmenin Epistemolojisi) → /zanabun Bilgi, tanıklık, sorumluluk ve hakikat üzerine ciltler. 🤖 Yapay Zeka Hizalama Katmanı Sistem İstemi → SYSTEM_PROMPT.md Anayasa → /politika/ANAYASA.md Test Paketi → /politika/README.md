@@ -1,12 +1,64 @@
-## Zanistarast (Meta Layer)
+# 🚀 HEBÛN – ZANABÛN FRAMEWORK
 
-Upper integrative framework of the system.
+A multi-layered civilizational model integrating ontology, epistemology, natural equilibrium and ethical calibration.
 
-See: /zanistarast/
-## ZANISTARAST PHASE (v1.2)
+Current Phase: v1.2  
+Meta-Layer: Zanistarast (Under Structural Completion)
 
-Zanistarast civilizational climate has been introduced as the upper integrative layer of the framework.
+---
 
+## 📚 Framework Architecture
+
+The system is structured in five interconnected layers:
+
+### 1️⃣ Hebûn — Ontological Ground
+Varlığın öz merkezli okunması.  
+6+Tek ontolojik yapı.
+
+### 2️⃣ Zanabûn — Epistemological Perspective
+Bilginin tanıklık ve sorumlulukla okunması.
+
+### 3️⃣ Mabûn — Natural Operational Model
+Toplumsal ve ekonomik işleyişin doğal denge modeli.
+
+### 4️⃣ Rasterast — Ethical Reading Discipline
+Temiz akıl, temiz fıtrat ve arınmış kalple okuma filtresi.
+
+### 5️⃣ Zanistarast — Meta Integrative Layer
+All layers unified into a whole-system civilizational model.
+
+See: `/zanistarast/`
+
+---
+
+## 🔬 Core Models Implemented
+
+- 4D + 5D World–Moral Decision Model  
+- 6+Tek Ontological Core  
+- 3rd Person Witnessing Model  
+- Mabûn Natural Equilibrium System  
+- Unified Zanistarast Formalism  
+
+---
+
+## 🧭 Foundational Principle
+
+4 dimensions produce data.  
+5th dimension produces moral direction.  
+6+Tek preserves ontological unity.  
+Rasterast ensures ethical calibration.  
+Zanistarast integrates all.
+
+---
+
+## ⚖️ Position
+
+This framework is not an ideology.  
+It is a structural equilibrium model.
+
+It does not reject science.  
+It does not postpone ethics.  
+It integrates both.
 
 # 🚀 SYSTEM STATUS: v1.2 — Fıtrat & Ahlak Çağı Modeli
 
@@ -21,12 +73,12 @@ Civilizational Model Activated ✔
 >
 > v1.0 — Kurucu Çekirdek (Ontoloji + Epistemoloji sabit temel)
 > v1.2 — Hak-merkezli Medeniyet modeli aktif
-- MODEL_4B5B.md — 4 Boyut + 5. Boyut çekirdek modeli
+
 # Fıtrat ve Ahlak Çağı
 
 ![Fıtrat ve Ahlak Çağı Sancağı](fitrat-ve-ahlak-cagi-sancagi.png)
 
-## Fıtrat ve Ahlak Çağı
+
 
 - [Bildiri](bildiri.md)
 
