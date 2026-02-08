@@ -413,3 +413,6 @@ Manifesto: [Rasterast Manifestosu](MANIFESTO.md)
 
 ## Academic Index
 [Academic White Paper Master Index](docs/ACADEMIC-WHITE-PAPER-MASTER-INDEX.md)
+
+## 📄 Official White Paper
+[White Paper v1.2](docs/WHITE-PAPER-v1.2.md)
