@@ -84,3 +84,71 @@ System is internally coherent.
 ---
 
 End of Proof Tree.
+# Proof Tree Structure — Hebûn–Zanabûn Framework
+
+## Purpose
+
+This document formalizes the inferential structure of the framework.
+It demonstrates that the system is not declarative, but deductively layered.
+
+---
+
+# I. Ontological Necessity Layer
+
+Axiom O1:
+Structured existence is necessary.
+
+Axiom O2:
+Unstructured existence collapses into contradiction.
+
+Inference O3:
+Therefore, layered being is ontologically required.
+
+---
+
+# II. Epistemological Necessity Layer
+
+Axiom E1:
+Knowledge requires structured differentiation.
+
+Axiom E2:
+Undifferentiated cognition yields indeterminacy.
+
+Inference E3:
+Therefore, epistemology presupposes ontological layering.
+
+---
+
+# III. Ethical Integration Layer
+
+Axiom H1:
+Decision implies value-weighted structure.
+
+Axiom H2:
+Value without structural grounding becomes arbitrary.
+
+Inference H3:
+Therefore, ethical-hukm integration requires ontological and epistemic grounding.
+
+---
+
+# IV. Civilizational Activation
+
+Premise C1:
+Governance systems require stable ontology + stable epistemology.
+
+Premise C2:
+Ethics must be structurally embedded.
+
+Conclusion C3:
+Civilizational model emerges as a necessary structural extension.
+
+---
+
+# Meta Conclusion
+
+The framework is deductively layered:
+
+Ontology → Epistemology → Ethics → Civilization
+
+Each level depends on the stability of the previous layer.
