@@ -1,0 +1,64 @@
+# Proof — T8
+
+## Teorem
+Hebûn (ontoloji) olmadan Zanabûn (epistemoloji) eksiktir.
+Zanabûn olmadan Hebûn modelleşemez.
+
+Yani:
+Ontoloji + Epistemoloji birlikte gereklidir.
+
+---
+
+## Kullanılan Aksiyomlar
+
+A1 — Katman Aksiyomu  
+A5 — İki-Bilen Şartı  
+A6 — Nesnel Referans  
+A7 — Tutarlılık  
+
+---
+
+## Tanımlar
+
+Ont(x) : x ontolojik tanıma sahiptir  
+Know(x) : x bilgi olarak işlenmiştir  
+Model(x) : x sistematik yapıya dönüştürülmüştür  
+
+---
+
+## Kanıt
+
+1) A1’e göre her varlık bir boyutta tanımlıdır.
+   Yani ontolojik tanım olmadan nesne yoktur.
+
+   Ont(x) yoksa → x tanımsızdır.
+
+2) A5’e göre bilgi statüsü için doğrulama gerekir.
+   Know(x) için nesne tanımlı olmalıdır.
+
+   Ont(x) yoksa → Know(x) kurulamaz.
+
+3) A6’ya göre bilgi akıldan bağımsız referans ister.
+   Bu referans ontolojik zemindir.
+
+   Ontoloji olmadan epistemoloji boş küme üretir.
+
+4) Ters yönde:
+
+   Eğer Ont(x) var ama Know(x) yoksa,
+   sistem tanımlı fakat işlenmemiş kalır.
+
+   Ontoloji bilgiye dönüşmezse model kurulamaz.
+
+5) A7’ye göre çelişkisiz sistem gerekir.
+   Ontoloji ve epistemoloji ayrılırsa
+   tanım ve bilgi arasında kopukluk oluşur.
+
+Sonuç:
+
+Hebûn (ontoloji) olmadan Zanabûn eksik kalır.  
+Zanabûn olmadan Hebûn modelleşemez.  
+
+Dolayısıyla:
+
+Ontoloji + Epistemoloji birlikte sistem oluşturur.
