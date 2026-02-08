@@ -1,0 +1,15 @@
+Title: Hebûn–Zanabûn Framework: A Six-Dimensional Ontology and Ethical-Formal Model
+
+Authors:
+Veysi yê MALA SAF
+
+Primary Category:
+Logic (math.LO)
+
+Secondary Categories:
+Systems and Control (eess.SY)
+Artificial Intelligence (cs.AI)
+Philosophy of Science (phil-sci)
+
+Abstract:
+See abstract.txt
