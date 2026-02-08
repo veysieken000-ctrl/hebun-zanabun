@@ -32,3 +32,49 @@ Amaç: “⊗ ne demek?” tartışması bitmeli.
 - Tip uyuşmazlığına izin yok.
 - Aynı sembol iki farklı işlemde kullanılmaz.
 3) Tip sistemi (x nedir? varlık mı? bilgi mi?)
+
+# OPERATORS — Formal Operator Definitions (v1)
+
+Amaç:
+İşlemler matematiksel netlikte.
+
+---
+
+## ⊕ (Merge)
+
+Tip: (T × T) → T  
+Aynı tip birleşimi.
+
+---
+
+## ⊗ (Composition)
+
+Tip: (A × B) → C  
+Katmanlar arası üretim.
+
+Örnek:
+Bilgi ⊗ Değer → Normatif yapı
+
+---
+
+## ◁ (Normlama)
+
+Tip: (𝕂 × 𝕍) → 𝕂  
+Bilgi, değer filtresinden geçirilir.
+
+---
+
+## ★ (Dual Lock)
+
+Tip: (Ahlak × Hüküm) → Binding
+
+İkili sistem gereği:
+Ahlak + Hüküm birlikte bağlayıcıdır.
+
+---
+
+## Yasak
+
+- Tip dışı işlem yok.
+- Aynı sembol iki işlemde kullanılmaz.
+Buraya kadar temel formal çekirdek tamamlandı.
