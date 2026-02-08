@@ -1,0 +1,119 @@
+LaTeX
+\documentclass[12pt]{article}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\title{Category-Theoretic Model\\Hebûn--Zanabûn v1.2}
+
+\author{Veysi Eken}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Foundational Categories}
+
+Define four categories:
+
+\[
+\mathcal{B} \quad \text{(Ontological Layer)}
+\]
+\[
+\mathcal{K} \quad \text{(Epistemic Layer)}
+\]
+\[
+\mathcal{E} \quad \text{(Ethical Layer)}
+\]
+\[
+\mathcal{C} \quad \text{(Civilizational Layer)}
+\]
+
+Objects represent structural states.
+Morphisms represent transformation or validation processes.
+
+---
+
+\section{Functors}
+
+Define epistemic validation functor:
+
+\[
+F : \mathcal{B} \rightarrow \mathcal{K}
+\]
+
+Ethical alignment functor:
+
+\[
+G : \mathcal{K} \rightarrow \mathcal{E}
+\]
+
+Civilizational construction functor:
+
+\[
+H : \mathcal{E} \rightarrow \mathcal{C}
+\]
+
+---
+
+\section{Composition Structure}
+
+The Hebûn–Zanabûn structure is defined by composition:
+
+\[
+HZ = H \circ G \circ F
+\]
+
+Meaning:
+
+\[
+HZ : \mathcal{B} \rightarrow \mathcal{C}
+\]
+
+---
+
+\section{Coherence Condition}
+
+Structural coherence exists iff:
+
+\[
+H \circ G \circ F
+\]
+
+preserves identity morphisms:
+
+\[
+HZ(id_{\mathcal{B}}) = id_{\mathcal{C}}
+\]
+
+---
+
+\section{Failure Condition}
+
+If any functor breaks:
+
+\[
+F \text{ or } G \text{ or } H
+\]
+
+then composition collapses.
+
+\[
+\neg F \Rightarrow Structural\_Break
+\]
+
+---
+
+\section{Civilizational Activation}
+
+Civilizational layer is active when the composite functor is well-defined and stable.
+
+\[
+Stable(HZ) = True
+\]
+
+\end{document}
