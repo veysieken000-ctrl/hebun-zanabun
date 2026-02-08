@@ -234,3 +234,122 @@ ancak:
 Aksi halde sistem revize edilmelidir.
 
 ---
+# META-THEOREM — Internal Consistency Lock (v1)
+
+Bu dosya, Zanistarast aksiyom setinin (A1–A12) “kilit” seviyesindeki
+iç tutarlılık çerçevesini ve meta-teoremini tanımlar.
+
+Amaç:
+- Sistemin “her şey her şeye gider” tipinde gevşek yorumlanmasını engellemek
+- Aksiyomları tip sistemi + çıkarım kuralları ile sınırlandırmak
+- Teorem üretimini kontrollü hale getirmek
+
+---
+
+## 0) Notasyon ve Tipler (Minimal)
+
+Boyut kümesi:
+- 𝔻 = {1,2,3,4,5,6}
+
+Varlık kümesi:
+- 𝔹 = “varlık taşıyıcıları” (being instances)
+
+Bilgi kümesi:
+- 𝕂 = doğrulanabilir bilgi nesneleri
+
+Normatif bağlayıcılık (hukuki/ahlaki bağ):
+- 𝕁 = bağlayıcı hüküm/karar çıktısı
+
+Özel operatör:
+- ★ = “Dual Kilit Operatörü” (Ahlak × Hüküm birlikte)
+
+Kural:
+- ★ uygulanmadan 𝕁 türetilemez.
+
+---
+
+## 1) Çıkarım Kuralları (Minimal Proof Discipline)
+
+R1 — Non-contradiction gate  
+Eğer Γ ⊢ (p ∧ ¬p) ise Γ çökmüş kabul edilir ve normatif çıktı (𝕁) üretilemez.
+
+R2 — Typing gate  
+Her ifade bir tipe sahip olmalıdır:
+- varlık ifadesi → 𝔹
+- bilgi ifadesi → 𝕂
+- normatif sonuç → 𝕁
+
+Tipi belirsiz ifade “kanıt adımı” sayılamaz.
+
+R3 — Dimension discipline  
+Bir iddia dim(d) belirtmeden “boyut iddiası” olamaz.
+Örn: “indirgenemezlik” iddiası boyutları açıkça söylemek zorundadır.
+
+R4 — Dual Lock discipline  
+Normatif sonuç çıkarımı için:
+- Ahlak bileşeni + Hüküm bileşeni birlikte sağlanmadan
+- 𝕁 türetilemez.
+
+---
+
+## 2) META-THEOREM (MT1) — “Kilit Tutarlılık” Teoremi
+
+**MT1 (Kilit Tutarlılık):**  
+(A1–A12) aksiyom seti, R1–R4 disiplin kuralları altında
+normatif sonuç üretirken çelişkiye düşmeden çalışacak şekilde kısıtlanabilir.
+
+Formel ifade:
+Eğer
+- Γ = {A1..A12}
+- çıkarım kuralları = {R1..R4}
+ise
+
+> Γ ⊬ ⊥ (yani “doğrudan çelişki” türetilemez)
+ve
+> Γ ⊢ 𝕁 yalnızca ★ kapısından geçerek türetilebilir.
+
+---
+
+## 3) MT1 Kanıt Fikri (Proof Sketch)
+
+1) R2 tip kapısı sayesinde “ne olduğu belli olmayan semboller” ile çelişki üretilemez.  
+   (Çünkü tip yoksa adım yoktur.)
+
+2) R1 çelişki kapısı, bir yerde çelişki üretilirse sistemin normatif üretimi durur.  
+   Bu sayede çelişki üzerinden keyfi sonuç türetme engellenir.
+
+3) R3 boyut disiplini, “5’i 3’e indirgerim” gibi belirsiz indirgeme oyunlarını engeller.
+
+4) R4 (★) disiplini, Ahlak veya Hüküm tek başına varken
+   “bağlayıcı düzen” iddiası kurulmasını engeller.
+
+Sonuç:
+- Sistem “açık uçlu metafizik” değil,
+- kontrollü çıkarım üreten bir aksiyomatik çerçevedir.
+
+---
+
+## 4) Teorem Kataloğuna Bağ
+
+Bu meta-teorem, THEOREMS.md’deki özellikle şu teoremleri “kilitler”:
+- T1 (alt boyuta indirgeme → normatif çöküş)
+- T3 (ahlak/hüküm ayrışması → kırılganlık)
+- T9 (iç tutarlılık iddiası)
+
+Bu dosya, T9’un “kanıt standardı”dır.
+
+---
+
+## 5) Sistem Kilidi (Pratik Kural)
+
+Zanistarast’ta şu kural “kilit”tir:
+
+> Her normatif iddia (adalet, hukuk, hüküm) ★ kapısından geçmek zorundadır.
+
+★ yoksa:
+- iddia “yorum” olabilir
+- ama “bağlayıcı bilimsel norm” olamaz
+
+---
+
+Durum: MT1 eklendi → sistemin iç tutarlılığı için savunma katmanı aktif.
