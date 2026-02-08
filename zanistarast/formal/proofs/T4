@@ -1,0 +1,51 @@
+# Proof — T4
+
+## Teorem
+Çelişik bilgi kümelerinden normatif karar türetmek geçersizdir.
+
+## Kullanılan Aksiyomlar
+A5 — İki-Bilen Şartı  
+A7 — Tutarlılık
+
+---
+
+## Tanımlar
+
+𝕀 : bilgi kümesi  
+⊥ : çelişki (tutarsızlık)  
+Derive(𝕀 → 𝕁) : bilgi kümesinden bağlayıcı hüküm/karar türetme girişimi
+
+---
+
+## Kanıt
+
+1) A7’ye göre:
+   (p ∧ ¬p) ⇒ ⊥  
+   yani çelişki içeren yapı bilgi üretmez.
+
+2) Normatif karar (𝕁) türetimi için,
+   türetim yapılan bilgi kümesinin tutarlı olması gerekir:
+   Eğer 𝕀 ⊢ ⊥ ise (𝕀 tutarsızsa),
+   her sonuç çıkarılabilir hale gelir (keyfilik doğar).
+
+3) Keyfilik doğduğunda,
+   karar artık "hak/adalet temelli" değil
+   "çıkarımın rastgeleliği" temelli olur.
+   Bu, sistemin bağlayıcılığını ve güvenilirliğini yıkar.
+
+4) A5’ye göre bilgi statüsü için ikinci doğrulama gerekir:
+   Know(x) ⇒ ∃y : Confirm_y(x)
+
+5) Fakat çelişik bir kümede aynı anda
+   x ve ¬x bulunabildiği için,
+   doğrulama mekanizması da tutarsızlığa düşer:
+   Confirm_y(x) ve Confirm_y(¬x) birlikte mümkün olur.
+   Bu durumda "doğrulama" ölçüt olmaktan çıkar.
+
+6) Dolayısıyla:
+   Çelişik bilgi kümelerinden normatif karar türetimi
+   geçerli değildir.
+
+Sonuç:
+Tutarlılık zorunludur;
+çelişik bilgi kümesi normatif hüküm üretemez.
