@@ -51,3 +51,66 @@ sadece “gözlenen kesit”tir.
 
 ## R7 — İki-Bilen Tanıma Kuralı (2K-Intro)
 Know(k) ⇒ ∃y Confirm_y(k)
+
+# INFERENCE RULES — Zanistarast Deductive System (v1)
+
+Amaç:
+Sistemin nasıl akıl yürüttüğünü açıkça tanımlamak.
+
+Bu kurallar olmadan teoremler yalnızca iddia olur.
+Kurallar sistemi matematiksel hale getirir.
+
+---
+
+## R1 — Katman Yükseltme Kuralı
+
+Eğer bir varlık Dn boyutunda tanımlıysa,
+ve Dn+1 onu kapsıyorsa,
+o zaman projeksiyon mümkündür.
+
+dim(x)=Dn ∧ Dn ⊂ Dn+1
+⇒ proj_Dn(x) tanımlıdır
+
+---
+
+## R2 — Çelişki Eliminasyonu
+
+(x ∧ ¬x) ⇒ ⊥
+
+Çelişkili kümeden normatif hüküm türetilemez.
+
+---
+
+## R3 — Normatif Üretim Kuralı
+
+Normatif sonuç için ★ gerekir.
+
+★(D5, D6) ⇒ 𝕁
+
+Ahlak ve hüküm birlikte değilse bağlayıcı karar üretilemez.
+
+---
+
+## R4 — Onay Zinciri
+
+Know(x) ⇒ ∃y : Confirm_y(x)
+
+Tek onay kanalı bilgi statüsü üretmez.
+
+---
+
+## R5 — Alt Boyut Sabitleme Tehlikesi
+
+dim(system) ⊆ {D1, D2}
+⇒ normatif üretim imkânsız
+
+---
+
+## R6 — Tip Güvenliği
+
+Eğer bir ifade tip kurallarını ihlal ederse,
+o ifade geçersizdir.
+
+TypeError(x) ⇒ ⊥
+
+---
