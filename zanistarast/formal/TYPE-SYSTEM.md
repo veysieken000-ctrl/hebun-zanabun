@@ -100,3 +100,59 @@ Bu tip sistemi sayesinde:
 - Normatif karar = zorunlu iki boyutlu kapıdan geçer
 
 Bu dosya, aksiyomları “mantıksal çerçeveye” sabitler.
+
+# TYPE SYSTEM — Zanistarast Layered Formal Types (v1)
+
+Amaç:
+Sistem içi kavram karışmasını engellemek.
+Her sembolün matematiksel tipini belirlemek.
+
+---
+
+## 1. Temel Tip Kümeleri
+
+𝔹 = Varlık kümesi  
+𝔻₆ = {1,2,3,4,5,6} (Boyut kümesi)  
+𝕂 = Bilgi kümesi  
+𝕍 = Değer (ahlak) kümesi  
+ℍ = Hüküm kümesi  
+𝕁 = Normatif karar kümesi  
+
+---
+
+## 2. Tip Tanımları
+
+dim : 𝔹 → 𝔻₆  
+Know : 𝔹 → 𝕂  
+Value : 𝔹 → 𝕍  
+Judge : (𝕂 × 𝕍) → ℍ  
+Bind : ℍ → 𝕁  
+
+---
+
+## 3. Operatör Tipleri
+
+⊗ : 𝕂 × 𝕍 → ℍ  
+★ : ℍ × 𝕍 → 𝕁  
+⟂ : 𝔹 × 𝔹 → Bool  
+
+---
+
+## 4. Tip Güvenliği Kuralları
+
+T1 — Katman ihlali yasaktır  
+dim(x)=d ⇒ dim(x) ≠ d+2’ye doğrudan geçiş
+
+T2 — Ahlak olmadan norm yok  
+⊗ yalnızca 𝕂 × 𝕍 üzerinde tanımlıdır
+
+T3 — Çelişki tipi  
+(x ∧ ¬x) ⇒ ⊥
+
+---
+
+## 5. Katman Tip Hiyerarşisi
+
+1 ⊂ 2 ⊂ 3 ⊂ 4 ⊂ 5 ⊂ 6
+
+Üst boyut altı kapsar fakat indirgenemez.
