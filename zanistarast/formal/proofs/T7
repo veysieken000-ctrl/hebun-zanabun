@@ -1,0 +1,58 @@
+# Proof — T7
+
+## Teorem
+Hak-merkez (objective right reference) olmadan adalet üretilemez.
+
+## Kullanılan Aksiyomlar
+A8 — Falsifiye Sınırı  
+A11 — Ahlak Filtre Aksiyomu  
+A12 — Dual Kilit (Ahlak ★ Hüküm)
+
+---
+
+## Tanımlar
+
+Hak(x) : x'in nesnel referansla temellenmiş olması  
+Adalet(y) : y'nin bağlayıcı ve evrensel norm üretmesi  
+Keyfilik(z) : z'nin öznel tercih temelli olması  
+
+---
+
+## Kanıt
+
+1) A11’e göre normatif bağlayıcılık için
+   (Bilgi ⊗ Varlık) birlikte gereklidir.
+
+2) Eğer norm üretiminde “hak” nesnel referansı yoksa,
+   norm yalnızca tercih temelli olur.
+
+   Hak(x) yoksa → norm öznel olur.
+
+3) Öznel norm, evrensel bağlayıcılık üretmez.
+
+   Evrensel bağlayıcılık için
+   farklı öznelerin aynı referansa dayanması gerekir.
+
+4) A8’e göre tanımlı her model yanlışlanabilir sınır içerir.
+   Hak referansı olmayan norm,
+   dış referans taşımadığından
+   keyfilikten ayırt edilemez.
+
+5) A12 gereği,
+   bağlayıcı norm için
+   Ahlak ★ Hüküm birlikte gerekir.
+
+   Hak referansı yoksa:
+   hüküm keyfi olur
+   veya ahlak öznel kalır.
+
+6) Keyfi hüküm evrensel adalet değildir.
+
+Sonuç:
+
+Hak-merkez yoksa → norm keyfileşir  
+Norm keyfileşirse → adalet üretilemez  
+
+Dolayısıyla:
+
+Hak referansı olmadan adalet mümkün değildir.
