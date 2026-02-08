@@ -410,3 +410,6 @@ Rasterast çizgisi revize edilmez, yalnızca derinleştirilir
 
 Manifesto: [Rasterast Manifestosu](MANIFESTO.md)
 - [Rasterast Manifestosu](MANIFESTO_RASTERAST.md)
+
+## Academic Index
+[Academic White Paper Master Index](docs/ACADEMIC-WHITE-PAPER-MASTER-INDEX.md)
