@@ -1,0 +1,44 @@
+# Proof — T3
+
+## Teorem
+Ahlak ve hüküm ayrışırsa bağlayıcı düzen üretilemez.
+
+## Kullanılan Aksiyomlar
+A7 — Tutarlılık  
+A11 — Ahlak Filtre Aksiyomu  
+A12 — Dual Kilit (Ahlak ★ Hüküm)
+
+---
+
+## Tanımlar
+
+Ahlak (𝕂): Normatif değer filtresi  
+Hüküm (𝕁): Uygulama/bağlayıcı karar  
+★ : Dual kilit operatörü (normatif bağlayıcılık üretir)
+
+---
+
+## Kanıt
+
+1) A12’ye göre bağlayıcı normatif karar üretimi için:
+   𝕂 ★ 𝕁 birlikte gereklidir.
+
+2) Eğer yalnız ahlak varsa (𝕂 ∧ ¬𝕁):
+   Normatif değer vardır fakat uygulama gücü yoktur.
+   Sonuç: Tavsiye oluşur fakat bağlayıcılık oluşmaz.
+
+3) Eğer yalnız hüküm varsa (𝕁 ∧ ¬𝕂):
+   Uygulama vardır fakat normatif filtre yoktur.
+   Bu durumda karar keyfileşir veya zorbalığa dönüşür.
+
+4) A7’ye göre normatif sistem çelişki üretmemelidir.
+   (𝕂 ∧ ¬𝕁) veya (𝕁 ∧ ¬𝕂) durumları
+   normatif tamlık üretmediğinden sistem kırılgan olur.
+
+5) Dolayısıyla:
+   ★ operatörü (Dual Kilit) olmadan
+   normatif düzen bağlayıcı hale gelemez.
+
+Sonuç:
+Ahlak ve hüküm ayrıştığında
+bağlayıcı düzen üretilemez.
