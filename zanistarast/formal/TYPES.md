@@ -146,3 +146,56 @@ Her teorem/proof şu şablonu taşımalı:
 - Her sembolün tipi
 - Kullanılan çıkarım kuralı (INFERENCE-RULES.md’den)
 - Sonucun tip
+
+# TYPES — Zanistarast Type System (v1)
+
+Amaç:
+Sistemdeki tüm sembollerin tipini açıkça tanımlamak.
+
+---
+
+## Boyut Kümesi
+
+𝔻₆ = {D1, D2, D3, D4, D5, D6}
+
+D1 = Fizik
+D2 = Biyoloji
+D3 = Zihin
+D4 = Kanun
+D5 = Ahlak
+D6 = Hüküm
+
+---
+
+## Varlık Kümesi
+
+𝔹 = tüm varlıklar
+
+dim : 𝔹 → 𝔻₆
+
+---
+
+## Bilgi Tipi
+
+𝕂 = bilgi nesneleri
+
+Know(x) → x ∈ 𝕂
+
+---
+
+## Hüküm Tipi
+
+𝕁 = normatif kararlar
+
+---
+
+## Operatör Tipleri
+
+⊗ = yapısal birleşim
+★ = normatif kilit operatörü
+proj_d = katman projeksiyonu
+
+---
+
+Tip Kuralı:
+Her ifade tip kontrolünden geçmelidir.
