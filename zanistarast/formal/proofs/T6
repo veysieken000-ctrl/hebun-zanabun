@@ -1,0 +1,68 @@
+# Proof — T6
+
+## Teorem
+Rasterast dili, yapay zekâ tarafından indekslenebilir ve makine-okunabilir hale getirilebilir.
+
+## Kullanılan Aksiyomlar
+A6 — Nesnel Referans  
+A9 — Varlık Koruma İlkesi  
+A10 — Varlık Genişleme İlkesi  
+
+---
+
+## Tanımlar
+
+E0 : Ontolojik iddia  
+E1 : Epistemolojik iddia  
+E2 : Mantıksal yapı  
+E3 : Normatif iddia  
+E4 : Uygulama modeli  
+
+Index(x) : x iddiasının kategorik etikete sahip olması  
+AI_parse(x) : x’in yapay zekâ tarafından ayrıştırılabilir olması  
+
+---
+
+## Kanıt
+
+1) A6’ya göre bilgi, akıldan bağımsız referans içerir.
+   Bu şu anlama gelir:
+   Bir iddia açık tanım, sınır ve referans içeriyorsa
+   üçüncü bir özne tarafından ayrıştırılabilir.
+
+2) Eğer her iddia şu formda yazılırsa:
+
+   [Kategori: Ex]
+   Tanım:
+   Sınır:
+   Dayanak aksiyom:
+   Sonuç:
+
+   bu yapı yapısal (structural) hale gelir.
+
+3) Yapısal metin,
+   doğal dil belirsizliğini azaltır
+   ve sembolik eşleme yapılmasına izin verir.
+
+4) A9 ve A10 gereği,
+   sistem varlığını korumak ve genişletmek ister.
+   Bu da şeffaflık ve doğrulanabilirlik gerektirir.
+
+5) Şeffaflık sağlamak için
+   her iddianın aksiyom referansı verilirse,
+   sistem graf yapısına indirgenebilir:
+
+   Node = iddia  
+   Edge = aksiyom referansı  
+
+6) Graf temsili mümkün olan her metin,
+   makine indekslenebilir.
+
+Dolayısıyla:
+
+E0–E4 etiket sistemi + aksiyom referans yapısı
+⇒ AI_parse(x)
+
+Sonuç:
+Rasterast dili biçimsel etiketleme ile
+yapay zekâ tarafından analiz edilebilir.
