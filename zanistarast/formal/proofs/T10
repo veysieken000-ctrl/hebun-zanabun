@@ -1,0 +1,73 @@
+# Proof — T10
+
+## Teorem
+Mabûn ekonomik modeli,
+A7–A12 aksiyomları ile normatif zemine bağlanabilir.
+
+---
+
+## Kullanılan Aksiyomlar
+
+A7 — Tutarlılık  
+A8 — Falsifiye Sınırı  
+A9 — Varlık Koruma  
+A10 — Varlık Genişleme  
+A11 — Ahlak Filtre  
+A12 — Dual Kilit
+
+---
+
+## Tanımlar
+
+𝔼 : ekonomik karar kümesi  
+𝕁 : bağlayıcı hüküm  
+★ : (Ahlak, Hüküm) bileşimi  
+Valid(e) : e kararı normatif olarak geçerli
+
+---
+
+## Kanıt
+
+1) Ekonomik karar (e ∈ 𝔼) yalnızca üretim/tüketim
+   değişkenleriyle tanımlanamaz.
+
+   Çünkü A7 gereği çelişkili sonuç üretmemelidir.
+
+2) A8 gereği ekonomik model sınır tanımlı olmalıdır.
+   Sınırsız büyüme modeli normatif olarak savunulamaz.
+
+3) A9 — Her öz varlığını korumaya yönelir.
+   Ekonomik karar varlık yıkımına yol açıyorsa
+   normatif geçerlilik kaybeder.
+
+4) A10 — Varlık sahası genişlemesi ilkesi.
+   Ekonomi yalnız biyolojik düzeyde kalırsa
+   (sadece tüketim), üst boyut genişlemesi olmaz.
+
+5) A11 — Normatif bağlayıcılık için ★ gerekir.
+   Yani ekonomik karar:
+       (Ahlak ⊗ Hüküm) filtresinden geçmelidir.
+
+6) A12 — Dual Kilit:
+   Ahlak var ama hüküm yoksa uygulanabilirlik yoktur.
+   Hüküm var ama ahlak yoksa meşruiyet yoktur.
+
+   Mabûn modeli:
+   Ekonomik kararı ★ üzerinden normatif zemine bağlar.
+
+7) Dolayısıyla:
+
+   Valid(e) ⇔
+   (Tutarlı ∧ Sınır Tanımlı ∧
+    Varlık Koruma ∧
+    Varlık Genişleme ∧
+    ★ filtresinden geçmiş)
+
+8) Mabûn bu koşulları sağladığı ölçüde
+   normatif-ekonomik model statüsü kazanır.
+
+Sonuç:
+
+Mabûn modeli,
+A7–A12 aksiyomları ile
+normatif olarak temellendirilebilir.
