@@ -1,0 +1,74 @@
+# Proof — T9
+
+## Teorem
+A1–A12 aksiyom kümesi tip kuralları içinde çelişki üretmez.
+(Yani sistem içsel olarak tutarlıdır.)
+
+---
+
+## Kullanılan Aksiyomlar
+
+A1–A12 (tam küme)
+
+---
+
+## Tanımlar
+
+⊥ : çelişki  
+Consistent(S) : S kümesi çelişki üretmez  
+Type(x) : x belirli tiptedir  
+
+Boyut tipleri:
+1 = Fizik
+2 = Biyoloji
+3 = Zihin
+4 = Kanun
+5 = Ahlak
+6 = Hüküm
+
+---
+
+## Kanıt
+
+1) A1 boyut ayrımı getirir.
+   Her varlık tek bir dim(x) ile tanımlıdır.
+   Boyutlar tip olarak ayrıdır.
+
+2) A2 indirgenemezlik getirir.
+   5 ⊄ 3 ve 6 ⊄ 4
+   Böylece tip karışması engellenir.
+
+3) A7 çelişki yasağı koyar:
+   (x ∧ ¬x) ⇒ ⊥
+
+4) Sistem kuralları tip kontrollüdür.
+   Fiziksel bir önerme ahlaki tipte yorumlanamaz.
+   Ahlaki önerme fiziksel kanıtla çürütülemez.
+
+   Bu tip ayrımı çelişki üretimini engeller.
+
+5) A5 doğrulama gerektirir.
+   Tek özneye dayalı çelişki sistem statüsü kazanmaz.
+
+6) A8 yanlışlanabilirlik sınırı koyar.
+   Tanımsız genişleme önlenir.
+
+7) A9–A12 normatif alanı tanımlar.
+   Normatif alan fiziksel alanla aynı tip değildir.
+
+   Böylece "normatif = fiziksel" gibi indirgemeci
+   çelişkiler önlenir.
+
+8) Hiçbir aksiyom kendi tersini üretmez.
+   (A2 ile A1 çelişmez,
+    A7 çelişkiyi yasaklar ama üretmez,
+    A11 normatif gereklilik koyar ama fizikseli inkâr etmez.)
+
+Sonuç:
+
+A1–A12 kümesi tip ayrımı + çelişki yasağı sayesinde
+⊥ üretmez.
+
+Dolayısıyla:
+
+Consistent({A1…A12})
