@@ -1,0 +1,150 @@
+LaTeX
+\documentclass[12pt]{article}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\title{Mathematical Appendix\\Hebûn--Zanabûn Framework v1.2}
+
+\author{Veysi Eken}
+\date{}
+
+\newtheorem{definition}{Definition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}{Proposition}
+
+\begin{document}
+
+\maketitle
+
+\section{Type System}
+
+\begin{definition}[Ontological Entity]
+Let $\mathcal{B}$ be the set of structured beings.
+\end{definition}
+
+\begin{definition}[Epistemic Act]
+Let $\mathcal{K}$ be the set of knowledge acts (witness-based).
+\end{definition}
+
+\begin{definition}[Ethical State]
+Let $\mathcal{E}$ be the set of normative states.
+\end{definition}
+
+\begin{definition}[Civilizational Structure]
+Let $\mathcal{C}$ be the set of governance and institutional configurations.
+\end{definition}
+
+---
+
+\section{Structural Coherence Function}
+
+Define system state:
+
+\[
+S : \mathcal{B} \times \mathcal{K} \times \mathcal{E} \rightarrow \mathcal{C}
+\]
+
+Such that:
+
+\[
+S(b,k,e) = c
+\]
+
+where structural coherence holds if:
+
+\[
+Consistency(b,k,e) = 1
+\]
+
+---
+
+\section{Consistency Axiom}
+
+\begin{proposition}
+A system is structurally stable iff:
+\[
+\forall b \in \mathcal{B}, 
+\exists k \in \mathcal{K}
+\]
+such that epistemic validation preserves ontological integrity.
+\end{proposition}
+
+---
+
+\section{Ethical Coupling Condition}
+
+\begin{theorem}
+If epistemic accountability fails, then civilizational coherence collapses.
+\end{theorem}
+
+Formal condition:
+
+\[
+\neg Accountability(k) \Rightarrow Collapse(c)
+\]
+
+---
+
+\section{Stabilization Model}
+
+Define stabilization stages:
+
+\[
+Stage_1 = (\mathcal{B}, \mathcal{K})
+\]
+
+\[
+Stage_2 = (\mathcal{B}, \mathcal{K}, \mathcal{E})
+\]
+
+\[
+Stage_3 = (\mathcal{B}, \mathcal{K}, \mathcal{E}, \mathcal{C})
+\]
+
+Civilizational activation occurs at Stage 3.
+
+---
+
+\section{Structural Defense Principle}
+
+Let attack vector:
+
+\[
+A : \mathcal{B} \rightarrow Incoherence
+\]
+
+Defense protocol:
+
+\[
+D(A) = Structural\_Reintegration
+\]
+
+If:
+
+\[
+D(A) = 1
+\]
+
+System remains stable.
+
+---
+
+\section{Compact Symbolic Form}
+
+\[
+HZ = (B, K, E, C)
+\]
+
+\[
+Stability(HZ) = 
+\begin{cases}
+1 & \text{if coherence preserved} \\
+0 & \text{otherwise}
+\end{cases}
+\]
+
+\end{document}
