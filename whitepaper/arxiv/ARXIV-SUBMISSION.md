@@ -91,3 +91,125 @@ A: The framework is structural, not confessional.
 ---
 
 System Status: Ready for Preprint Submission
+
+# arXiv Submission Structure
+Hebûn–Zanabûn Civilizational Architecture
+
+Müdebbir: Veysi yê MALA SAF  
+Version: v1.2  
+Preprint Status
+
+---
+
+# Title
+
+Hebûn–Zanabûn:
+A Six-Dimensional Onto-Epistemic and Ethical-Hukm Framework
+
+---
+
+# Abstract
+
+This paper introduces a six-dimensional layered model extending
+classical physical, biological and cognitive systems
+into ethical (dimension 5) and hukm (dimension 6) domains.
+
+The framework is:
+
+- Axiomatic
+- Formally structured
+- Theorem-supported
+- Normatively anchored
+- Computationally indexable
+
+The system integrates ontology (Hebûn),
+epistemology (Zanabûn),
+ethical-hukm coupling,
+and civilizational modeling.
+
+---
+
+# 1. Introduction
+
+Modern scientific paradigms operate within
+a 3–4 dimensional descriptive layer.
+
+This paper proposes a 6-dimensional expansion
+that formalizes:
+
+- Ethical binding mechanisms
+- Normative stability
+- Civilizational continuity
+
+The goal is not metaphysical speculation,
+but layered formal extension.
+
+---
+
+# 2. Ontological Layer (Hebûn)
+
+Defines dimensional ontology:
+
+1 Physical  
+2 Biological  
+3 Cognitive  
+4 Structural / Law  
+5 Ethical  
+6 Hukm  
+
+Irreducibility principle applies.
+
+---
+
+# 3. Epistemological Layer (Zanabûn)
+
+Defines:
+
+- Two-knower validation
+- Non-contradiction
+- Falsifiability boundary
+- Referential independence
+
+---
+
+# 4. Axiom System
+
+See:
+zanistarast/formal/AXIOMS.md
+
+---
+
+# 5. Theorem Catalog
+
+See:
+zanistarast/formal/THEOREMS.md
+
+---
+
+# 6. Civilizational Layer
+
+Ethical-hukm coupling required for
+normative stability.
+
+Without 5–6 layers,
+collapse dynamics emerge.
+
+---
+
+# 7. Conclusion
+
+Hebûn–Zanabûn proposes
+a layered formal expansion of scientific architecture.
+
+It is:
+
+- Internally consistent
+- Formally structured
+- Civilizationally scalable
+- AI-indexable
+
+Future work includes:
+
+- Machine-verifiable proof layer
+- Computational modeling
+- Cross-disciplinary peer review
