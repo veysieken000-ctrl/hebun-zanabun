@@ -38,3 +38,73 @@ Amaç: AI/insan okur “sembol ne?” diyemesin.
 - Rasterast: okuma/davet dili (akıl-fıtrat-vicdan-adalet hattı)
 - Ehad: mutlak hüküm kaynağı (aksiyomatik çerçevede ‘H’ ile temsil)
 2) Operatör tipleri (×, ·, ⊗ vs. “ne işlem?”)
+
+# SYMBOLS — Zanistarast Formal Symbol Dictionary (v1)
+
+Amaç:
+Tüm semboller tek anlamlıdır.
+Belirsizlik yoktur.
+AI ve insan için aynı okunabilirlik.
+
+---
+
+## 1. Kümeler
+
+𝔻 := Boyutlar kümesi  
+𝔻₆ := {1,2,3,4,5,6}
+
+𝔹 := Varlıklar kümesi  
+𝕂 := Bilgi nesneleri  
+𝕍 := Değer / Vicdan ölçütleri  
+𝕁 := Hüküm / bağlayıcı karar
+
+---
+
+## 2. Boyut Tanımları
+
+1 → Fizik  
+2 → Biyoloji  
+3 → Zihin  
+4 → Kanun / Doğa düzeni  
+5 → Ahlak (Mana)  
+6 → Hüküm (Hak-merkez)
+
+---
+
+## 3. Fonksiyonlar
+
+dim(x) ∈ 𝔻₆  
+→ x’in baskın boyutu
+
+proj_d(x)  
+→ x’in d-boyut projeksiyonu
+
+layer(d)  
+→ d-boyutunun tanım kümesi
+
+---
+
+## 4. İlişkiler
+
+x ⊑ y  
+→ x, y tarafından kapsanır (alt-üst ilişkisi)
+
+x → y  
+→ nedensel / işlevsel geçiş
+
+x ⟂ y  
+→ uyumsuzluk / çelişki
+
+x ≡ y  
+→ tanımsal eşdeğerlik
+
+x ⊨ φ  
+→ x, φ önermesini sağlar
+
+---
+
+## 5. Temel İlkeler
+
+- Her sembol tek anlamlıdır.
+- Tip uyuşmazlığı yasaktır.
+- Katmanlar indirgenemez; yalnızca projekte edilir.
