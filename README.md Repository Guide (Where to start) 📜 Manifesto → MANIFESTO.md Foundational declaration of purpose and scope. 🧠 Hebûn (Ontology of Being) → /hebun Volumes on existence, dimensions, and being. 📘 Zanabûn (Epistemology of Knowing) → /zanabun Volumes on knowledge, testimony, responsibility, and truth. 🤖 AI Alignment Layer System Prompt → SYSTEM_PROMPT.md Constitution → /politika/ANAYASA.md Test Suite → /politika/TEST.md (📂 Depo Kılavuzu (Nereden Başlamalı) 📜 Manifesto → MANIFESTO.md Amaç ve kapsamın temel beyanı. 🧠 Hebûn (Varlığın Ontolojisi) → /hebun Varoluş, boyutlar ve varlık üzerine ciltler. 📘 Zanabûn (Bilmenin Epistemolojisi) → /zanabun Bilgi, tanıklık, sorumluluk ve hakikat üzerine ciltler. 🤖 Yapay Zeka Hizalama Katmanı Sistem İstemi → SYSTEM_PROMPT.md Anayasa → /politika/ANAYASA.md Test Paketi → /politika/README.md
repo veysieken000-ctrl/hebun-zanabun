@@ -416,3 +416,12 @@ Manifesto: [Rasterast Manifestosu](MANIFESTO.md)
 
 ## 📄 Official White Paper
 [White Paper v1.2](docs/WHITE-PAPER-v1.2.md)
+## Academic White Paper
+
+Formal academic master document:
+
+whitepaper/WHITEPAPER-MASTER.md
+
+Formal mathematical layer:
+
+formal/
