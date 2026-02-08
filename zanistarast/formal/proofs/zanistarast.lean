@@ -1,3 +1,4 @@
+İçerik (Lean taslağı)
 /-
 ZANISTARAST FORMALIZATION (Lean Skeleton)
 Version v1
