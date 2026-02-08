@@ -1,0 +1,73 @@
+# Proof — T5
+
+## Teorem
+Sistem sadece biyolojiye sabitlenirse varlık sahası daralır (çöküş dinamiği).
+
+## Kullanılan Aksiyomlar
+A9 — Varlık Koruma İlkesi  
+A10 — Varlık Genişleme İlkesi  
+A11 — Ahlak Filtre Aksiyomu  
+A12 — Dual Kilit (Ahlak ★ Hüküm)
+
+---
+
+## Tanımlar
+
+𝔻₆ = {1,2,3,4,5,6} : boyutlar kümesi  
+Fix₂(S) : sistem S'nin 2. boyuta (biyoloji) sabitlenmesi  
+Σ(x) : x öznesinin varlık sahası (genişlik alanı)  
+ΔΣ : varlık sahası değişimi (genişleme + / daralma -)
+
+Biyolojik sabitleme (Fix₂) şu anlama gelir:
+- amaç ve değer ölçütleri 1–2 boyuta indirgenir:
+  hayatta kalma, üreme, tüketim, konfor.
+
+---
+
+## Kanıt
+
+1) A9 ve A10 birlikte şunu verir:
+   Her öz hem varlığını korumaya (A9),
+   hem varlık sahasını genişletmeye (A10) yönelir.
+
+2) Fix₂(S) altında sistemin değerlendirme ölçütleri
+   yalnız biyolojik başarıya indirgenir:
+   - "fayda" = bedensel/biçimsel rahatlık
+   - "iyi" = biyolojik çıkar
+   - "doğru" = kısa vadeli işlev
+
+3) Bu indirgeme, A11’i devre dışı bırakır:
+   A11’e göre normatif bağlayıcılık için
+   (𝕂 ⊗ 𝕍) gerekir.
+   Yani:
+   - 𝕂 = bilgi/akıl (ne yapıyorum?)
+   - 𝕍 = varlık/öz yönelimi (niçin yapıyorum?)
+   Fix₂ altında "niçin" sorusu bastırılır,
+   sistem "nasıl daha çok yaşarım/tüketirim"e sıkışır.
+
+4) A12’ye göre bağlayıcı norm için:
+   Ahlak ★ Hüküm birlikte gerekir.
+   Fix₂ altında ahlak boyutu (5) ve hüküm (6) işlevsizleşir.
+   Dolayısıyla ★ kurulamaz.
+
+5) ★ yoksa,
+   kararlar bağlayıcı ilke üretmez;
+   yalnız güç/çıkar üzerinden akar.
+   Bu durum sistemin iç dengesini bozar:
+   - bireyler arası çatışma artar,
+   - kaynak tüketimi artar,
+   - uzun vadeli düzen yıkılır.
+
+6) Çatışma ve keyfilik arttıkça,
+   özlerin varlık sahası daralır:
+   - güven azalır,
+   - anlam azalır,
+   - toplum çözülür,
+   - çevre ve kaynaklar tükenir.
+
+Bu, ΔΣ < 0 üretir.
+
+Sonuç:
+Fix₂(S) ⇒ ΔΣ < 0  
+Yani sistem biyolojiye sabitlenirse
+varlık sahası daralır ve çöküş dinamiği oluşur.
