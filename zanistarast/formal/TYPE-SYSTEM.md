@@ -455,3 +455,168 @@ Bu dosya güncellenirse, tüm teorem/proof dosyaları buna göre revize edilir.
 - Tipi belirsiz sembolle teorem yazılmaz.
 - projeksiyon indirgeme gibi kullanılmaz.
 - “metafor” kanıt yerine konmaz; sadece yönlendirici anlatımdır.
+# TYPE-SYSTEM — Formal Typing Rules (v1)
+
+Amaç:
+Zanistarast sisteminde kullanılan tüm varlıkların
+hangi tipte olduğunu netleştirmek.
+
+Bu dosya olmadan:
+— Kavram karışır
+— Ontoloji epistemolojiye karışır
+— Normatif sonuç ile betimleyici ifade ayrılmaz
+
+Tip sistemi = disiplin demektir.
+
+---
+
+## 1) Temel Tipler
+
+### 𝔹 — Varlık Kümesi
+Tüm varlık nesneleri
+
+x : 𝔹
+
+---
+
+### 𝔻₆ — Boyut Kümesi
+
+𝔻₆ = {1,2,3,4,5,6}
+
+1 = Fizik  
+2 = Biyoloji  
+3 = Zihin  
+4 = Kanun  
+5 = Ahlak  
+6 = Hüküm  
+
+---
+
+### Agent — Bilen Özne
+
+a : Agent
+
+---
+
+### Claim — İddia / Önerme
+
+p : Claim
+
+---
+
+### Norm — Bağlayıcı Sonuç
+
+J : Norm
+
+---
+
+## 2) Fonksiyon Tipleri
+
+---
+
+### dim
+
+dim : 𝔹 → 𝔻₆
+
+Bir varlığın hangi boyutta olduğunu belirtir.
+
+---
+
+### proj_d
+
+proj_d : 𝔹 → 𝔹
+
+Bir varlığın alt boyuta izdüşümü.
+
+---
+
+### Confirm
+
+Confirm : Agent × Claim → Bool
+
+Bool ∈ {0,1}
+
+İki-Bilen şartının tip tanımı.
+
+---
+
+## 3) Operatör Tipleri
+
+---
+
+### ★ (Dual Binding)
+
+★ : (Ahlak × Hüküm) → Norm
+
+Tip kuralı:
+Eğer A ∉ 5. boyut ise ★ çalışmaz.
+Eğer H ∉ 6. boyut ise ★ çalışmaz.
+
+---
+
+### ⊗ (Gerekli Birleşim)
+
+⊗ : (Bilgi × Değer) → Ön-Norm
+
+Salt bilgi → norm üretmez.
+Salt değer → norm üretmez.
+
+---
+
+### ⟂ (Karşıtlık)
+
+⟂ : 𝔹 × 𝔹 → Relation
+
+---
+
+## 4) Tip Güvenliği Kuralları
+
+Kural 1:
+Boyut atlaması indirgeme değildir.
+
+Kural 2:
+Alt boyut üst boyutu üretemez.
+
+¬(3 → 5)
+
+Kural 3:
+Norm üretimi yalnızca 5 ve 6 boyut birlikteliği ile mümkündür.
+
+---
+
+## 5) Tip Çakışması Yasakları
+
+Bir nesne aynı anda hem:
+
+p : Claim  
+ve  
+p : Norm  
+
+olamaz.
+
+Betimleyici ifade normatif sonuç değildir.
+
+---
+
+## 6) Sistem Güvenliği
+
+Eğer tip ihlali varsa:
+
+⊥
+
+Sistem çelişkiye düşer ve norm üretimi durur.
+
+---
+
+Sonuç:
+
+Bu dosya sayesinde:
+
+• Ontoloji epistemolojiye karışmaz  
+• Ahlak fizik yerine geçmez  
+• Hüküm zihin yerine geçmez  
+• Norm üretimi disipline edilir  
+
+Zanistarast = Tip güvenli sistemdir.
+
+
