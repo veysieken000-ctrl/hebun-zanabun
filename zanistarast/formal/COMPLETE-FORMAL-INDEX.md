@@ -177,3 +177,32 @@ Eleştirilebilir,
 Genişletilebilir,
 
 ama “tanımsız” değildir.
+
+# COMPLETE-FORMAL-INDEX — Zanistarast Formal Layer (v1)
+
+**Müdebbir:** Veysi yê MALA SAF
+
+Bu dizin, Zanistarast’ın biçimsel (formal) çekirdeğini kilitler:
+- semboller → tip sistemi → aksiyomlar → teoremler → kanıt iskeletleri
+
+## 0) Giriş
+Hedef: Zanistarast’ı “yorum” değil “tanım + kural + test” düzeyinde ifade etmek.
+
+## 1) Semboller
+- `SYMBOLS.md`
+
+## 2) Tip Sistemi
+- `TYPE-SYSTEM.md` (boyutlar, varlık tipleri, bilgi tipleri, norm tipleri)
+
+## 3) Aksiyom Seti
+- `AXIOMS.md` (A1..A12)
+
+## 4) Teorem Kataloğu
+- `THEOREMS.md` (T1..T10)
+- `proofs/` (T1..T10 kanıt iskeletleri)
+
+## 5) Makine-Doğrulama Taslağı
+- `MACHINE-CHECK.md` (Lean/Coq/Isabelle yol haritası)
+
+> Not: “tam kanıt” zamanla büyür; ama omurga burada değişmez biçimde sabitlenir.
+4) Civilizational Layer (medeniyet katmanı) — “çekirdek meyve verir”
