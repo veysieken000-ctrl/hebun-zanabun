@@ -122,3 +122,38 @@ A12 — Dual Norm Kilidi
 Bağlayıcı norm için ahlak ve hüküm birlikte gereklidir.
 
 Binding(x) ⇒ (Moral(x) ∧ Judgment(x))
+
+A13-MT1 — Üst-Perspektif Zorunluluğu (System Lock)
+
+**İddia (MT1):**  
+Her doğrulama/karar/teori üretimi için sistem dışı bir referans (üst-perspektif) zorunludur.
+
+### Formal
+S = (x,y) ikili yapı olsun.
+
+1) Doğrulama operatörü: `Verify(·)`  
+2) İç sistemde her ifade `φ` için `φ ∈ S` kabul edilsin.
+
+**MT1:**
+> `Verify(φ)` ancak `∃z : z ∉ S ∧ Observes(z,S)` ise mümkündür.
+
+### Kullanılan aksiyomlar
+- A5 (İki-bilen şartı)
+- A6 (Nesnel referans)
+- A7 (Tutarlılık)
+- A12 (Dual kilit: ahlak★hüküm)
+- A13 (Üst-perspektif aksiyomu)
+
+### Sonuç
+- Bilim içe kapanamaz.
+- Katmanların üstten okunması zorunludur.
+- İndirgemeci “tek katman” bilim iddiası sistemsel olarak eksiktir.
+
+---
+
+## MT1’in Sistem Kilidi Etkisi
+- Hebûn (ontoloji) → katman tanımı sağlar
+- Zanabûn (epistemoloji) → doğrulama şartını koyar
+- Zanistarast formal katman → “üst-perspektif” zorunluluğunu kilitler
+
+Bu kilit bozulursa sistem çelişkiye düşer (A7).
