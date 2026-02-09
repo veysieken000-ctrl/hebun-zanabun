@@ -1,0 +1,16 @@
+Yaml
+
+cff-version: 1.2.0
+title: "Hebûn–Zanabûn Framework"
+version: "v1.3"
+doi: 10.5281/zenodo.18532718
+authors:
+  - family-names: "MALA SAF"
+    given-names: "Veysi yê"
+    name-particle: ""
+    affiliation: "Hebûn–Zanabûn Civilizational Research"
+    orcid: ""
+date-released: 2026-02-09
+license: MIT
+abstract: >
+  A Hak-centered ontological, epistemological and civilizational framework.
