@@ -435,3 +435,23 @@ Operatörler:
 - ⊗, ★, Confirm, Know, Supports, proj_d, dim
 
 Bu dosya güncellenirse, tüm teorem/proof dosyaları buna göre revize edilir.
+
+# TYPE-SYSTEM — Types & Valid Statements (v1)
+
+## 1) Temel tipler
+- Entity: x, y, z ∈ 𝔹
+- Dimension: d ∈ 𝔻₆
+- Agent: a, b ∈ 𝔸
+- Claim/Proposition: p ∈ 𝕂
+- Norm/Judgment: j ∈ 𝕁
+
+## 2) Geçerli ifade kalıpları
+- dim(x)=d (Entity → Dimension)
+- proj_d(x)=x_d (Entity × Dimension → Entity-view)
+- Confirm_a(p) (Agent × Claim → Bool)
+- (Ahlak ★ Hüküm) ⇒ j (Lock → Norm)
+
+## 3) Yasak (AI için kritik)
+- Tipi belirsiz sembolle teorem yazılmaz.
+- projeksiyon indirgeme gibi kullanılmaz.
+- “metafor” kanıt yerine konmaz; sadece yönlendirici anlatımdır.
