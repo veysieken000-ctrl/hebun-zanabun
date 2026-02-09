@@ -1,42 +1,107 @@
 \documentclass[11pt]{article}
-\usepackage{amsmath, amssymb}
+
+\usepackage{amsmath,amssymb,amsthm}
 \usepackage{hyperref}
+\usepackage{geometry}
+\geometry{margin=1in}
 
-\title{Hebûn--Zanabûn Framework:
-A Hak-Centered Ontological and Epistemological Architecture}
+\title{
+An Axiomatic Onto-Epistemic Model \\
+of the Hebûn--Zanabûn Framework
+}
 
-\author{Veysi yê MALA SAF}
+\author{
+Veysi yê MALA SAF \\
+Hebûn–Zanabûn Civilizational Research
+}
 
-\date{}
+\date{\today}
+
+\newtheorem{definition}{Definition}
+\newtheorem{axiom}{Axiom}
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}{Proposition}
+\newtheorem{corollary}{Corollary}
 
 \begin{document}
 
 \maketitle
 
 \begin{abstract}
-This paper introduces the Hebûn--Zanabûn framework,
-a layered ontological and epistemological model
-integrating formal structure, ethical calibration,
-and civilizational stabilization.
+We present a formal axiomatic model of the Hebûn--Zanabûn framework,
+integrating ontological grounding, epistemological structure,
+and ethical calibration within a unified formal system.
+The goal is to define a minimal consistent axiomatic core
+capable of supporting layered civilizational reasoning.
 \end{abstract}
 
 \section{Introduction}
 
-The Hebûn--Zanabûn framework proposes a layered
-civilizational architecture integrating ontology,
-epistemology and normative alignment.
+The Hebûn--Zanabûn system proposes a structured ontological
+and epistemological architecture.
+This paper extracts its formal core
+and presents it as an axiomatic system.
 
-\section{Ontological Layer}
+\section{Formal Language}
 
-...
+\subsection{Primitive Sets}
 
-\section{Epistemological Layer}
+\begin{definition}
+Let $\mathcal{B}$ denote the set of ontological states (Being).
+\end{definition}
 
-...
+\begin{definition}
+Let $\mathcal{K}$ denote the set of knowledge states.
+\end{definition}
 
-\section{Formal Axiomatics}
+\begin{definition}
+Let $\mathcal{E}$ denote the set of ethical calibration functions.
+\end{definition}
 
-See Zenodo DOI:
-\url{https://doi.org/10.5281/zenodo.18532718}
+\section{Axiomatic Core}
+
+\begin{axiom}[Ontological Ground]
+There exists a non-empty base state $b_0 \in \mathcal{B}$.
+\end{axiom}
+
+\begin{axiom}[Epistemic Mapping]
+There exists a mapping
+\[
+\phi : \mathcal{B} \to \mathcal{K}
+\]
+such that knowledge states are derived from ontological states.
+\end{axiom}
+
+\begin{axiom}[Ethical Calibration]
+There exists a function
+\[
+\psi : \mathcal{K} \to \mathcal{E}
+\]
+that constrains knowledge application.
+\end{axiom}
+
+\section{Consistency Sketch}
+
+\begin{proposition}
+If $\mathcal{B} \neq \emptyset$, then
+$\mathcal{K}$ and $\mathcal{E}$ are constructible.
+\end{proposition}
+
+\begin{proof}
+Given Axiom 1, $b_0$ exists.
+By Axiom 2, $\phi(b_0)$ exists.
+By Axiom 3, $\psi(\phi(b_0))$ exists.
+Hence the layered system is non-empty.
+\end{proof}
+
+\section{Conclusion}
+
+We defined a minimal consistent formal core
+of the Hebûn--Zanabûn system.
+Future work includes type-theoretic formalization
+and machine verification in Lean or Coq.
+
+\bibliographystyle{plain}
+\bibliography{references}
 
 \end{document}
