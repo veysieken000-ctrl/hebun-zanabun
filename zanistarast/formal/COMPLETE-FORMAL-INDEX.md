@@ -206,3 +206,163 @@ Hedef: Zanistarast’ı “yorum” değil “tanım + kural + test” düzeyind
 
 > Not: “tam kanıt” zamanla büyür; ama omurga burada değişmez biçimde sabitlenir.
 4) Civilizational Layer (medeniyet katmanı) — “çekirdek meyve verir”
+# COMPLETE-FORMAL-INDEX
+Zanistarast Formal Architecture Map (v1)
+
+Amaç:
+Formal katmanın tamamını tek yerden haritalamak.
+Bu dosya sistemin matematiksel omurgasını kilitler.
+
+---
+
+## 0. Yapısal Katmanlar
+
+Formal katman şu dosyalardan oluşur:
+
+1. GLOSSARY-SYMBOLS.md
+2. OPERATORS.md
+3. TYPE-SYSTEM.md
+4. AXIOMS.md
+5. THEOREMS.md
+6. proofs/ (T1–T10)
+7. META-THEOREMS.md
+8. MODAL-LOGIC-EXTENSION.md
+9. PROOF-TREE-STRUCTURE.md
+10. COMPUTATIONAL-MODEL.md
+11. MACHINE-CHECK.md
+
+Bu indeks = sistemin matematiksel haritasıdır.
+
+---
+
+## I. Tanım Katmanı
+
+### Semboller
+→ GLOSSARY-SYMBOLS.md
+
+### Operatörler
+→ OPERATORS.md
+
+### Tip Kuralları
+→ TYPE-SYSTEM.md
+
+Bu üçü olmadan aksiyomlar çalışmaz.
+
+---
+
+## II. Aksiyomatik Katman
+
+→ AXIOMS.md
+
+A1–A12:
+
+Ontolojik  
+Epistemolojik  
+Ahlaki  
+Hüküm
+
+Bu katman sezgisel değil,
+aksiyomatik temellidir.
+
+---
+
+## III. Teorem Katmanı
+
+→ THEOREMS.md  
+→ proofs/
+
+T1–T10
+
+Her teorem:
+• Aksiyom referansı içerir  
+• Mantıksal çıkarım zinciri içerir  
+• Tip uyumu gözetir  
+
+---
+
+## IV. Meta-Kilit Katmanı
+
+→ META-THEOREMS.md
+
+Burada sistemin:
+
+• İç tutarlılığı
+• Boyut indirgenemezliği
+• Norm üretim zorunluluğu
+
+kilitlenir.
+
+---
+
+## V. Mantıksal Genişletme
+
+→ MODAL-LOGIC-EXTENSION.md  
+→ PROOF-TREE-STRUCTURE.md  
+
+Sistem klasik mantık + modal yapı ile ifade edilir.
+
+---
+
+## VI. Hesaplanabilir Model
+
+→ COMPUTATIONAL-MODEL.md
+
+Sistem pseudo-code düzeyinde ifade edilmiştir.
+
+Norm üretimi algoritmik olarak simüle edilebilir.
+
+---
+
+## VII. Makine Doğrulama Taslağı
+
+→ MACHINE-CHECK.md
+
+Lean / Coq / Isabelle için:
+
+• Tip tanımları
+• Aksiyom gövdesi
+• Teorem şemaları
+
+hazırlanmıştır.
+
+---
+
+## VIII. Sistem Özeti
+
+Zanistarast formal mimarisi:
+
+Tanım → Tip → Aksiyom → Teorem → Meta-Teorem → Model → Makine Kontrol
+
+Her katman bir üstünü taşır.
+Hiçbiri atlanamaz.
+
+---
+
+## IX. Kilit İlkeler
+
+1. Üst boyut alt boyuta indirgenemez.
+2. Norm üretimi 5+6 birlikteliği gerektirir.
+3. Çelişki sistem durdurur.
+4. Bilgi ikinci onay gerektirir.
+5. Tip ihlali norm üretimini bozar.
+
+---
+
+## Sonuç
+
+Bu dosya:
+
+Zanistarast’ın matematiksel çekirdeğini
+tek bir çatı altında sabitler.
+
+Artık sistem:
+
+• Felsefi değil
+• Metinsel değil
+• Formalize edilmiş
+• Aksiyomatik
+• Makineye açılabilir
+
+bir yapıdır.
+
+
