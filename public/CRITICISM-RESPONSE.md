@@ -92,3 +92,34 @@ Formalize edilmiştir.
 Normatif kilidi vardır.
 
 Müdebbir: Veysi yê MALA SAF
+
+# CRITICISM-RESPONSE — Zanistarast Savunma Katmanı (v1)
+
+**Müdebbir:** Veysi yê MALA SAF
+
+Bu metin polemik değil, yöntem savunmasıdır.
+
+## C1 — “Bu bilim değil, metafizik”
+**Yanıt:** Zanistarast bilim tanımını “tanıklık + onay + test” üzerine kurar.
+1–4 katmanda gözlem/deney; 5–6 katmanda normatif test (zarar/fayda, tutarlılık, fıtrat uyumu).
+Metafizik iddia değil: üst-katman doğrulama protokolüdür.
+
+## C2 — “Normatif olan bilim olmaz”
+**Yanıt:** İnsan eylemi (ahlak) zaten sonuç üretir.
+Zanistarast normatif sonucu “test edilebilir” hale getirir:
+hüküm → uygulama → sonuç → geri test.
+
+## C3 — “Dinsel referanslar taraflı yapar”
+**Yanıt:** Zanistarast’ın çekirdeği yöntemdir:
+tutarlılık, iki-bilen şartı, sonuç testi.
+Dinsel kaynaklar “hak ölçüsü” olarak sunulur; yöntemsel testten kaçış değildir.
+
+## C4 — “6 boyut keyfi”
+**Yanıt:** Boyutlar keyfi değil işlevsel katmanlardır:
+(1) fizik (2) biyoloji (3) zihin (4) kanun (5) ahlak (6) hüküm.
+Sistem, indirgeme hatasına karşı tasarlanmıştır: üst katman alt katmana indirgenemez.
+
+## C5 — “Kanıt yok”
+**Yanıt:** Formal katman:
+`zanistarast/formal/` altında tip sistemi + aksiyom seti + teorem katalogu + kanıt iskeletleri vardır.
+Makine-doğrulama yolu da planlanmıştır.
