@@ -353,3 +353,20 @@ Zanistarast’ta şu kural “kilit”tir:
 ---
 
 Durum: MT1 eklendi → sistemin iç tutarlılığı için savunma katmanı aktif.
+
+# Proof — T11 (v1)
+
+## İddia
+Sistem kendi içinden mutlak doğrulama üretemez.
+
+## Kullanılan aksiyomlar
+A6, A7, A13
+
+## Kanıt taslağı
+1) S = (x,y) ikili yapı olsun.
+2) S içindeki her doğrulama mekanizması S’nin parçasıdır.
+3) Doğrulayıcı da doğrulanacak şeye bağımlı hale gelirse döngü oluşur.
+4) Döngü, tutarlılık üretmez (A7).
+5) Döngüyü kırmak için sistem dışı referans gerekir (A6).
+6) Sistem dışı referans, üst-perspektiftir (A13).
+Sonuç: Mutlak doğrulama iç sistemden çıkmaz. QED.
