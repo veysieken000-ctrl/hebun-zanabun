@@ -103,3 +103,161 @@ Amaç: Sembollerin “hangi tür işlem” olduğunu sabitlemek.
 ## 4) Confirm_y(p)
 - Tip: doğrulama operatörü (epistemik kontrol)
 - Kullanım: Know(p) ⇒ ∃y Confirm_y(p)
+# OPERATORS — Semantic Operator Definitions (v1)
+
+Amaç:
+Zanistarast formal yapısında kullanılan tüm operatörlerin
+matematiksel ve semantik anlamını netleştirmek.
+
+Bu dosya sembollerin yalnızca adını değil,
+mantıksal davranışını tanımlar.
+
+---
+
+## 1) Mantıksal Operatörler
+
+### → (İmplikasyon)
+
+Tanım:
+p → q ≡ ¬p ∨ q
+
+Anlam:
+p doğru ise q zorunludur.
+Zanistarast’ta boyut geçişlerinde sık kullanılır.
+
+---
+
+### ∧ (Konjonksiyon)
+
+p ∧ q yalnızca her ikisi doğruysa doğrudur.
+
+Normatif bağlayıcılık için
+Ahlak ∧ Hüküm birlikte gerekir.
+
+---
+
+### ∨ (Disjunction)
+
+p ∨ q en az biri doğruysa doğrudur.
+
+---
+
+### ¬ (Negation)
+
+¬p → p doğru değildir.
+
+---
+
+### ⊥ (Çelişki)
+
+p ∧ ¬p ⇒ ⊥
+
+Çelişki oluşursa sistem bilgi üretmez.
+
+---
+
+## 2) Zanistarast Özgü Operatörler
+
+---
+
+### ★ (Dual Binding Operator)
+
+Tanım:
+
+★(A,H) ⇒ 𝕁
+
+Burada:
+
+A = Ahlak bileşeni  
+H = Hüküm bileşeni  
+𝕁 = Bağlayıcı normatif sonuç
+
+Kural:
+★ olmadan bağlayıcılık yoktur.
+
+Semantik anlam:
+Tek taraflı norm üretilemez.
+Ahlak tek başına yeterli değildir.
+Hüküm tek başına yeterli değildir.
+
+---
+
+### ⊗ (Gerekli Birleşim)
+
+Tanım:
+
+(𝕂 ⊗ 𝕍)
+
+𝕂 = Bilgi
+𝕍 = Değer
+
+Anlam:
+Normatif üretim için hem bilgi hem değer gerekir.
+Salt bilgi norm üretmez.
+
+---
+
+### ⟂ (Ontolojik Karşıtlık)
+
+x ⟂ y
+
+Anlam:
+x, y olmadan görünür hale gelmez.
+
+Örnek:
+iyi ⟂ kötü
+varlık ⟂ yokluk
+
+Bu operatör ontolojik dualiteyi ifade eder.
+
+---
+
+## 3) Fonksiyonel Operatörler
+
+---
+
+### dim(x)
+
+x’in boyutunu verir.
+
+dim : 𝔹 → 𝔻₆
+
+---
+
+### proj_d(x)
+
+x’in d boyutuna izdüşümünü verir.
+
+proj_d : 𝔹 → 𝔹
+
+Kural:
+proj_d(x) alt boyuta indirgeme değildir,
+yalnızca izdüşümdür.
+
+---
+
+### Confirm_y(p)
+
+y’nin p iddiasını onaylaması.
+
+Confirm : Agent × Claim → {0,1}
+
+İki-Bilen şartının formel operatörüdür.
+
+---
+
+## 4) Meta-Kural
+
+Hiçbir özel operatör
+mantıksal çelişki üretmeyecek şekilde tanımlanmıştır.
+
+★, ⊗, ⟂ operatörleri
+standart mantıkla uyumlu genişletilmiş semantik operatörlerdir.
+
+---
+
+Sonuç:
+Bu dosya,
+Zanistarast’ın “sezgisel değil,
+operatör-semantik temelli” olduğunu gösterir.
+
