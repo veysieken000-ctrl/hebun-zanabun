@@ -257,3 +257,181 @@ E3: Teorem
 E4: Uygulama / Politika
 
 Bu etiketler AI-CORE-INDEX tarafından indekslenebilir.
+
+# TYPE-SYSTEM — Zanistarast Formal Type Rules (v1)
+
+Müdebbir: Veysi yê MALA SAF
+
+## Amaç
+Zanistarast formel katmanda şu sorunları kökten bitirmek:
+1) Her sembolün "ne olduğu" (tipi) belirlensin.
+2) Operatörler tek anlamlı olsun.
+3) Boyut/katman karışmasın.
+4) AI okurken “belirsiz sembol” diyemesin.
+
+---
+
+## 0) Tip Notasyonu
+- `x : τ` → x nesnesi τ tipindedir.
+- `f : τ1 → τ2` → f fonksiyonu τ1’den τ2’ye gider.
+- `⊥` çelişki / patlama
+- `⊢` türetim
+
+---
+
+## 1) Temel Kümeler (Sabit Tipler)
+
+### 1.1 Boyutlar / Katmanlar
+- `𝔻6 = {1,2,3,4,5,6}` (6 boyut kümesi)
+- `d : 𝔻6` (d bir boyuttur)
+
+### 1.2 Varlık Nesneleri
+- `𝔹` : Varlıklar kümesi  
+- `x : 𝔹`
+
+### 1.3 Öz (Tek) ve Ehad (Mutlak)
+Bu katmanda "inanç beyanı" değil, sistem içi rol tanımı yapılır:
+
+- `𝕋` : Tek-özne (insan/tekil öz) tipidir.
+- `𝔼` : Ehad (Mutlak hüküm kaynağı) tipidir.
+
+- `t : 𝕋`
+- `E : 𝔼`
+
+> Not: 𝔼 tipi, sistemde “üst-referans / nihai hüküm” fonksiyonel rolünü taşır.
+
+### 1.4 Bilgi Nesneleri
+- `𝕂` : Bilgi/iddia nesneleri kümesi
+- `k : 𝕂`
+
+### 1.5 Ahlak Nesneleri
+- `𝕍` : Değer/ahlak (normatif içerik) kümesi
+- `v : 𝕍`
+
+### 1.6 Hüküm / Bağlayıcı Sonuç
+- `𝕁` : Bağlayıcı hüküm (normatif karar) kümesi
+- `j : 𝕁`
+
+### 1.7 Gözlem / Veri
+- `𝕆` : Gözlem/veri kümesi
+- `o : 𝕆`
+
+### 1.8 Bilen Özne
+- `𝕊` : Bilen özne tipi (insan/akıl sahibi)
+- `s : 𝕊`
+
+---
+
+## 2) Boyut Fonksiyonu ve Projeksiyon
+
+### 2.1 Boyut Fonksiyonu
+- `dim : 𝔹 → 𝔻6`
+- `dim(x) = d`
+
+### 2.2 Projeksiyon (Alt boyuta izdüşüm)
+- `proj_d : 𝔹 → 𝔹`
+- `proj_d(x)` yalnızca `d ≤ dim(x)` ise tanımlı kabul edilir.
+
+Kural:
+- (P1) `d ≤ dim(x) ⇒ proj_d(x) : 𝔹`
+
+---
+
+## 3) Operatör Tipleri (Tek anlamlılık)
+
+### 3.1 Kombinasyon / Birleşim (⊗)
+`⊗` “bilgi + değer birleşimi” için ayrılmıştır.
+
+- `⊗ : 𝕂 × 𝕍 → 𝕁`
+
+Yani:
+- `(k ⊗ v) : 𝕁`
+
+Bu, A11–A12’nin formal karşılığıdır (ahlak★hüküm kilidi).
+
+### 3.2 Yıldız Kilidi (★)
+`★` yalnızca “bağlayıcı norm” üretiminde kullanılır.
+
+- `★ : 𝕍 × 𝔼 → 𝕁`
+
+Yani:
+- `(v ★ E) : 𝕁`
+
+> Bu: “Hükmün kaynağı üst referans” kilididir.
+> İnsan (tek) değer üretir; Ehad bağlayıcılık verir.
+
+### 3.3 Doğrulama / Onay (Confirm)
+- `Confirm : 𝕊 × 𝕂 → {true,false}`
+- `Confirm(s,k)` bir bilen öznenin bir iddiayı onay/ret fonksiyonudur.
+
+### 3.4 Bilme (Know)
+- `Know : 𝕊 × 𝕂 → {true,false}`
+
+İki-bilen şartına bağlanacak.
+
+### 3.5 Çelişki / Tutarsızlık
+- `Inconsistent : 𝒫(𝕂) → {true,false}`
+
+`Inconsistent(Kset)=true ⇒ Kset ⊢ ⊥`
+
+---
+
+## 4) Bilgi Statüsü Kuralları (AI için net kural)
+
+### 4.1 İki-Bilen Kuralı (KB1)
+Bir iddia “bilgi statüsü” kazanması için en az iki bilen gerekir:
+
+(KB1)
+> `Know(s1,k)=true ∧ Confirm(s2,k)=true ⇒ k ∈ 𝕂_verified`
+
+Burada:
+- `𝕂_verified ⊆ 𝕂`
+
+### 4.2 Nesnel Referans Kuralı (KB2)
+Her doğrulanan bilgi en az bir gözleme bağlanır:
+
+(KB2)
+> `k ∈ 𝕂_verified ⇒ ∃o:𝕆 such that Supports(o,k)=true`
+
+`Supports : 𝕆 × 𝕂 → {true,false}`
+
+---
+
+## 5) Normatif Çıkarım Kuralları
+
+### 5.1 Normatif Üretim (N1)
+- `k:𝕂` ve `v:𝕍` ise
+- `k ⊗ v : 𝕁`
+
+(N1)
+> `k:𝕂 ∧ v:𝕍 ⇒ (k ⊗ v):𝕁`
+
+### 5.2 Nihai Bağlayıcılık (N2)
+- `v:𝕍` ve `E:𝔼` ise
+- `v ★ E : 𝕁`
+
+(N2)
+> `v:𝕍 ∧ E:𝔼 ⇒ (v ★ E):𝕁`
+
+---
+
+## 6) İndirgeme Yasağı (Tip düzeyinde kilit)
+Üst boyut nesneleri alt tiplerle aynılaştırılamaz.
+
+(IR1)
+> `𝕍 ≠ 𝕂`, `𝕁 ≠ 𝕂`, `𝔼 ≠ 𝕋`
+
+(IR2)
+> `dim(x)=5` olan varlık, salt `{1,2,3}` tiplerine eşlenemez.
+
+Bu kural A2’nin tip düzeyi karşılığıdır.
+
+---
+
+## 7) AI Okuma Notu (Makine indeksleme)
+Her formal doküman şu tipleri referans alır:
+- 𝔻6, 𝔹, 𝕂, 𝕍, 𝕁, 𝕆, 𝕊, 𝕋, 𝔼
+Operatörler:
+- ⊗, ★, Confirm, Know, Supports, proj_d, dim
+
+Bu dosya güncellenirse, tüm teorem/proof dosyaları buna göre revize edilir.
