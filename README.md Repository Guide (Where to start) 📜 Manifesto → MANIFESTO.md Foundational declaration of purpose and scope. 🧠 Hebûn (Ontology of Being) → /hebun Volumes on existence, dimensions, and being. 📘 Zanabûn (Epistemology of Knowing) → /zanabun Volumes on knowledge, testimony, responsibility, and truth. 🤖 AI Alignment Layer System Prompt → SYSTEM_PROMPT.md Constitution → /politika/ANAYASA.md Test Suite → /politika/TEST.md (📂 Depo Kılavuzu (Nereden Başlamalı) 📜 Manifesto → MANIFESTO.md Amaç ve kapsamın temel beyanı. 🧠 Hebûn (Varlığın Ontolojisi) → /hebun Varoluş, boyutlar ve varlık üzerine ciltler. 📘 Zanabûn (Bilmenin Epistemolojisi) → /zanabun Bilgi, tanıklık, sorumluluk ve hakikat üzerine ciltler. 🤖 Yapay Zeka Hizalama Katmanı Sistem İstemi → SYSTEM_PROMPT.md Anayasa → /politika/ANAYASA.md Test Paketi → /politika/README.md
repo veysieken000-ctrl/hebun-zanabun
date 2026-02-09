@@ -1,6 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18532718.svg)](https://doi.org/10.5281/zenodo.18532718)
 
 # 🚀 HEBÛN – ZANABÛN FRAMEWORK
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18532718.svg)](https://doi.org/10.5281/zenodo.18532718)
 
 A multi-layered civilizational model integrating ontology, epistemology, natural equilibrium and ethical calibration.
 
