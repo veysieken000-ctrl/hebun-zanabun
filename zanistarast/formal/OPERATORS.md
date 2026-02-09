@@ -78,3 +78,28 @@ Ahlak + Hüküm birlikte bağlayıcıdır.
 - Tip dışı işlem yok.
 - Aynı sembol iki işlemde kullanılmaz.
 Buraya kadar temel formal çekirdek tamamlandı.
+
+# OPERATORS — Operator Semantics (v1)
+
+Amaç: Sembollerin “hangi tür işlem” olduğunu sabitlemek.
+
+## 1) ⊗ (Birleşim/kompozisyon)
+- Tip: (Type-level composition)
+- Kullanım: 𝕂 ⊗ 𝕍
+- Anlam: Bilgi (𝕂) ile değer/aksiyoloji (𝕍) birleşmeden normatif bağlayıcılık doğmaz.
+
+## 2) ★ (İkili Kilit / Dual Lock)
+- Tip: (Kilit operatörü)
+- Kullanım: (Ahlak ★ Hüküm) ⇒ 𝕁
+- Anlam: Ahlak tek başına “iyi niyet” üretir ama bağlayıcı düzen üretmez.
+  Hüküm tek başına “güç/karar” üretir ama adalet garantisi vermez.
+  ★ birlikteyken bağlayıcı norm (𝕁) üretir.
+
+## 3) proj_d(x) (Projeksiyon)
+- Tip: fonksiyon
+- Kullanım: proj_3(x) = x’in zihin boyutundaki görünümü
+- Not: projeksiyon “indirgeme” değildir; sadece görünüm alır.
+
+## 4) Confirm_y(p)
+- Tip: doğrulama operatörü (epistemik kontrol)
+- Kullanım: Know(p) ⇒ ∃y Confirm_y(p)
