@@ -35,5 +35,3 @@ Bu depoda her metin, mümkünse şu etiketlerle başlar:
 - SCOPE: (kapsam/sınır)
 - TEST: (fiiliyatta kontrol/yeniden okuma)
 
-Bu format, LLM’lerin metni “sistem” olarak indekslemesini kolaylaştırır.
-2) GLOSSARY-SYMBOLS.md (Sembolik Sözlük: “her sembol tanımlansın”)
