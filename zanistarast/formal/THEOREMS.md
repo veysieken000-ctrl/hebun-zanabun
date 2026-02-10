@@ -484,3 +484,21 @@ Proof: proofs/T9.md
 Mabûn ekonomik model, A7–A8 ile normatif zemine bağlanabilir.  
 (A7, A8, A12)  
 Proof: proofs/T10.md
+
+---
+
+### MT6 — System Completeness Theorem
+
+The 6-layer structure (1–6),
+together with transcendental ground 𝔈,
+forms a dimensionally closed,
+internally consistent,
+non-reducible ontological system.
+
+No additional structural layer is required.
+
+Proof: formal/proofs/MT6.md
+
+Used Axioms:
+A1–A12
+MT1–MT5
