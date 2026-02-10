@@ -1,0 +1,91 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\title{Upper-Measure Attention as an Alignment Control Parameter}
+\author{ZCT Framework}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+We introduce a minimal dual-layer decision model in which alignment is governed by an upper-measure attention parameter $\lambda \in [0,1]$.
+
+The model distinguishes between a causal-temporal optimization layer (W4) and an upper-measure value layer (W56).
+
+Drift is defined as:
+
+\[
+Drift = 1 - \lambda
+\]
+
+This provides a continuous measure of alignment degradation.
+\end{abstract}
+
+\section{Motivation}
+
+Alignment failures in intelligent systems often arise not from incorrect optimization,
+but from insufficient weighting of higher-order value constraints.
+
+We model this as attention collapse:
+
+\[
+\lambda \to 0
+\]
+
+\section{Core Model}
+
+Let:
+
+\[
+H(s,u) \text{ be the upper-value alignment measure}
+\]
+\[
+E(s,u) \text{ be the environmental compatibility measure}
+\]
+
+Decision rule:
+
+\[
+Score_\lambda(s,u) = \lambda H(s,u) + E(s,u)
+\]
+
+\section{Drift}
+
+Drift is defined as:
+
+\[
+Drift = 1 - \lambda
+\]
+
+As Drift increases:
+
+\begin{itemize}
+\item Upper-value influence decreases
+\item Short-term optimization dominates
+\item Misalignment risk increases
+\end{itemize}
+
+\section{Contribution}
+
+This framework:
+
+\begin{itemize}
+\item Converts alignment into a continuous parameter
+\item Makes value neglect measurable
+\item Provides a control interpretation of ethical drift
+\end{itemize}
+
+\section{Future Work}
+
+\begin{itemize}
+\item Dynamic $\lambda(t)$ models
+\item Stability proofs
+\item Multi-agent drift interaction
+\end{itemize}
+
+\end{document}
