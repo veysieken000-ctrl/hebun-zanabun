@@ -42,3 +42,21 @@ Hüküm (𝕁): Uygulama/bağlayıcı karar
 Sonuç:
 Ahlak ve hüküm ayrıştığında
 bağlayıcı düzen üretilemez.
+# Proof — T3 (Ahlak–Hüküm ayrışması kırılganlık üretir)
+
+## İddia
+Ahlak var ama hüküm yoksa veya hüküm var ama ahlak yoksa bağlayıcı düzen çıkmaz.
+
+## Kullanılan aksiyomlar
+A12 (Dual kilit), A7 (Tutarlılık), A9–A10 (Koruma/Genişleme)
+
+## Kanıt
+1) Bağlayıcı norm için Dual Kilit gerekir: (Ahlak ★ Hüküm) birlikte olmalıdır. (A12)  
+2) Eğer yalnız ahlak varsa:  
+   - “iyi/kötü” değerlemesi oluşur ama bağlayıcı yaptırım/sonuç mekanizması yoktur.  
+   - Bu durumda norm, tavsiye düzeyinde kalır; toplumsal düzen kırılganlaşır.  
+3) Eğer yalnız hüküm varsa:  
+   - yaptırım/sonuç mekanizması vardır ama “neden” ve “hak ölçütü” yoktur.  
+   - keyfilik doğar; keyfilik tutarlılığı bozar. (A7)  
+4) Tutarlılık bozulunca normatif düzen sürdürülemez; varlık koruma/genişleme ilkeleri zarar görür. (A9–A10)  
+Sonuç: Ahlak ve hüküm ayrışırsa sistem kırılganlaşır ve bağlayıcı düzen üretemez.
