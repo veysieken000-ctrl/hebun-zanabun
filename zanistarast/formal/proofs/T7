@@ -56,3 +56,18 @@ Norm keyfileşirse → adalet üretilemez
 Dolayısıyla:
 
 Hak referansı olmadan adalet mümkün değildir.
+
+# Proof — T7 (Hak-merkez olmadan adalet üretilemez)
+
+## İddia
+Hak ölçütü yoksa normatif sonuç keyfileşir.
+
+## Kullanılan aksiyomlar
+A8 (Falsifiye sınırı), A7 (Tutarlılık), A12 (Dual kilit)
+
+## Kanıt
+1) Adalet, iki taraf arasında “ölçüt” gerektirir; ölçüt yoksa karar fonksiyonu belirsizdir.  
+2) Belirsiz karar fonksiyonu aynı vakaya farklı hüküm üretir → tutarsızlık. (A7)  
+3) Dual kilit (Ahlak★Hüküm) bağlayıcı düzen üretir; ama kilidin ölçütü “hak-merkez” olmadan sabitlenemez. (A12)  
+4) Ölçüt sabitlenmeyince falsifiye sınırı da kurulamaz; çünkü yanlış/ doğru ayrımı ölçüte bağlıdır. (A8)  
+Sonuç: Hak-merkez yoksa adalet keyfileşir ve sistem kırılır.
