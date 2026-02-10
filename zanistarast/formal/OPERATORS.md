@@ -261,3 +261,26 @@ Bu dosya,
 Zanistarast’ın “sezgisel değil,
 operatör-semantik temelli” olduğunu gösterir.
 
+# OPERATÖRLER — Biçimsel Anlambilim (v1)
+
+## ⊗ Kompozisyon (Katman Bağlama)
+x ⊗ y şu anlama gelir:
+- x ve y, ancak katman kısıtlamaları uyumluysa tek bir kararlı sistem oluştururlar.
+- "Katmanlar arası bağlama"yı temsil etmek için kullanılır.
+
+## ★ Çift Kilit (Etik + Yargı)
+★ normatifliğin bağlayıcı kuralıdır:
+Bağlayıcı bir norm ancak şu durumlarda mevcuttur:
+- Etik (Katman-5) mevcuttur.
+- ve Yargı (Katman-6) mevcuttur.
+- birlikte istikrarlı bir bağlayıcı çıktı üretirler.
+
+Biçim:
+Bağlayıcı Norm = Etik ★ Yargı
+
+## ⟂ İkili/Karşıtlık
+x ⟂ y şu anlama gelir:
+x, y ile olan karşıtlığı (çift yapı) aracılığıyla görünür/anlamlı hale getirilir.
+
+Amaç:
+“Kontrast yoluyla görünürlük” ilkesini kodlamak.
