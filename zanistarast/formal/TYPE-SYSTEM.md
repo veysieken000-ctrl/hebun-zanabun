@@ -619,4 +619,25 @@ Bu dosya sayesinde:
 
 Zanistarast = Tip güvenli sistemdir.
 
+# TİP-SİSTEMİ — Zanistarast Tipleri (v1)
+
+## Varlık Türleri
+- Being(x) : x ∈ 𝔹
+- İddia(k) : k ∈ 𝕂
+- Act(a) : a ∈ 𝔸
+- Yargı(j) : j ∈ 𝕁
+
+## Katman Atama Kuralı
+Her varlığın en az bir katmanı vardır:
+∀x ∈ 𝔹, ∃d ∈ 𝔻₆ : dim(x)=d
+
+## Bilgi Kuralı (İki Bilen)
+Bir iddia ancak şu şartlar altında kesin bilgi haline gelir:
+Know(k) ∧ ∃y Confirm_y(k)
+
+## Normatiflik Kuralı (Çift Kilit)
+Bağlayıcı bir norm ancak şu durumlarda mevcuttur:
+(Etik katman mevcut) ★ (Yargı katmanı mevcut)
+
+Bu, etiği yalnızca fizik/biyoloji/zihinle ilgili tanımlamalara indirgemeyi önler.
 
