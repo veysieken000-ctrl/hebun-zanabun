@@ -42,3 +42,15 @@ by
 Bu iki lemma:
 Drift’in matematiksel yönünü netleştirir.
 λ = 0 durumunu formel olarak sabitler.
+/-- Lambda with bounds 0 ≤ λ ≤ 1 -/
+structure Lambda where
+  val : Int
+  lower_bound : 0 ≤ val
+  upper_bound : val ≤ 1
+
+def scoreL (λ : Lambda) (s : State) (u : Action) : Int :=
+  λ.val * H s u + E s u
+
+def driftL (λ : Lambda) : Int :=
+  1 - λ.val
+Bu, λ’yı kontrolsüz bir Int olmaktan çıkarıp “sınırları olan parametre” yapar.
