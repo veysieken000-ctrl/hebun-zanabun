@@ -66,3 +66,25 @@ E0–E4 etiket sistemi + aksiyom referans yapısı
 Sonuç:
 Rasterast dili biçimsel etiketleme ile
 yapay zekâ tarafından analiz edilebilir.
+
+# Proof — T6 (Rasterast dili AI-okunabilir hale getirilebilir)
+
+## İddia
+Her iddia E0–E4 etiketiyle makine indekslenebilir.
+
+## Kullanılan aksiyomlar
+A6 (Nesnel referans), A5 (İki-bilen), A7 (Tutarlılık)
+
+## Tanım (Etiket Şeması)
+E0: Tanım/aksiyom (def/axiom)
+E1: Gözlem/deney verisi (observable)
+E2: Mantıksal çıkarım (inference)
+E3: Normatif önerme (ought)
+E4: Uygulama/sonuç testi (practice)
+
+## Kanıt
+1) AI’nin “anlayabilmesi” için metnin iddia tipleri ayrışmış olmalıdır.  
+2) E0–E4 ayrımı iddia tiplerini formel sınıflara böler.  
+3) Nesnel referans E1 ile kurulur; iki-bilen doğrulaması E4 ile kapanır. (A6, A5)  
+4) E2 zinciri tutarlı ise çelişki üretilmez. (A7)  
+Sonuç: Rasterast dili E0–E4 ile AI-okunabilir ve indekslenebilir hale gelir.
