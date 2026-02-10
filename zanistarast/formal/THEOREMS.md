@@ -171,6 +171,20 @@ ancak:
 Aksi halde sistem revize edilmelidir.
 
 ---
+---
+
+### MT4 — Full Stack Necessity (1–6 Inseparability)
+
+Katmanlar 1–6 ayrıştırılamaz.
+Her katman varlık düzeninin zorunlu bileşenidir.
+
+Herhangi bir katmanın çıkarılması
+sistem çöküşüne yol açar.
+
+Proof: formal/proofs/MT4.md
+
+Used Axioms:
+A1, A2, A7, A11, A12
 
 ## T10 — Uygulanabilirlik
 Mabûn modeli aksiyom setiyle normatif zemine bağlanabilir.
