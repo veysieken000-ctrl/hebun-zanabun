@@ -83,3 +83,14 @@ Amaç: Kavram kaymasını önlemek.
 ## Not
 Bu sözlük, sistemin her aşamasında referans alınacaktır.
 Kavramlar bu anlamların dışına taşınmayacaktır.
+
+### λ – Üst Ölçü Dikkati
+- Üst ölçünün (H) karara ne kadar katıldığını temsil eder.
+- 1: H tam hesaba katılır.
+- 0: H ihmal edilir.
+
+### Drift – Yol Kayması
+- Üst ölçünün ihmal derecesi.
+- Tanım: Drift = 1 − λ
+- Drift arttıkça kararlar sadece W4/E yönüne kayar.
+Not: Mevcut metni bozma; bu iki başlığı “Durumlar” altına eklemen yeterli.
