@@ -71,3 +71,19 @@ Sonuç:
 Fix₂(S) ⇒ ΔΣ < 0  
 Yani sistem biyolojiye sabitlenirse
 varlık sahası daralır ve çöküş dinamiği oluşur.
+
+# Proof — T5 (Alt-boyut sabitlemesi → çöküş dinamiği)
+
+## İddia
+Sistem sadece biyolojiye sabitlenirse varlık sahası daralır.
+
+## Kullanılan aksiyomlar
+A9 (Koruma), A10 (Genişleme), A11 (Ahlak filtre), A2 (İndirgenemezlik)
+
+## Kanıt
+1) İnsan çok-boyutlu varlıktır: D1..D6. (A1 varsayımı + Hebûn modeli)  
+2) Sadece D2 (biyoloji) sabitlemesi, D5–D6 normatif alanını devre dışı bırakır.  
+3) D5 devre dışıysa “ahlak filtre” çalışmaz. (A11)  
+4) Ahlak filtresi çalışmayınca genişleme (A10) kontrolsüz olur → başkalarının varlık alanını daraltma ortaya çıkar.  
+5) Bu durum koruma ilkesine aykırıdır (A9) ve sistem iç tutarlılığı bozar. (A2/A7)  
+Sonuç: Biyolojiye sabitlenen sistem çöküş dinamiği üretir.
