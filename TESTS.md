@@ -1,38 +1,12 @@
-# TESTS – Tutarlılık Kontrolleri
+# TESTS – Minimal Derin Kontroller
 
-Bu dosya, modelin çelişki üretmemesi için kontrol soruları içerir.
+T1 – λ = 1 ise H tam hesaba katılır.
 
----
+T2 – λ = 0 ise H ihmal edilir ve yol kayması başlar.
 
-## T1 – İç-Dış Uyum
+T3 – λ azaldıkça Drift = 1-λ artar.
 
-Eğer H ve E aynı yönde artıyorsa,
-Conflict azalmalıdır.
+T4 – Drift arttıkça kararlar E’ye aşırı yaslanma eğilimi göstermelidir.
 
----
+T5 – Uyum hedefi: λ yükseldikçe H etkisi artmalı ve çatışma azalmalıdır.
 
-## T2 – Yol Kayması
-
-Eğer γ artar ve α düşerse,
-Conflict artma eğiliminde olmalıdır.
-
----
-
-## T3 – Ahlak Genişlemesi
-
-Alignment artıyorsa,
-Ease artmalıdır.
-
----
-
-## T4 – Hayvan Modeli
-
-Hayvan parametrelerinde α ve β sabit ve yüksek,
-γ sınırlı olmalıdır.
-
----
-
-## T5 – İnsan Çatışması
-
-İnsanda parametre ağırlıkları değişken olduğundan
-drift mümkündür fakat zorunlu değildir.
