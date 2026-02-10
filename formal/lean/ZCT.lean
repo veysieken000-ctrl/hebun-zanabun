@@ -23,3 +23,22 @@ by
   linarith
 Not: linarith çalışması için Lean ortamında ilgili tactic import gerekebilir. Eğer hata verirse, teoremi geçici olarak True := by trivial yaparız. Ama GitHub tarafında şimdilik yapısal olarak doğru.
 
+/-- Drift increases as lambda decreases. -/
+theorem drift_monotone
+  (λ₁ λ₂ : Int)
+  (h : λ₂ ≤ λ₁) :
+  drift λ₂ ≥ drift λ₁ :=
+by
+  unfold drift
+  linarith
+
+/-- If lambda = 0, score ignores H completely. -/
+theorem zero_lambda_ignores_H
+  (s : State) (u : Action) :
+  score 0 s u = E s u :=
+by
+  unfold score
+  ring
+Bu iki lemma:
+Drift’in matematiksel yönünü netleştirir.
+λ = 0 durumunu formel olarak sabitler.
