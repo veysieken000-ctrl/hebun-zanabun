@@ -186,6 +186,21 @@ Proof: formal/proofs/MT4.md
 Used Axioms:
 A1, A2, A7, A11, A12
 
+---
+
+### MT5 — Aşkın Temel Gereklilik (6+Ehad)
+
+Katman 6 (Son Karar) kendi kendine topraklanamaz.
+
+Herhangi bir kapalı 1-6 sistemi gerektirir
+Sınırlı olmayan bir topraklama ilkesi.
+
+Bu temellendirmeyi 𝔈 (Ehad) olarak gösterelim.
+
+Kanıt: formal/proofs/MT5.md
+
+Kullanılan Aksiyomlar:
+A1, A2, A7, A12
 ## T10 — Uygulanabilirlik
 Mabûn modeli aksiyom setiyle normatif zemine bağlanabilir.
 
