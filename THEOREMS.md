@@ -6,7 +6,7 @@
 **Formal hedef:** Lean’da `drift_monotone` / `driftL` üzerinden ispat.
 
 Durum: (ZCT.lean içinde var)
-
+Lean karşılığı: formal/lean/ZCT.lean
 ---
 
 ## Th2 – λ=0 İhmal Teoremi
@@ -15,7 +15,7 @@ Durum: (ZCT.lean içinde var)
 **Formal hedef:** `scoreL_lambda0`.
 
 Durum: (ZCT.lean içinde var)
-
+Lean karşılığı: formal/lean/ZCT.lean
 ---
 
 ## Th3 – λ=1 Tam Katılım Teoremi
@@ -24,7 +24,7 @@ Durum: (ZCT.lean içinde var)
 **Formal hedef:** `scoreL_lambda1`.
 
 Durum: (ZCT.lean içinde var)
-
+Lean karşılığı: formal/lean/ZCT.lean
 ---
 
 ## Th4 – Uyum Artışı İlkesi (Model Hedefi)
@@ -33,7 +33,7 @@ Durum: (ZCT.lean içinde var)
 **Formal hedef:** Drift kısmı ispatlanır; “uyum” kısmı için ek varsayım gerekir.
 
 Durum: hedef
-
+Lean karşılığı: formal/lean/ZCT.lean
 ---
 
 ## Th5 – Çatışma Azalma Teoremi (Varsayıma Bağlı)
@@ -47,7 +47,7 @@ Eğer bir durum sınıfında H ve E eylemlere aynı yönde tepki veriyorsa,
 **Formal hedef:** “uyumlu durum sınıfı” tanımı eklendikten sonra ispat.
 
 Durum: hedef
-
+Lean karşılığı: formal/lean/ZCT.lean
 ---
 
 ## Th6 – Yol Kayması Eşiği (Tanım)
@@ -56,7 +56,7 @@ Durum: hedef
 **Formal hedef:** Eşik tanımı + basit lemma.
 
 Durum: hedef
-
+Lean karşılığı: formal/lean/ZCT.lean
 ---
 
 ## Th7 – Hayvan/İnsan Ayrımı (Modelleme Teoremi)
@@ -64,4 +64,53 @@ Durum: hedef
 **Not:** Bu teorem “ampirik model”dir; formel ispat yerine test ve örneklerle doğrulanır.
 
 Durum: hedef (EXAMPLES + TESTS)
+Lean karşılığı: formal/lean/ZCT.lean
+
+---
+
+## Th1 – Drift Monotonluğu
+İfade: λ azalırsa Drift artar.  
+Matematik: Drift = 1 − λ  
+Formal karşılık: drift_monotone (ZCT.lean)
+
+---
+
+## Th2 – λ=0 İhmal Teoremi
+İfade: λ=0 ise karar H’yi ihmal eder.  
+Matematik: Score₀(s,u) = E(s,u)  
+Formal karşılık: scoreL_lambda0
+
+---
+
+## Th3 – λ=1 Tam Katılım Teoremi
+İfade: λ=1 ise karar H+E’dir.  
+Matematik: Score₁(s,u) = H(s,u)+E(s,u)  
+Formal karşılık: scoreL_lambda1
+
+---
+
+## Th4 – Uyum Artışı İlkesi
+İfade: λ arttıkça Drift azalır.  
+Matematik: λ₂ > λ₁ ⇒ Drift(λ₂) < Drift(λ₁)  
+Formal karşılık: driftL + monotonicity
+
+---
+
+## Th5 – Çatışma Azalma (Varsayıma Bağlı)
+İfade: Uyumlu durumlarda λ artışı çatışmayı azaltır.  
+Not: Ek varsayım gerektirir.  
+Formal hedef: Genişletilecek.
+
+---
+
+## Th6 – Yol Kayması Eşiği
+İfade: Drift ≥ δ ⇔ λ ≤ 1−δ  
+Formal hedef: Eşik lemma (eklenecek).
+
+---
+
+## Th7 – Hayvan/İnsan Ayrımı (Modelleme)
+İfade: λ stabilitesi türsel farklılık gösterir.  
+Not: Ampirik/model düzeyinde.
+
 
