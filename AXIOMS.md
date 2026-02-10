@@ -111,7 +111,14 @@ Sapma, J üretim sürecinde ortaya çıkar.
 
 ## A10 – Rahatlık Ölçütü
 
-Bireyin huzur/rahatlık durumu,
-J, E ve H arasındaki uyum derecesine bağlıdır.
+## A8b – λ (İhmal Parametresi)
+
+Üst ölçünün (H) karara katılma düzeyi λ ile temsil edilir:
+
+- λ = 1: H tam hesaba katılır
+- λ = 0: H ihmal edilir
+
+Yol kayması, λ'nın düşmesiyle başlar.
+
 
 Uyum arttıkça iç gerilim azalır.
