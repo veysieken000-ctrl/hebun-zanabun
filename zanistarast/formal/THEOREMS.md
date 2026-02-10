@@ -370,3 +370,77 @@ A6, A7, A13
 5) Döngüyü kırmak için sistem dışı referans gerekir (A6).
 6) Sistem dışı referans, üst-perspektiftir (A13).
 Sonuç: Mutlak doğrulama iç sistemden çıkmaz. QED.
+
+# THEOREMS — T1..T10 (v1)
+
+Her teorem ilgili proof dosyasına bağlanmıştır.
+
+---
+
+## T1 — Boyut indirgeme çelişkisi
+Yalnız {1..2} ile normatif düzen kurulamaz.  
+(A7, A8)  
+Proof: proofs/T1.md
+
+---
+
+## T2 — İki-bilen olmadan bilim olmaz
+Tek onay kanalında “bilimsel bilgi” statüsü kurulamaz.  
+(A5, A6, A7)  
+Proof: proofs/T2.md
+
+---
+
+## T3 — Ahlak–Hüküm ayrışması sistem kırılganlığı üretir
+Ahlak var ama hüküm yoksa veya tersi, bağlayıcı düzen çıkmaz.  
+(A12, A7)  
+Proof: proofs/T3.md
+
+---
+
+## T4 — Tutarlılık zorunluluğu
+Çelişik bilgi kümelerinden normatif karar türetmek geçersizdir.  
+(A7, A5, A8)  
+Proof: proofs/T4.md
+
+---
+
+## T5 — Alt-boyut sabitlemesi → çöküş dinamiği
+Sistem sadece biyolojiye sabitlenirse varlık sahası daralır.  
+(A9, A10, A11)  
+Proof: proofs/T5.md
+
+---
+
+## T6 — Rasterast dili AI-okunabilir hale getirilebilir
+Her iddia E0–E4 etiketiyle makine indekslenebilir.  
+(A6, A5, A7)  
+Proof: proofs/T6.md
+
+---
+
+## T7 — Hak-merkez olmadan adalet üretilemez
+Hak ölçütü yoksa normatif sonuç keyfileşir.  
+(A8, A7, A12)  
+Proof: proofs/T7.md
+
+---
+
+## T8 — Kapsam / Sınır Teoremi
+Hebûn ontoloji ve Zanabûn epistemoloji olmadan model eksik kalır.  
+(A1–A6)  
+Proof: proofs/T8.md
+
+---
+
+## T9 — İç Tutarlılık
+A1–A12 seti tip kurallarıyla çelişmez (taslak).  
+(TYPE-SYSTEM referansı)  
+Proof: proofs/T9.md
+
+---
+
+## T10 — Uygulanabilirlik
+Mabûn ekonomik model, A7–A8 ile normatif zemine bağlanabilir.  
+(A7, A8, A12)  
+Proof: proofs/T10.md
