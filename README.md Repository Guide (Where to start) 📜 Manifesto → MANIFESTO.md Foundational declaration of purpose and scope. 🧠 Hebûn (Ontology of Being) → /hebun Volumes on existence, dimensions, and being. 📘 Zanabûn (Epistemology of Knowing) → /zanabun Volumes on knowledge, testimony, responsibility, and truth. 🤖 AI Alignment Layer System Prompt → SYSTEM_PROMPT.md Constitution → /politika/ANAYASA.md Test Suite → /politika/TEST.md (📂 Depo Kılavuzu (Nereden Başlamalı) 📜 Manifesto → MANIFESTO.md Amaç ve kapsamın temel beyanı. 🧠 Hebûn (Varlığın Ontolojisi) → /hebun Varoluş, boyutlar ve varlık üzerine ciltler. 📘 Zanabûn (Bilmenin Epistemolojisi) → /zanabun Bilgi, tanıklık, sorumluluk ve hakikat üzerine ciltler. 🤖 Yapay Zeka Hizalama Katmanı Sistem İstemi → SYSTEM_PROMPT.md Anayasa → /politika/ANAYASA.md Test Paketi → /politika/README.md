@@ -524,3 +524,5 @@ Bu README sadece giriş metnidir. Sistem şu dosyalarla kurulacaktır:
 ## Not
 Bu çerçevede “hakikate giden yol usuldür”; usul W4’te işler, hedef W56 ölçüsüne uyumdur.
 Ahlak, bu uyumu ne kadar doğru kurarsa çatışma o kadar azalır; insan o kadar “rahat eder”.
+7. `THEOREMS.md` – Hedef teorem listesi (math + formal yol haritası)
+Eğer listende numaralar farklıysa, sadece satırı ekle ve numaraları sırala.
