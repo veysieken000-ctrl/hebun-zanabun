@@ -62,3 +62,18 @@ Zanabûn olmadan Hebûn modelleşemez.
 Dolayısıyla:
 
 Ontoloji + Epistemoloji birlikte sistem oluşturur.
+
+# Proof — T8 (Kapsam/Sınır teoremi)
+
+## İddia
+Hebûn ontoloji ve Zanabûn epistemoloji olmadan model eksik kalır.
+
+## Kullanılan aksiyomlar
+A1 (Katman), A5 (İki-bilen), A6 (Nesnel referans)
+
+## Kanıt
+1) Ontoloji (Hebûn) olmadan “ne var?” sorusunun varlık alanı tanımsız kalır. (A1)  
+2) Epistemoloji (Zanabûn) olmadan “nasıl biliyoruz?” doğrulama şartı eksik kalır. (A5)  
+3) Ontoloji tanımsızsa referans kümesi yoktur; epistemoloji eksikse doğrulama yoktur. (A6)  
+4) Referans + doğrulama eksik olduğunda “model” yalnız söylem olur, sistem olmaz.  
+Sonuç: Hebûn + Zanabûn olmadan Zanistarast modeli eksik kalır.
