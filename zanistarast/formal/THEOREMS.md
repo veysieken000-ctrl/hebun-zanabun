@@ -126,7 +126,18 @@ Sistem içsel olarak tutarlıdır.
 Sonuç:
 A1–A12 + R1–R6 birlikte
 kapalı ve çelişkisiz bir yapı oluşturur.
+### MT2 — 4→5 Zorunluluğu (Normatif Yansıma Kilidi)
 
+Katman 4 (Kanun/Ruh + Uygulama) 
+tek başına normatif anlam üretmez.
+
+Bağlayıcı ahlaki düzen için
+Katman 5 (Ahlak/Normatif Bilinç) zorunludur.
+
+Proof: formal/proofs/MT2.md
+
+Used Axioms:
+A2, A7, A9, A10, A11, A12
 ---
 
 ## META-T2 — Katman Kilidi
