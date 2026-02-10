@@ -365,4 +365,121 @@ Artık sistem:
 
 bir yapıdır.
 
+# COMPLETE FORMAL INDEX — Zanistarast Architecture (v1)
 
+Amaç:
+Zanistarast sisteminin
+ontolojik, epistemolojik ve normatif
+formal bütünlüğünü tek dosyada haritalamak.
+
+Bu dosya,
+tüm formal katmanın ana referansıdır.
+
+---
+
+# I. Ontolojik Katman
+
+Dosyalar:
+
+- GLOSSARY-SYMBOLS.md
+- TYPE-SYSTEM.md
+- AXIOMS.md
+
+Temel Yapı:
+
+D1 → Fizik  
+D2 → Biyoloji  
+D3 → Zihin  
+D4 → Kanun (Ruh / Fıtrat)  
+D5 → Ahlak  
+D6 → Hüküm  
+
+İlke:
+
+Her boyut bir alt boyutta projekte olabilir,
+ancak indirgenemez.
+
+---
+
+# II. Epistemolojik Katman
+
+Dosyalar:
+
+- THEOREMS.md
+- proofs/T1–T10.md
+
+Temel İlke:
+
+Bilgi =  
+Bilen öznenin bilinen nesneye yönelimi  
++ ikinci bilenin onayı
+
+Formal karşılık:
+
+Know(x) ⇒ ∃ y : Confirm_y(x)
+
+Tutarlılık şarttır.
+Çelişki → sistem dışı.
+
+---
+
+# III. Normatif Üretim Katmanı
+
+Dosya:
+
+- MACHINE-CHECK.md
+
+Normatif üretim fonksiyonu:
+
+𝕁 = 𝕂 ★ 𝔄
+
+(Kanun ★ Ahlak → Hüküm)
+
+Ahlak olmadan hüküm çıkmaz.  
+Hüküm olmadan ahlak bağlayıcı olmaz.
+
+---
+
+# IV. Makine Doğrulanabilirlik
+
+Lean / Coq iskeleti hazır.
+
+Boyutlar tiptir.
+Geçişler kontrollüdür.
+İndirgeme engellenmiştir.
+
+Bu yapı:
+Makine mantığına çevrilebilir.
+
+---
+
+# V. Meta-Teorem
+
+Sistem:
+
+• Katmanlıdır  
+• İndirgenemezdir  
+• Tutarlıdır  
+• Normatif üretim yapabilir  
+• Makineye gömülebilir  
+
+Dolayısıyla:
+
+Zanistarast sezgisel bir çerçeve değil,
+aksiyomatik bir yapıdır.
+
+---
+
+# VI. Mimari Durum
+
+Formal katman:
+
+✔ Sembol sözlüğü var  
+✔ Tip sistemi var  
+✔ Aksiyom seti var  
+✔ Teorem kataloğu var  
+✔ Proof iskeletleri var  
+✔ Makine-check taslağı var  
+
+Bu dosya:
+formal mimariyi kilitler.
