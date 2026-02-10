@@ -72,3 +72,20 @@ A1–A12 kümesi tip ayrımı + çelişki yasağı sayesinde
 Dolayısıyla:
 
 Consistent({A1…A12})
+
+# Proof — T9 (İç tutarlılık taslağı)
+
+## İddia
+A1–A12 aksiyom seti tip kurallarıyla çelişmez (taslak).
+
+## Kullanılan aksiyomlar
+A1, A2, A3, A7, A12 + TYPE-SYSTEM
+
+## Kanıt Taslağı (Mimari)
+1) Boyutlar ayrık tiplerdir: D1..D6. (TYPE-SYSTEM)  
+2) A2 indirgenemezlik, tip çakışmasını engeller: üst tip alt tipe zorlanmaz.  
+3) A3 projeksiyon, yalnızca tanımlı dönüşümleri izinli kılar: proj_d(x) type-safe.  
+4) A7 tutarlılık, çelişki üreten çıkarımları dışarı atar.  
+5) A12 dual kilit, normatif üretimi tek yöne sabitler: (ahlak★hüküm).  
+Sonuç: Tip güvenliği + indirgenemezlik + projeksiyon kontrolü, A1–A12’nin iç tutarlılığını korur.
+Not: Bu, makine-doğrulamalı kanıta giriş kapısıdır (Lean/Coq).
