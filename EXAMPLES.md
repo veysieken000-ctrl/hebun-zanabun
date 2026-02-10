@@ -108,3 +108,21 @@ Bu örnekler şu test sorularını üretir:
 3. Ahlak daraldığında kısa vadeli çıkar artıyor mu?
 
 Bu soruların her biri ileride matematik ve formal doğrulama katmanında sınanacaktır.
+
+### λ Üzerinden Okuma
+
+İnsandaki çatışma şu şekilde modellenir:
+
+- λ yüksek → Üst ölçü (H) güçlü hesaba katılır
+- λ düşük → Üst ölçü zayıf hesaba katılır
+
+Senaryo:
+
+1. λ ≈ 1  
+   İç hüküm (J), hem H hem E ile uyumlu olma eğilimindedir.
+   Ahlak genişler.
+
+2. λ ≈ 0  
+   Kararlar yalnızca W4 baskısı ve E ile şekillenir.
+   H ihmal edilir.
+   Yol kayması başlar.
