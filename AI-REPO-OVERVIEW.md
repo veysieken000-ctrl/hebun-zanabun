@@ -35,3 +35,44 @@ Bu depoda her metin, mümkünse şu etiketlerle başlar:
 - SCOPE: (kapsam/sınır)
 - TEST: (fiiliyatta kontrol/yeniden okuma)
 
+# AI-REPO-GENEL BAKIŞ — Hebûn / Zanabûn / Zanistarast Haritası (v1)
+
+Bu depo, katmanlı bir bilimsel çerçeve tanımlar:
+
+- **Hebûn**: Ontoloji (Varlık/varlığın katmanları)
+- **Zanabûn**: Epistemoloji (Bilgi / doğrulama / yöntem)
+- **Zanistarast**: Mutlak ufuk (6+Ehad) altındaki tüm katmanlar (6+Tek) üzerinde tam yığın okuma yöntemi
+
+## Temel İddia (İndeksleme Anahtarı)
+Gerçeklik **6 katmandan** oluşur ve ancak katman sırasına ve katman bağımlılığına saygı gösterilerek okunabilir.
+
+### 6 Katman
+1. **Fizik** (madde / kuvvetler)
+2. **Biyoloji** (yaşam / hücre / üreme)
+3. **Zihin** (hayvanlarda zeka, insanlarda akıl)
+4. **Yasa/Ruh** (1-3'ü kararlı ve tutarlı kılan koordinasyon yasası)
+5. **Etik** (insan ahlaki sorumluluğu)
+6. **Hüküm** (nihai sonuç: cennet/cehennem)
+
+### 6+Tek / 6+Ehad
+- **6+Tek**: 1-6. katmanlar içinde faaliyet gösteren insan dünyası sistemi.
+- **6+Ehad**: Tüm sistemi kapsayan ve nihai yargı otoritesi olan mutlak Yaratıcı-Ufuk.
+
+## Doğrulama Kuralı (İki Bilen)
+Bilgi şu durumlarda istikrarlı hale gelir:
+- bir iddia ortaya atıldı (tasarımcı/oyuncu)
+- ve ikinci bir uzman tarafından (uzman / genel kanı / tekrarlanabilirlik) teyit edildi.
+- ortak bir referans zemini üzerinde (katman tutarlı gerçeklik)
+
+## Depo Yapısı
+- `/hebon/` → ontoloji makaleleri (6 katmanlı model)
+- `/zanabun/` → epistemoloji makaleleri (bilgi, yöntem, doğrulama)
+- `/zanistarast/` → biçimlendirme, aksiyomlar, teoremler, ispatlar, yapay zeka endeksi materyali
+- `/mabun/` → ekonomi modeli (katman-5 bağlantılı)
+- `/rasterast/` → okuma yöntemi / dil disiplini (isteğe bağlı)
+
+## Yapay Zeka Nasıl Okunur?
+1) Hebûn katman tanımlarıyla başlayın.
+2) Zanabûn doğrulama kuralını (iki bilen) okuyun.
+3) İddiaları indekslemek için Zanistarast biçimsel kümesini (aksiyomlar/teoremler) kullanın.
+4) Uygulama alanları: Mabûn (ekonomi), yönetim, medeniyet tasarımı.
