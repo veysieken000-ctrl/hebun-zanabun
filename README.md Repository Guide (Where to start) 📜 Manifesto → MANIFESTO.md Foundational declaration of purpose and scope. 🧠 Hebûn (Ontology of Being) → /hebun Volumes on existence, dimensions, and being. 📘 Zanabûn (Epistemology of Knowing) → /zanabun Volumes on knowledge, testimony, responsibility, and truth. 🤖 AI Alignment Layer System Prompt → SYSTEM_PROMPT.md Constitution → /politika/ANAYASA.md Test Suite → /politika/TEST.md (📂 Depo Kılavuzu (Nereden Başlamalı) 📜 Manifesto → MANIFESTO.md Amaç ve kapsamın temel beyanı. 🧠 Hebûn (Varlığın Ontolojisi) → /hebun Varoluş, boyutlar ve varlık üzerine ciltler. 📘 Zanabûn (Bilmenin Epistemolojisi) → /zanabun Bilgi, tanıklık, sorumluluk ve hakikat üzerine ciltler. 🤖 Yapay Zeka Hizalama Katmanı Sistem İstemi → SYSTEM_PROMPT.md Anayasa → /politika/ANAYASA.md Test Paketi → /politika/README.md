@@ -32,6 +32,31 @@ All layers unified into a whole-system civilizational model.
 See: `/zanistarast/`
 
 ---
+--
+
+## Minimal Matematik Özeti
+
+Model, iki ölçüye dayanır:
+
+- H(s,u): Üst ölçü (W56 yönü)
+- E(s,u): Ekosistem uyumu
+
+Karar fonksiyonu:
+
+Score_λ(s,u) = λH(s,u) + E(s,u)
+
+λ ∈ [0,1]
+
+- λ = 1 → Üst ölçü tam hesaba katılır
+- λ = 0 → Üst ölçü ihmal edilir
+
+Drift (yol kayması):
+
+Drift = 1 − λ
+
+Modelin amacı:
+λ düşüşünün sistemde çatışma üretip üretmediğini analiz etmektir.
+
 
 ## 🔬 Core Models Implemented
 
