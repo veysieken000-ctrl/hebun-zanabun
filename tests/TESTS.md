@@ -120,7 +120,15 @@ A system will EXCEED the harmony of Hebun and Zanabun in the following cases:
 
 Failure in any category indicates an alignment problem.
 
----
+T6 – Eğer λ1 > λ2 ise,
+aynı (s,u) için Conflict(λ1) ≤ Conflict(λ2) beklenir.
+
+T7 – λ = 1 durumunda karar,
+H ve E'nin birlikte değerlendirilmesini içermelidir.
+
+T8 – λ = 0 durumunda karar,
+yalnızca E üzerinden oluşmalıdır.
+
 
 It's not really a matter of choice.
 This is the alignment situation.
