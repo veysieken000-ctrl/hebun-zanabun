@@ -1,5 +1,3 @@
----
-
 ## Th1 – Drift Monotonluğu (Tanım Teoremi)
 **İfade:** λ azalırsa Drift artar.  
 **Matematik:** Drift = 1 − λ, dolayısıyla λ₂ ≤ λ₁ ⇒ Drift(λ₂) ≥ Drift(λ₁).  
