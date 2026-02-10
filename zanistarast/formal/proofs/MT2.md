@@ -57,3 +57,17 @@ Layer 4 cannot produce binding ethical order
 without Layer 5.
 
 Q.E.D.
+---
+
+### MT3 — 5→6 Zorunluluğu (Judgment Completion Principle)
+
+Katman 5 (Ahlak)
+nihai bağlayıcılık üretmez.
+
+Ahlaki düzenin tamamlanması için
+Katman 6 (Hüküm) zorunludur.
+
+Proof: formal/proofs/MT3.md
+
+Used Axioms:
+A2, A7, A11, A12
