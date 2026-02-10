@@ -61,18 +61,3 @@ A12 (Dual kilit), A7 (Tutarlılık), A9–A10 (Koruma/Genişleme)
 4) Tutarlılık bozulunca normatif düzen sürdürülemez; varlık koruma/genişleme ilkeleri zarar görür. (A9–A10)  
 Sonuç: Ahlak ve hüküm ayrışırsa sistem kırılganlaşır ve bağlayıcı düzen üretemez.
 
-# Proof — T4 (Tutarlılık zorunluluğu)
-
-## İddia
-Çelişik bilgi kümelerinden normatif karar türetmek geçersizdir.
-
-## Kullanılan aksiyomlar
-A7 (Tutarlılık), A5 (İki-bilen), A8 (Falsifiye sınırı)
-
-## Kanıt
-1) Çelişki: (x ∧ ¬x) ⇒ ⊥. (A7)  
-2) Normatif karar türetme, “neden-sonuç” bağını gerektirir; ⊥ olan kümeden her sonuç çıkar (patlama problemi).  
-3) Patlama varsa her karar “çıkarılabilir” olur; bu da kararın anlamını yok eder.  
-4) İki-bilen doğrulaması, çelişkiyi elemek için zorunlu filtredir. (A5)  
-5) Falsifiye sınırı, modelin çelişkisiz alanını korur. (A8)  
-Sonuç: Tutarlılık olmadan normatif karar geçersizdir.
