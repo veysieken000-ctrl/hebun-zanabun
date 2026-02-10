@@ -71,3 +71,19 @@ Sonuç:
 Mabûn modeli,
 A7–A12 aksiyomları ile
 normatif olarak temellendirilebilir.
+
+# Proof — T10 (Uygulanabilirlik: Mabûn normatif zemine bağlanır)
+
+## İddia
+Mabûn ekonomik model, A7–A8 ile normatif zemine bağlanabilir.
+
+## Kullanılan aksiyomlar
+A7 (Tutarlılık), A8 (Falsifiye sınırı), A9–A10 (Koruma/Genişleme), A12 (Dual kilit)
+
+## Kanıt
+1) Mabûn “minimum yaşam + maksimum varoluş” hedefi ile normatif bir iddiadır.  
+2) Normatif iddia bağlayıcı olabilmek için dual kilit ister. (A12)  
+3) Tutarlılık şartı: Mabûn’un ilkeleri çelişik hedef üretmemelidir. (A7)  
+4) Falsifiye sınırı: Mabûn’un iddiaları sahada “başarısız/başarılı” diye testlenebilir olmalıdır. (A8)  
+5) Koruma/Genişleme: Mabûn’un ekonomik kararları varlık sahasını daraltmamalı, genişletmelidir. (A9–A10)  
+Sonuç: Mabûn, Zanistarast formal zemine bağlanır ve uygulanabilir model olur.
