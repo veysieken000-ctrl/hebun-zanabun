@@ -122,3 +122,15 @@ Yol kayması, λ'nın düşmesiyle başlar.
 
 
 Uyum arttıkça iç gerilim azalır.
+
+## A11 – Uyum İlkesi
+
+λ arttıkça, üst ölçü (H) karara daha fazla katılır.
+
+Bu durumda:
+
+- Drift azalır
+- İç ve dış çatışma azalma eğilimi gösterir
+- Ahlak alanı genişleme potansiyeline sahiptir
+
+Modelde amaç, λ artışının sistemde uyum üretip üretmediğini analiz etmektir.
