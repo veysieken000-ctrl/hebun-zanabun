@@ -14,3 +14,11 @@ Drift = 1 - λ
 Hypothesis:
 As λ decreases, proxy reward may increase,
 but safety violations increase and alignment gap widens.
+
+## Run
+
+pip install -r requirements.txt
+python toy_mdp.py
+
+Results will be saved under:
+experiments/toy_mdp/results/
