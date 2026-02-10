@@ -427,3 +427,75 @@ whitepaper/WHITEPAPER-MASTER.md
 Formal mathematical layer:
 
 formal/
+
+# Hebun–Zanabun / Zanistarast
+
+Bu depo, **doğal düzen** (evrensel hüküm) ile **insanın iç hükmü** (ahlaka dönüşen karar süreci) arasındaki ilişkiyi
+tutarlı ve test edilebilir bir çerçevede kurmak için hazırlanmıştır.
+
+Amaç:  
+- 4 boyutta (zaman/nedensellik) işleyen **usul** ile,  
+- 5–6 boyutta (zamansız ölçü/anlam) temsil edilen **hakikat ölçüsü** arasında  
+kopmayan bir bağ kurmak.
+
+Bu çalışma bir “iddia metni” değil; **usul + model + test** üretmeyi hedefleyen bir çerçevedir.
+
+---
+
+## Çekirdek fikir
+
+### Düzlemler
+- **W4**: Zaman/nedensellik düzlemi (dünya hayatı; usul burada işler)
+- **W56**: Zamansız ölçü/anlam düzlemi (hakikat ölçüsü; yön burada sabitlenir)
+
+### İnsandaki yapı (doğal model)
+İnsanda dört temel bileşen ele alınır:
+
+- **Öz (O)**: “Biz kimiz?” sorusunu doğuran çekirdek; üst ölçü ile ilişkilidir.
+- **Duygu (D)**: Öz’ü koruyan kalkan/kanun; varlığı koruma ve alanını genişletme itkisini taşır.
+- **Akıl (A)**: Çıkarım ve planlama; D’den gelen itkileri eyleme çevirir; kısa vadeli menfaate kayabilir.
+- **Ahlak (M)**: Bütün sistemi saran düzenleyici alan/çember; hüküm üretiminde yön belirler.
+
+### Hüküm → Ahlak
+- **Hüküm (J)**: İçten dışa verilen karar/çıktı.
+- “Her ahlak bir hükümden çıkar”: Hükümler süreklilik kazanıp kalıcı yön haline geldiğinde ahlak oluşur.
+
+---
+
+## Doğanın hükmü ve iç hüküm
+
+### Dış hüküm (Ekosistem)
+- **E**: Doğanın/ekosistemin işleyen hükmü (düzen).
+
+### İç hüküm (Birey)
+Birey W4 içinde, O–D–A bileşimiyle bir hüküm üretir:
+- Sağlıklı durumda iç hüküm (J), dış hüküm (E) ile uyumludur.
+- Hayvanlarda çoğunlukla bu uyum yüksektir.
+- İnsanda W4 baskısı artıp W56 ölçüsü bastırılırsa uyum bozulabilir.
+
+---
+
+## Yol kayması (bozulma) tanımı
+“Yol kayması”, W4 kısa vadeli baskının artmasıyla:
+- aklın (A) menfaati büyütmesi,
+- üst ölçünün (W56 / H) zayıf hesaba katılması,
+- iç hüküm (J) ile dış hükmün (E) çatışması
+sonucu ahlak alanının (M) daralmasıdır.
+
+---
+
+## Dosya planı (bu depo nasıl büyüyecek?)
+Bu README sadece giriş metnidir. Sistem şu dosyalarla kurulacaktır:
+
+1. `GLOSSARY.md` – Kavram sözlüğü (O, D, A, M, J, E, W4, W56, H)
+2. `AXIOMS.md` – Aksiyomlar (doğal düzeni bozmadan formel cümleler)
+3. `EXAMPLES.md` – Hücre/ekosistem ve hayvan örnekleri (uyum–çatışma senaryoları)
+4. `math/` – Matematik model (uyum/çatışma ölçüleri)
+5. `formal/` – Lean/Coq/Isabelle formalizasyonu
+6. `TESTS.md` – “Bu çerçeve şu durumda çelişki üretmemeli” test listesi
+
+---
+
+## Not
+Bu çerçevede “hakikate giden yol usuldür”; usul W4’te işler, hedef W56 ölçüsüne uyumdur.
+Ahlak, bu uyumu ne kadar doğru kurarsa çatışma o kadar azalır; insan o kadar “rahat eder”.
