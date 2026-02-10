@@ -54,3 +54,30 @@ def scoreL (λ : Lambda) (s : State) (u : Action) : Int :=
 def driftL (λ : Lambda) : Int :=
   1 - λ.val
 Bu, λ’yı kontrolsüz bir Int olmaktan çıkarıp “sınırları olan parametre” yapar.
+
+/-- Constructor helpers for edge lambdas. -/
+def lambda0 : Lambda :=
+{ val := 0
+, lower_bound := by linarith
+, upper_bound := by linarith
+}
+
+def lambda1 : Lambda :=
+{ val := 1
+, lower_bound := by linarith
+, upper_bound := by linarith
+}
+
+theorem scoreL_lambda0
+  (s : State) (u : Action) :
+  scoreL lambda0 s u = E s u :=
+by
+  unfold scoreL lambda0
+  ring
+
+theorem scoreL_lambda1
+  (s : State) (u : Action) :
+  scoreL lambda1 s u = H s u + E s u :=
+by
+  unfold scoreL lambda1
+  ring
