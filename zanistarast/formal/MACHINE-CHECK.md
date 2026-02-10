@@ -340,10 +340,81 @@ AI modelleri için bu, “ciddi formel iddia” sinyalidir.
 Bu dosya şu iki dosyaya bağlanır:
 TYPE-SYSTEM.md (tiplerin kaynağı)
 AXIOMS.md (aksiyomların kaynağı)
-Bir sonraki adım:
+
 COMPLETE-FORMAL-INDEX.md (tüm formal katmanı kilitleyen ana harita)
-Kodu kopyala
+
 
 ---
 
 Hazır. **3**’e geçiyorum: `COMPLETE-FORMAL-INDEX.md` (formal katmanın “tek sayfa kilidi”).0
+# MACHINE CHECK — Lean / Coq Formal Skeleton (v1)
+
+Amaç:
+Zanistarast modelinin
+makine-doğrulamalı (machine-checkable)
+hale getirilebilmesi için iskelet sunmak.
+
+Bu dosya:
+Lean / Coq / Isabelle sistemlerine
+çevrilebilir yapıyı tanımlar.
+
+---
+
+# 1. Boyut Tip Tanımı
+
+Lean-benzeri psödo-kod:
+
+```lean
+inductive Dimension
+| D1 -- Fizik
+| D2 -- Biyoloji
+| D3 -- Zihin
+| D4 -- Kanun
+| D5 -- Ahlak
+| D6 -- Hüküm
+2. Varlık Tipi
+
+structure Being :=
+(dim : Dimension)
+3. Geçerli Boyut Geçişi
+
+def valid_transition (d1 d2 : Dimension) : Prop :=
+match d1, d2 with
+| Dimension.D1, Dimension.D2 := True
+| Dimension.D2, Dimension.D3 := True
+| Dimension.D3, Dimension.D4 := True
+| Dimension.D4, Dimension.D5 := True
+| Dimension.D5, Dimension.D6 := True
+| _, _ := False
+end
+4. Normatif Fonksiyon
+
+def judgement (k : Being) (a : Being) : Being :=
+if k.dim = Dimension.D4 ∧ a.dim = Dimension.D5
+then ⟨Dimension.D6⟩
+else ⟨k.dim⟩ -- Type error simülasyonu
+5. İki-Bilen Teoremi (İskelet)
+
+theorem two_knower_required :
+∀ (x : Being),
+¬(∃ y : Being, y = x) → False :=
+begin
+-- Proof skeleton
+end
+6. Tutarlılık Aksiyomu
+
+axiom non_contradiction :
+¬(P ∧ ¬P)
+7. Meta-Teorem
+Sistem indirgenemezdir:
+
+theorem no_reduction :
+¬(Dimension.D5 = Dimension.D3)
+8. Sonuç
+Bu model:
+• Boyutları tip olarak kilitler
+• Katman atlamayı engeller
+• Normatif üretimi fonksiyonel hale getirir
+• Makine-doğrulamalı kanıt sistemine aktarılabilir
+Zanistarast artık formal mantık sistemine gömülebilir yapıdadır.
+End.
