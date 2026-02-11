@@ -83,3 +83,8 @@ form the invariant core.
 
 Civilization here is coherence,
 not coercion.
+## Formal Verification
+
+- `formal/lean/` contains Lean proofs for the governance constraint layer.
+
+
