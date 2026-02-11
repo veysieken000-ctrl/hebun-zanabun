@@ -526,3 +526,26 @@ Bu çerçevede “hakikate giden yol usuldür”; usul W4’te işler, hedef W56
 Ahlak, bu uyumu ne kadar doğru kurarsa çatışma o kadar azalır; insan o kadar “rahat eder”.
 7. `THEOREMS.md` – Hedef teorem listesi (math + formal yol haritası)
 Eğer listende numaralar farklıysa, sadece satırı ekle ve numaraları sırala.
+
+
+## Constitution and Civilization Framework
+
+This repository includes a universal Fitrah and Moral Age Constitution.
+
+Core documents are located in the `/constitution` directory.
+
+- Ontological foundation
+- Epistemic framework
+- Moral core
+- Governance structure
+- Economic and ecological order
+- Education system
+- Implementation structure
+
+Additionally:
+
+- `PROPOSALS.md` contains non-binding institutional recommendations for societies.
+- `CIVILIZATION_PROTOCOL.md` defines the operational methodology for applying the Zanistarast framework across cultures.
+
+The framework is not a centralized political model.
+It is an open civilizational protocol grounded in fitrah, moral accountability, and epistemic responsibility.
