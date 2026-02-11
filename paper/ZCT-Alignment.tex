@@ -143,11 +143,56 @@ alignment control parameter.
 
 \subsection{Theoretical Interpretation within Alignment Literature}
 
+\subsection{Theoretical Interpretation within Alignment Literature}
+
+\section{Connection to Large Language Model Alignment}
+
+Modern large language models (LLMs) are typically aligned using
+a combination of supervised fine-tuning and reinforcement learning
+from human feedback (RLHF).
+
+In these systems, a learned reward model $R_\theta$ acts as a proxy
+for human preference. However, proxy-reward divergence may occur
+under distribution shift or optimization pressure.
+
+Within our framework, we interpret:
+
+\begin{itemize}
+\item $H(s,u)$ as the latent human value objective,
+\item $E(s,u)$ as the learned reward model proxy,
+\item $\lambda$ as the effective alignment weight
+      controlling the influence of $H$ relative to $E$.
+\end{itemize}
+
+Under strong optimization pressure toward proxy maximization,
+$\lambda$ may effectively decrease,
+leading to increased drift and misalignment risk.
+
+This interpretation reframes reward-model overoptimization
+as a gradual alignment-collapse process.
+
+\subsection{Reward Model Overoptimization}
+
+In reinforcement learning from human feedback,
+policies are optimized to maximize a learned reward model.
+
+If the proxy reward model diverges from true human values,
+increasing optimization strength can produce specification gaming.
+
+In our formulation, such overoptimization corresponds to:
+
+\[
+\lambda \downarrow \quad \Rightarrow \quad Drift \uparrow
+\]
+
+Thus, alignment failure may emerge not from incorrect reward design,
+but from dynamic reweighting under optimization pressure.
+
 Modern alignment research distinguishes between proxy optimization and
 true objective optimization. In standard reinforcement learning,
 models optimize a reward proxy $R$, which may diverge from the
 intended upper-level value $H$ under distribution shift.
-
+Refine abstract to include LLM alignment connection
 In our formulation, the scoring function
 
 \[
@@ -297,6 +342,20 @@ This framework:
 \item Stability proofs
 \item Multi-agent drift interaction
 \end{itemize}
+
+\begin{abstract}
+We propose a minimal alignment control model based on an
+upper-measure attention parameter $\lambda \in [0,1]$.
+Drift is defined as $1-\lambda$ and serves as a continuous
+measure of alignment degradation.
+
+We connect this framework to reward hacking,
+distribution shift, and reward model overoptimization
+in large language models.
+A toy distribution-shift experiment illustrates
+how proxy dominance increases alignment fragility.
+\end{abstract}
+
 
 \section{Related Work}
 
