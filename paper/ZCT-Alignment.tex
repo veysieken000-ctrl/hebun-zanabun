@@ -46,7 +46,7 @@ Drift = 1 - \lambda
 This provides a continuous measure of alignment degradation.
 \end{abstract}
 
-\section{Motivation}
+\section{Introduction}
 
 Alignment failures in intelligent systems often arise not from incorrect optimization,
 but from insufficient weighting of higher-order value constraints.
@@ -57,8 +57,7 @@ We model this as attention collapse:
 \lambda \to 0
 \]
 
-\section{Core Model}
-
+\section{Formal Model}
 Let:
 
 \[
@@ -74,7 +73,7 @@ Decision rule:
 Score_\lambda(s,u) = \lambda H(s,u) + E(s,u)
 \]
 
-\section{Drift}
+\section{Theoretical Analysis}
 
 Drift is defined as:
 
@@ -164,5 +163,10 @@ The contribution of this work lies in:
 
 Thus, the novelty lies in the control-theoretic interpretation of value neglect,
 not in the algebraic form of scalarization.
+\section{Conclusion}
+
+We introduced an alignment framing based on upper-measure attention $\lambda$ and drift $1-\lambda$,
+and provided a minimal evaluation protocol.
+Future work focuses on dynamic $\lambda(t)$ and stronger empirical validation.
 
 \end{document}
