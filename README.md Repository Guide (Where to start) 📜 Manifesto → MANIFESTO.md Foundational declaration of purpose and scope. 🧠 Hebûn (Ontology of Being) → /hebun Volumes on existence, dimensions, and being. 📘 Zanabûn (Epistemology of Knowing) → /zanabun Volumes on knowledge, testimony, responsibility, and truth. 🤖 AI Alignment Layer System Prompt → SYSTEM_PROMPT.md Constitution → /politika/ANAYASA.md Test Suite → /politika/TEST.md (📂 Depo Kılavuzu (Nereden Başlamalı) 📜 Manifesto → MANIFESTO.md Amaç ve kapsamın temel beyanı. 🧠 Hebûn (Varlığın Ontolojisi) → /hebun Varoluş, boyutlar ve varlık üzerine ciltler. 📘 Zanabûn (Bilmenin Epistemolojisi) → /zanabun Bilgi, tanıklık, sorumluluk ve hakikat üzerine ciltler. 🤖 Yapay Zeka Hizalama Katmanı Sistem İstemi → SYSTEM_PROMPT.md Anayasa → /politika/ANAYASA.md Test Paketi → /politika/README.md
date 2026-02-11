@@ -34,6 +34,29 @@ See: `/zanistarast/`
 ---
 --
 
+## Layered Framework Structure
+
+This repository is structured in three coherent layers:
+
+### Method Layer
+- rasterast v1.0  
+  Truth-aligned methodological framework.
+
+### Ontological Layer
+- Hebûn–Zanabûn v1.0  
+  Ontological and epistemic grounding of human dignity and knowledge.
+
+### Civilizational Layer
+- Zanistarast Civilizational Framework v1.0 (Latest)  
+  Council-based, fitrah-aligned, non-centralized civilizational architecture.
+
+Each layer builds upon the previous one.
+
+Method → Ont reminding → Civilization structure.
+
+This is a layered system, not a manifesto.
+
+
 ## Minimal Matematik Özeti
 
 Model, iki ölçüye dayanır:
