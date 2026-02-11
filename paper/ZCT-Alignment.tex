@@ -6,6 +6,24 @@
 \usepackage{geometry}
 \geometry{margin=1in}
 
+\begin{thebibliography}{9}
+
+\bibitem{amodei2016}
+Amodei, D., et al.
+\textit{Concrete Problems in AI Safety}.
+arXiv:1606.06565 (2016).
+
+\bibitem{misgen}
+Langosco, L., et al.
+\textit{Goal Misgeneralization in Deep Reinforcement Learning}.
+arXiv:2210.01790 (2022).
+
+\bibitem{russell}
+Russell, S.
+\textit{Human Compatible}.
+Viking (2019).
+
+\end{thebibliography}
 \title{Upper-Measure Attention as an Alignment Control Parameter}
 \author{ZCT Framework}
 \date{}
@@ -109,4 +127,21 @@ This framework:
 \item Multi-agent drift interaction
 \end{itemize}
 
+\section{Related Work}
+
+Alignment failures such as reward hacking and specification gaming
+have been extensively discussed in the AI safety literature.
+
+Amodei et al. (2016) highlight concrete safety problems arising
+from imperfect reward specification.
+Goal misgeneralization work further shows that even correctly specified
+training objectives can lead to unintended goal pursuit under distribution shift.
+
+Our framework does not introduce a new reward structure,
+but instead provides a control-parameter interpretation:
+misalignment is modeled as attention collapse toward higher-order values,
+quantified by $\lambda$.
+
+This perspective reframes alignment degradation
+as continuous upper-value neglect rather than binary failure.
 \end{document}
