@@ -80,6 +80,19 @@ Drift is defined as:
 \[
 Drift = 1 - \lambda
 \]
+\subsection{Dynamic Attention Collapse}
+
+To move beyond static scalarization, we model attention as a dynamic quantity:
+\[
+\lambda_{t+1} = \mathrm{clip}\big(\lambda_t - \eta \, P_t,\, 0,\, 1\big)
+\]
+where $P_t \ge 0$ denotes training pressure (e.g., incentive to optimize proxy reward),
+$\eta > 0$ is a step size, and $\mathrm{clip}$ bounds $\lambda$ to $[0,1]$.
+
+This captures a collapse mechanism: sustained pressure can monotonically decrease $\lambda$,
+increasing drift $1-\lambda$ and raising misalignment risk.
+
+
 \section{Results (Toy MDP)}
 
 We ran a toy simulation sweeping $\lambda \in [0,1]$ and recorded:
