@@ -1,0 +1,30 @@
+{
+  "periods": 24,
+  "councils": [
+    {"name": "Judgment", "power": 1.0},
+    {"name": "Moral", "power": 1.0},
+    {"name": "Economy", "power": 1.0},
+    {"name": "Education", "power": 1.0},
+    {"name": "Ecology", "power": 1.0},
+    {"name": "Culture", "power": 1.0}
+  ],
+  "members_per_council": 25,
+  "decisions_per_period": 40,
+  "documentation_rate": 0.85,
+  "renewal_rate_per_period": 0.01,
+  "allow_overlap": false,
+  "overlap_injection_rate": 0.0,
+  "weights": {
+    "w_C": 0.30,
+    "w_T": 0.40,
+    "w_O": 0.20,
+    "w_I": 0.10
+  },
+  "thresholds": {
+    "safe": 0.35,
+    "warning": 0.55,
+    "breach": 0.75
+  },
+  "tenure_max_periods": 24
+}
+
