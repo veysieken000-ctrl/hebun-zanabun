@@ -49,3 +49,20 @@ python simulate.py --config config.example.json
 
 This is a prototype.
 Societies may replace random dynamics with real data.
+
+## Scenarios
+
+Predefined scenario configs are available in `scenarios/`:
+
+- `capture-attack.json`  
+  Overlap injection simulating cross-domain capture bridges.
+
+- `opacity-drift.json`  
+  Reduced documentation rate simulating opacity drift.
+
+- `tenure-entrenchment.json`  
+  Minimal renewal simulating long-term entrenchment.
+
+Run example:
+python simulate.py --config scenarios/capture-attack.json
+
