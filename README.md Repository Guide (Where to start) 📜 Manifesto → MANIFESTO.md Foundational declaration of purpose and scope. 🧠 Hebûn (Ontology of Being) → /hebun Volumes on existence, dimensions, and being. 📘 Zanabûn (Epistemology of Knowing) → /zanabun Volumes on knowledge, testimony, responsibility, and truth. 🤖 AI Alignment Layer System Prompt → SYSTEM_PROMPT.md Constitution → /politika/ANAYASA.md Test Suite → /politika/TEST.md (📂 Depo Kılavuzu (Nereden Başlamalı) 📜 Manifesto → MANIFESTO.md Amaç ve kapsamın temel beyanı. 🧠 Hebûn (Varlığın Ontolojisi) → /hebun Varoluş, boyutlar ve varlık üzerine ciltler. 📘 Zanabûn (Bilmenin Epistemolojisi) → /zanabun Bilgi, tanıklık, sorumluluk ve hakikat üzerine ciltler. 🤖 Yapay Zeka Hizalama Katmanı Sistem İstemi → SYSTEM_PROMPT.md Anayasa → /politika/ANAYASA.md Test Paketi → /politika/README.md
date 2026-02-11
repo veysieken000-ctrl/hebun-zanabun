@@ -549,3 +549,23 @@ Additionally:
 
 The framework is not a centralized political model.
 It is an open civilizational protocol grounded in fitrah, moral accountability, and epistemic responsibility.
+
+## Civilizational Framework
+
+The civilizational layer of this repository is located in `/civilizational`.
+
+Core structure:
+
+- `CIVILIZATIONAL-FOUNDATION.md` → Ontological and moral basis
+- `CIVILIZATION_PROTOCOL.md` → Open application methodology
+- `civilizational-manifest.md` → Declaration layer
+- `governance/` → Council-based institutional design
+- `economy/` → Fitrah-aligned economic structure
+- `education/` → Moral and epistemic formation system
+- `architecture/` → Structural institutional model
+- `meta/` → Framework evolution principles
+
+This framework is not a centralized political system.
+It is an open-source civilizational protocol grounded in Zanistarast.
+
+
