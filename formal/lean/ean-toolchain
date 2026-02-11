@@ -1,0 +1,14 @@
+leanprover/lean4:v4.8.0
+📄 /formal/lean/lakefile.lean
+Lean
+Kodu kopyala
+import Lake
+open Lake DSL
+
+package zanistarast_formal where
+  -- keep default
+
+@[default_target]
+lean_lib Zanistarast where
+  roots := #[`Zanistarast]
+
