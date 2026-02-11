@@ -1,6 +1,8 @@
 \documentclass[11pt]{article}
 \usepackage{amsmath}
+\usepackage{graphicx}
 \usepackage{amssymb}
+\usepackage{graphicx}
 \usepackage{geometry}
 \geometry{margin=1in}
 
@@ -61,6 +63,25 @@ Drift is defined as:
 \[
 Drift = 1 - \lambda
 \]
+\section{Results (Toy MDP)}
+
+We ran a toy simulation sweeping $\lambda \in [0,1]$ and recorded:
+(i) proxy reward behavior, (ii) true/upper value behavior, and (iii) safety violations.
+As $\lambda$ decreases (i.e., drift increases), safety violations rise and the alignment gap worsens.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\linewidth]{figures/proxy_vs_true.png}
+\caption{Proxy (E) vs True/Upper (H) value among chosen actions as a function of $\lambda$.}
+\label{fig:proxytrue}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\linewidth]{figures/violations.png}
+\caption{Safety violations vs $\lambda$ (higher drift corresponds to lower $\lambda$).}
+\label{fig:violations}
+\end{figure}
 
 As Drift increases:
 
