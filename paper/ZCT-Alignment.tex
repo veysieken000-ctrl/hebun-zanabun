@@ -141,6 +141,55 @@ Under distribution shift, $G(\lambda)$ increases as $\lambda$ decreases.
 These results support the interpretation of $\lambda$ as a continuous
 alignment control parameter.
 
+\subsection{Theoretical Interpretation within Alignment Literature}
+
+Modern alignment research distinguishes between proxy optimization and
+true objective optimization. In standard reinforcement learning,
+models optimize a reward proxy $R$, which may diverge from the
+intended upper-level value $H$ under distribution shift.
+
+In our formulation, the scoring function
+
+\[
+S_\lambda(s,u) = \lambda H(s,u) + (1-\lambda)E(s,u)
+\]
+
+explicitly parameterizes this trade-off.
+
+\paragraph{Interpretation of $\lambda$}
+
+We interpret $\lambda$ as an alignment weight controlling the relative
+influence of upper-level value $H$ versus proxy estimator $E$.
+
+\begin{itemize}
+\item $\lambda = 1$: Fully aligned regime (upper-value dominance)
+\item $\lambda = 0$: Pure proxy regime
+\item $0 < \lambda < 1$: Mixed regime
+\end{itemize}
+
+\paragraph{Alignment Collapse Mechanism}
+
+Under sustained external pressure or internal optimization bias,
+$\lambda$ may decrease over time:
+
+\[
+\lambda_{t+1} = \lambda_t - \eta \cdot \text{pressure}_t
+\]
+
+where $\eta > 0$ is a step size.
+
+Since drift is defined as
+
+\[
+\text{Drift} = 1 - \lambda,
+\]
+
+monotonic decrease of $\lambda$ induces monotonic increase in drift,
+which in turn increases safety violations and alignment gap.
+
+This provides a minimal mathematical model for alignment collapse
+under proxy dominance.
+
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.9\linewidth]{figures/shift_violations.png}
