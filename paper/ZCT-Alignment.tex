@@ -341,4 +341,44 @@ We introduced an alignment framing based on upper-measure attention $\lambda$ an
 and provided a minimal evaluation protocol.
 Future work focuses on dynamic $\lambda(t)$ and stronger empirical validation.
 
+\section{Limitations and Future Directions}
+
+This work presents a minimal conceptual and experimental model.
+Several limitations should be acknowledged.
+
+\subsection{Toy Environment}
+
+The experimental validation relies on a simplified toy MDP.
+While useful for illustrating dynamics,
+it does not capture the complexity of modern large-scale models.
+
+Future work should evaluate the framework in
+more realistic reinforcement learning and language model settings.
+
+\subsection{Fixed Upper-Value Assumption}
+
+We assume the upper-value function $H$ is stable and well-defined.
+In practice, value representations may themselves be uncertain
+or partially observed.
+
+Extending the framework to stochastic or learned $H$
+remains an open problem.
+
+\subsection{Single-Parameter Control}
+
+The current model reduces alignment to a single scalar parameter $\lambda$.
+Real systems may require multi-dimensional control structures
+or hierarchical weighting schemes.
+
+Future work may generalize the model to
+vector-valued alignment parameters.
+
+\subsection{Theoretical Guarantees}
+
+Although we propose a collapse dynamic,
+formal stability proofs and regret bounds are not yet derived.
+
+Providing theoretical guarantees for bounded drift
+is an important direction for further research.
+
 \end{document}
