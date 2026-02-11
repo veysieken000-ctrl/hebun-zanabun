@@ -190,6 +190,60 @@ which in turn increases safety violations and alignment gap.
 This provides a minimal mathematical model for alignment collapse
 under proxy dominance.
 
+Alignment research has identified several recurring failure modes,
+including reward hacking, specification gaming, and distributional
+shift misalignment. A common structural feature in these failures is
+proxy dominance: the learned policy increasingly optimizes a proxy
+signal that diverges from the intended objective.
+
+Our formulation differs in that we introduce an explicit,
+continuous alignment parameter $\lambda$ controlling the
+relative influence of upper-level value $H$ and proxy estimator $E$.
+
+\subsection{Relation to Reward Hacking}
+
+Reward hacking can be interpreted as the regime where
+
+\[
+\lambda \rightarrow 0
+\]
+
+and the proxy term dominates optimization. In this regime,
+the alignment gap
+
+\[
+\Delta_{\text{align}} = H^* - H(\pi_\lambda)
+\]
+
+increases as drift grows.
+
+\subsection{Relation to Distribution Shift}
+
+Standard distribution shift analysis evaluates performance
+degradation between training and test environments.
+
+In our framework, distribution shift acts as an amplifier:
+as correlation between $E$ and $H$ decreases,
+proxy-dominant policies incur sharply increasing violations.
+
+Thus, distribution shift does not merely reduce performance;
+it increases alignment risk nonlinearly when $\lambda$ is small.
+
+\subsection{Minimal Collapse Model}
+
+While many alignment discussions describe failure qualitatively,
+our model provides a minimal quantitative collapse dynamic:
+
+\[
+\lambda_{t+1} = \lambda_t - \eta \cdot \text{pressure}_t
+\]
+
+which induces a predictable increase in drift and safety violations.
+
+This creates a bridge between qualitative alignment discourse
+and measurable dynamical behavior.
+
+
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.9\linewidth]{figures/shift_violations.png}
