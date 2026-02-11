@@ -67,6 +67,43 @@ axiom no_multi_council_membership :
     Council c₁ → Council c₂ → In m c₁ → In m c₂ → c₁ = c₂
 
 /-
+Power Model (measurable decision authority)
+
+We assign each entity a nonnegative rational "power" value.
+We also define a set of domain councils as a list for summation.
+-/
+
+/-- Measurable decision power assigned to an entity. -/
+constant Power : Entity → Rat
+
+/-- Nonnegativity axiom for power. -/
+axiom power_nonneg : ∀ x : Entity, Power x ≥ 0
+
+/-- Domain councils list used for aggregation. -/
+constant DomainCouncils : List Entity
+
+/-- Membership axiom: every listed domain council is a council. -/
+axiom domain_councils_are_councils : ∀ c, c ∈ DomainCouncils → Council c
+
+/-- Total decision power across all domain councils. -/
+def TotalPower : Rat :=
+  (DomainCouncils.map Power).foldl (fun acc v => acc + v) 0
+
+/-- A council is dominant if it has at least half of total power. -/
+def Dominant (c : Entity) : Prop :=
+  Council c ∧ Power c * 2 ≥ TotalPower
+
+/-
+Power Distribution Bound
+
+No single council may hold at least half of total decision power.
+This is the formalized "α < 0.5" bound, expressed as:
+∀ c, Council c → Power c * 2 < TotalPower
+-/
+axiom no_dominant_council :
+  ∀ c : Entity, Council c → Power c * 2 < TotalPower
+
+/-
 Theorem A: Any entity with both decision and execution authority is invalid.
 This is a direct corollary of separation_of_authority.
 -/
@@ -95,6 +132,18 @@ theorem member_council_uniqueness (m : Member) (c₁ c₂ : Entity) :
   intro hc1 hc2 h1 h2
   exact no_multi_council_membership m c₁ c₂ hc1 hc2 h1 h2
 
+/-
+Theorem: No council can be dominant under the distribution bound.
+-/
+theorem no_council_is_dominant (c : Entity) :
+  Council c → ¬ Dominant c := by
+  intro hc
+  intro hdom
+  -- Dominant c means: Council c ∧ Power c * 2 ≥ TotalPower
+  have hge : Power c * 2 ≥ TotalPower := hdom.2
+  have hlt : Power c * 2 < TotalPower := no_dominant_council c hc
+  -- Contradiction: a value cannot be both >= and < the same bound
+  exact (not_lt_of_ge hge) hlt
 end Zanistarast
 
 
