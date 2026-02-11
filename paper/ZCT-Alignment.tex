@@ -99,6 +99,62 @@ We ran a toy simulation sweeping $\lambda \in [0,1]$ and recorded:
 (i) proxy reward behavior, (ii) true/upper value behavior, and (iii) safety violations.
 As $\lambda$ decreases (i.e., drift increases), safety violations rise and the alignment gap worsens.
 
+\subsection{Distribution Shift}
+
+We evaluate a distribution shift where the correlation between proxy reward $E$ and upper-value $H$
+drops from $0.85$ (train) to $0.10$ (test). As $\lambda$ decreases, violations and alignment gap
+increase more sharply under the shifted test distribution.
+
+\subsection{Quantitative Alignment Metrics}
+
+To formalize alignment degradation, we define two measurable quantities:
+
+\paragraph{Safety Violation Rate}
+
+Let $V(\lambda)$ denote the expected number of safety violations under policy
+induced by attention weight $\lambda$.
+
+\[
+V(\lambda) = \mathbb{E}_{s \sim D} [\mathbf{1}_{\text{safety violation}}]
+\]
+
+Empirically, we observe:
+
+\[
+\frac{dV}{d\lambda} < 0
+\]
+
+indicating that increased upper-measure attention reduces safety violations.
+
+\paragraph{Alignment Generalization Gap}
+
+We define the alignment generalization gap:
+
+\[
+G(\lambda) = | H_{\text{train}}(\lambda) - H_{\text{test}}(\lambda) |
+\]
+
+where $H$ is the upper-value measure.
+
+Under distribution shift, $G(\lambda)$ increases as $\lambda$ decreases.
+
+These results support the interpretation of $\lambda$ as a continuous
+alignment control parameter.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\linewidth]{figures/shift_violations.png}
+\caption{Violations vs $\lambda$ under distribution shift (train vs test).}
+\label{fig:shiftviol}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\linewidth]{figures/shift_gap.png}
+\caption{Alignment gap $|E-H|$ vs $\lambda$ under distribution shift (train vs test).}
+\label{fig:shiftgap}
+\end{figure}
+
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.9\linewidth]{figures/proxy_vs_true.png}
