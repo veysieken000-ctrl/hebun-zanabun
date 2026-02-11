@@ -104,6 +104,26 @@ axiom no_dominant_council :
   ∀ c : Entity, Council c → Power c * 2 < TotalPower
 
 /-
+Capture Bridge Definition
+
+A "bridge member" is a member who has voting membership
+in two distinct domain councils. This creates a structural
+capture bridge between domains.
+
+We will prove such bridges cannot exist under the
+no-multi-council membership constraint.
+-/
+
+/-- A member is a bridge if they belong to two distinct councils. -/
+def BridgeMember (m : Member) : Prop :=
+  ∃ (c₁ c₂ : Entity),
+    Council c₁ ∧ Council c₂ ∧ In m c₁ ∧ In m c₂ ∧ c₁ ≠ c₂
+
+/-- There exists a capture bridge if any bridge member exists. -/
+def BridgeExists : Prop :=
+  ∃ m : Member, BridgeMember m
+
+/-
 Theorem A: Any entity with both decision and execution authority is invalid.
 This is a direct corollary of separation_of_authority.
 -/
@@ -139,7 +159,29 @@ theorem no_council_is_dominant (c : Entity) :
   Council c → ¬ Dominant c := by
   intro hc
   intro hdom
-  -- Dominant c means: Council c ∧ Power c * 2 ≥ TotalPower
+
+/-
+Theorem: No bridge members can exist.
+
+Proof idea:
+Assume m is in two councils c₁ and c₂.
+By no_multi_council_membership, we must have c₁ = c₂,
+contradicting c₁ ≠ c₂.
+-/
+theorem no_bridge_member (m : Member) : ¬ BridgeMember m := by
+  intro h
+  rcases h with ⟨c₁, c₂, hc₁, hc₂, hin₁, hin₂, hne⟩
+  have heq : c₁ = c₂ :=
+    no_multi_council_membership m c₁ c₂ hc₁ hc₂ hin₁ hin₂
+  exact hne heq
+
+/-- Corollary: No capture bridge can exist in the system. -/
+theorem no_bridge_exists : ¬ BridgeExists := by
+  intro h
+  rcases h with ⟨m, hm⟩
+  exact (no_bridge_member m) hm
+
+-- Dominant c means: Council c ∧ Power c * 2 ≥ TotalPower
   have hge : Power c * 2 ≥ TotalPower := hdom.2
   have hlt : Power c * 2 < TotalPower := no_dominant_council c hc
   -- Contradiction: a value cannot be both >= and < the same bound
