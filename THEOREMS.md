@@ -1,116 +1,102 @@
-THEOREMS – Hedef Teoremler (ZCT)
+# THEOREMS – ZCT Core Results
 
-## Th1 – Drift Monotonluğu (Tanım Teoremi)
-**İfade:** λ azalırsa Drift artar.  
-**Matematik:** Drift = 1 − λ, dolayısıyla λ₂ ≤ λ₁ ⇒ Drift(λ₂) ≥ Drift(λ₁).  
-**Formal hedef:** Lean’da `drift_monotone` / `driftL` üzerinden ispat.
-
-Durum: (ZCT.lean içinde var)
-Lean karşılığı: formal/lean/ZCT.lean
----
-
-## Th2 – λ=0 İhmal Teoremi
-**İfade:** λ=0 ise karar H’yi tamamen ihmal eder.  
-**Matematik:** Score₀(s,u) = E(s,u).  
-**Formal hedef:** `scoreL_lambda0`.
-
-Durum: (ZCT.lean içinde var)
-Lean karşılığı: formal/lean/ZCT.lean
----
-
-## Th3 – λ=1 Tam Katılım Teoremi
-**İfade:** λ=1 ise karar H+E toplamına eşittir.  
-**Matematik:** Score₁(s,u) = H(s,u)+E(s,u).  
-**Formal hedef:** `scoreL_lambda1`.
-
-Durum: (ZCT.lean içinde var)
-Lean karşılığı: formal/lean/ZCT.lean
----
-
-## Th4 – Uyum Artışı İlkesi (Model Hedefi)
-**İfade:** λ arttıkça üst ölçü karara daha fazla katılır, drift azalır ve uyum potansiyeli artar.  
-**Matematik hedefi:** λ₂ > λ₁ ⇒ Drift(λ₂) < Drift(λ₁).  
-**Formal hedef:** Drift kısmı ispatlanır; “uyum” kısmı için ek varsayım gerekir.
-
-Durum: hedef
-Lean karşılığı: formal/lean/ZCT.lean
----
-
-## Th5 – Çatışma Azalma Teoremi (Varsayıma Bağlı)
-**İfade:** λ arttıkça çatışma azalır.  
-**Not:** Bu teorem “H ve E aynı yönde uyumlu davranıyor” gibi ek bir varsayım olmadan genelde doğru değildir.
-
-**Matematik hedefi (şartlı):**
-Eğer bir durum sınıfında H ve E eylemlere aynı yönde tepki veriyorsa,
-λ₂ > λ₁ ⇒ Conflict(λ₂) ≤ Conflict(λ₁).
-
-**Formal hedef:** “uyumlu durum sınıfı” tanımı eklendikten sonra ispat.
-
-Durum: hedef
-Lean karşılığı: formal/lean/ZCT.lean
----
-
-## Th6 – Yol Kayması Eşiği (Tanım)
-**İfade:** Yol kayması, λ’nın belirli bir eşik altına düşmesiyle başlar.  
-**Matematik:** Drift ≥ δ ⇔ λ ≤ 1−δ.  
-**Formal hedef:** Eşik tanımı + basit lemma.
-
-Durum: hedef
-Lean karşılığı: formal/lean/ZCT.lean
----
-
-## Th7 – Hayvan/İnsan Ayrımı (Modelleme Teoremi)
-**İfade:** Hayvanlarda λ pratikte daha stabildir; insanda λ değişkendir ve baskı altında düşebilir.  
-**Not:** Bu teorem “ampirik model”dir; formel ispat yerine test ve örneklerle doğrulanır.
-
-Durum: hedef (EXAMPLES + TESTS)
-Lean karşılığı: formal/lean/ZCT.lean
+This document lists the core formal statements of the ZCT alignment model.
 
 ---
 
-## Th1 – Drift Monotonluğu
-İfade: λ azalırsa Drift artar.  
-Matematik: Drift = 1 − λ  
-Formal karşılık: drift_monotone (ZCT.lean)
+## Th1 – Drift Monotonicity
+
+**Statement:**  
+If λ decreases, Drift increases.
+
+**Definition:**  
+Drift(λ) = 1 − λ
+
+**Formal:**  
+If λ₂ ≤ λ₁ then Drift(λ₂) ≥ Drift(λ₁).
+
+**Lean reference:**  
+drift_monotone (formal/lean/ZCT.lean)
 
 ---
 
-## Th2 – λ=0 İhmal Teoremi
-İfade: λ=0 ise karar H’yi ihmal eder.  
-Matematik: Score₀(s,u) = E(s,u)  
-Formal karşılık: scoreL_lambda0
+## Th2 – λ = 0 Neglect Theorem
+
+**Statement:**  
+If λ = 0, the decision rule ignores H completely.
+
+**Mathematical:**  
+Score₀(s,u) = E(s,u)
+
+**Lean reference:**  
+scoreL_lambda0
 
 ---
 
-## Th3 – λ=1 Tam Katılım Teoremi
-İfade: λ=1 ise karar H+E’dir.  
-Matematik: Score₁(s,u) = H(s,u)+E(s,u)  
-Formal karşılık: scoreL_lambda1
+## Th3 – λ = 1 Full Inclusion Theorem
+
+**Statement:**  
+If λ = 1, decision equals full upper-value inclusion.
+
+**Mathematical:**  
+Score₁(s,u) = H(s,u) + E(s,u)
+
+**Lean reference:**  
+scoreL_lambda1
 
 ---
 
-## Th4 – Uyum Artışı İlkesi
-İfade: λ arttıkça Drift azalır.  
-Matematik: λ₂ > λ₁ ⇒ Drift(λ₂) < Drift(λ₁)  
-Formal karşılık: driftL + monotonicity
+## Th4 – Alignment Increase Principle
+
+**Statement:**  
+If λ₂ > λ₁ then Drift(λ₂) < Drift(λ₁).
+
+**Interpretation:**  
+Increasing upper-value attention reduces drift.
+
+**Formal reference:**  
+Derived from Drift = 1 − λ.
 
 ---
 
-## Th5 – Çatışma Azalma (Varsayıma Bağlı)
-İfade: Uyumlu durumlarda λ artışı çatışmayı azaltır.  
-Not: Ek varsayım gerektirir.  
-Formal hedef: Genişletilecek.
+## Th5 – Conditional Conflict Reduction
+
+**Statement (Conditional):**  
+If H and E are directionally aligned within a state class,
+then increasing λ reduces Conflict.
+
+**Mathematical form (conditional):**  
+If λ₂ > λ₁ and H,E are co-monotonic,
+then Conflict(λ₂) ≤ Conflict(λ₁).
+
+**Status:**  
+Requires additional structural assumptions.
 
 ---
 
-## Th6 – Yol Kayması Eşiği
-İfade: Drift ≥ δ ⇔ λ ≤ 1−δ  
-Formal hedef: Eşik lemma (eklenecek).
+## Th6 – Drift Threshold Theorem
+
+**Statement:**  
+Drift ≥ δ ⇔ λ ≤ 1 − δ
+
+**Interpretation:**  
+Misalignment begins when λ falls below a critical threshold.
+
+**Formal target:**  
+Threshold lemma (to be formalized in Lean)
 
 ---
 
-## Th7 – Hayvan/İnsan Ayrımı (Modelleme)
-İfade: λ stabilitesi türsel farklılık gösterir.  
-Not: Ampirik/model düzeyinde.
+## Th7 – Stability Variation (Modeling Hypothesis)
+
+**Statement:**  
+λ stability differs across agent classes.
+
+**Interpretation:**  
+Some agents (e.g., constrained systems) may maintain stable λ,
+while others exhibit dynamic λ under pressure.
+
+**Status:**  
+Empirical/modeling hypothesis (not purely formal).
 
 
