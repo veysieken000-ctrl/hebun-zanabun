@@ -136,6 +136,15 @@ constant Decision : Type
 /-- Producer of a decision (which entity issued it). -/
 constant Issuer : Decision → Entity
 
+/-
+Upper Review Non-Issuance Rule
+
+Upper review body U may review, but must not issue decisions.
+If a decision is issued by U, it is invalid.
+-/
+axiom upper_review_cannot_issue_valid :
+  ∀ d : Decision, Issuer d = U → ¬ ValidDecision d
+
 /-- Predicate: decision has full public documentation (record + reasoning). -/
 constant Documented : Decision → Prop
 
@@ -225,6 +234,26 @@ theorem valid_decision_issuer_is_council (d : Decision) :
   ValidDecision d → Council (Issuer d) := by
   intro hv
   exact valid_decision_requires_council d hv
+
+/-
+Theorem: Any decision issued by the upper review body cannot be valid.
+-/
+theorem upper_review_issued_decision_invalid (d : Decision) :
+  Issuer d = U → ¬ ValidDecision d := by
+  intro h
+  exact upper_review_cannot_issue_valid d h
+3) Güçlü koruma: “ValidDecision → Issuer ≠ U”
+Teoremler kısmına ekle:
+Lean
+Kodu kopyala
+/-
+Corollary: If a decision is valid, its issuer is not U.
+-/
+theorem valid_decision_issuer_not_upper_review (d : Decision) :
+  ValidDecision d → Issuer d ≠ U := by
+  intro hv
+  intro hEq
+  exact (upper_review_cannot_issue_valid d hEq) hv
 
 /-- Corollary: No capture bridge can exist in the system. -/
 theorem no_bridge_exists : ¬ BridgeExists := by
