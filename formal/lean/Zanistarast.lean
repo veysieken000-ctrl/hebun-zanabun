@@ -330,11 +330,37 @@ An attack attempt where a single council becomes dominant
 (i.e., holds at least half of total decision power).
 -/
 
+/-
+Attack Model 4: Executive Legislation
+
+An attack attempt where the executive body E
+successfully becomes the issuer of a valid decision.
+-/
+
+def ExecutiveLegislation : Prop :=
+  ∃ d : Decision, Issuer d = E ∧ ValidDecision d
+
+/-
+To block this structurally, we add a rule:
+If a decision is issued by E, it cannot be valid.
+-/
+axiom executive_cannot_issue_valid :
+  ∀ d : Decision, Issuer d = E → ¬ ValidDecision d
+
+theorem no_executive_legislation :
+  SystemIsSafe → ¬ ExecutiveLegislation := by
+  intro hSafe
+  intro hAttack
+  rcases hAttack with ⟨d, hIss, hValid⟩
+  have hInvalid : ¬ ValidDecision d := executive_cannot_issue_valid d hIss
+  exact hInvalid hValid
+
 def DominanceCapture : Prop :=
   ∃ c : Entity, Dominant c
 
 /-
 Theorem: Under SystemIsSafe, DominanceCapture is impossible.
+
 -/
 theorem no_dominance_capture :
   SystemIsSafe → ¬ DominanceCapture := by
