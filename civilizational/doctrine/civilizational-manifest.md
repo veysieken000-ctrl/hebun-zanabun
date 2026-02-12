@@ -1,71 +1,62 @@
-# Zanistarast Civilizational Manifest
+# Newroza Kawa Civilizational Manifest
 
-## 1. Hak Merkezlilik
+## Declaration of Direction
 
-Tüm iyi, doğru ve güzel
-nereden gelirse gelsin alınır.
+Newroza Kawa Civilization represents a fıtrat-aligned,  
+morally grounded, and structurally stable civilizational vision.
 
-Hak,
-kişiden ve ideolojiden üstündür.
-
----
-
-## 2. Katmanlı İnsan
-
-İnsan:
-
-1. Fizik
-2. Biyoloji
-3. Zihin
-4. Kanun
-5. Ahlak
-6. Hüküm
-
-katmanlarından oluşur.
-
-Medeniyet bu katmanları
-daraltamaz.
+It is not built on domination,  
+but on alignment with natural law and moral coherence.
 
 ---
 
-## 3. Ekonomi
+## Foundational Axis
 
-Ekonomi insanı indirgemez.
-Varlık sahasını genişletir.
+This civilization stands on:
 
----
-
-## 4. Yönetim
-
-Hüküm ve ahlak birlikte çalışır.
-Güç tek başına norm üretmez.
+- Hebûn (Ontological Grounding)
+- Zanabûn (Epistemological Verification)
+- Mabûn (Economic Equilibrium)
+- Hebûn Governance Model (Council Architecture)
+- Rasterast (Correct Reading Method)
 
 ---
 
-## 5. Kültür
+## Moral Core
 
-Kültür,
-kanunun günlük hayata
-ahlaki yansımasıdır.
+The highest authority in this model is not power,
+but moral coherence.
 
----
+No institution may claim absolute authority.
 
-## 6. Nihai Amaç
-
-Medeniyet:
-
-- Hak merkezli
-- Ahlak temelli
-- Katmanlı
-- Tutarlı
-- Fıtrat uyumlu
-
-bir yapı kurmaktır.
+Moral legitimacy precedes structural authority.
 
 ---
 
-Bu manifesto,
-bir çağrıdır.
+## Civilizational Goal
 
-Bu çağrı ideolojiye değil,
-hakikate yöneliktir.
+The aim is:
+
+- Preservation of existence
+- Expansion of just order
+- Long-term structural continuity
+- Moral elevation of human society
+
+---
+
+## Civilizational Warning
+
+If moral guardianship collapses,
+structural power becomes corruption.
+
+If governance overrides morality,
+the system decays from within.
+
+---
+
+## Signature
+
+Newroza Kawa Civilization  
+Fıtrat & Ahlak Age Initiative
+
+Müdebbir: Veysi yê MALA SAF
