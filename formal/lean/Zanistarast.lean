@@ -302,4 +302,66 @@ theorem system_is_safe : SystemIsSafe := by
   exact no_council_is_dominant c hc
 Not: Bu paketleme “kanıt zinciri”ni tek noktaya toplar. İleride “SystemIsSafe → AttackImpossible” gibi daha büyük teoremleri bunun üstüne koyarsın.
 
+/-
+Attack Model 1: Upper Review Capture
+
+An attack attempt where the upper review body
+successfully produces a valid decision.
+-/
+
+/-- Upper review capture attempt exists if U issues a valid decision. -/
+def UpperReviewCapture : Prop :=
+  ∃ d : Decision, Issuer d = U ∧ ValidDecision d
+
+/-
+Attack Model 2: Bridge Capture
+
+An attack attempt where a cross-domain capture bridge exists,
+i.e., at least one member belongs to two distinct councils.
+-/
+
+def BridgeCapture : Prop :=
+  BridgeExists
+
+/-
+Theorem: Under SystemIsSafe, BridgeCapture is impossible.
+-/
+theorem no_bridge_capture :
+  SystemIsSafe → ¬ BridgeCapture := by
+  intro hSafe
+  intro hAttack
+
+  -- unpack SystemIsSafe and extract ¬ BridgeExists
+  rcases hSafe with ⟨hU_noP,
+    ⟨hE_noP,
+    ⟨hUndoc,
+    ⟨hUpperInvalid,
+    ⟨hNoBridge,
+    hNoDom⟩⟩⟩⟩⟩
+
+  exact hNoBridge hAttack
+
+/-
+Theorem: Under SystemIsSafe, UpperReviewCapture is impossible.
+-/
+theorem no_upper_review_capture :
+  SystemIsSafe → ¬ UpperReviewCapture := by
+  intro hSafe
+  intro hAttack
+  rcases hAttack with ⟨d, hIss, hValid⟩
+
+  -- unpack SystemIsSafe
+  rcases hSafe with ⟨hU_noP,
+    ⟨hE_noP,
+    ⟨hUndoc,
+    ⟨hUpperInvalid,
+    ⟨hNoBridge,
+    hNoDom⟩⟩⟩⟩⟩
+
+  -- from safety: Issuer d = U → ¬ ValidDecision d
+  have hInvalid : ¬ ValidDecision d :=
+    hUpperInvalid d hIss
+
+  exact hInvalid hValid
+
 
