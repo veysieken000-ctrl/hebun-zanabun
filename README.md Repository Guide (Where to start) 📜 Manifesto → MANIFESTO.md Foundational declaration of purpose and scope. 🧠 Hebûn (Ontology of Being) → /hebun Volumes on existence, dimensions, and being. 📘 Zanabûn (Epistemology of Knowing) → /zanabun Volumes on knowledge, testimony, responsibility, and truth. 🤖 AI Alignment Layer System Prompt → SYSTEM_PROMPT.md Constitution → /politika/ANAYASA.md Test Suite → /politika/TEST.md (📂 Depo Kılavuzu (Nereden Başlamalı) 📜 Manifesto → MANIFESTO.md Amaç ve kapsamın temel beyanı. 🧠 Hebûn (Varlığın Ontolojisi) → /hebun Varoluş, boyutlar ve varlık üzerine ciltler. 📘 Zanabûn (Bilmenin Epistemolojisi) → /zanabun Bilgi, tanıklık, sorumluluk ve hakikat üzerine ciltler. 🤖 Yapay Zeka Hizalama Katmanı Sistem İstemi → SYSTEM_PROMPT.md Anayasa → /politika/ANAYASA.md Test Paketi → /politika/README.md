@@ -1,34 +1,28 @@
-> Canonical white paper (v1.2):
-> **/docs/paper/Hebun-Zanabun-Framework-v1.2.md**
+# Hebûn–Zanabûn Framework
 
-# Hebûn – Zanabûn Civilization Framework
-
-A layered civilization model integrating ontology, epistemology,
-natural equilibrium, and moral civilization.
+A hak-centered ontological, epistemological and civilizational model.
 
 Current Phase: v1.2  
-Meta-Layer: Zanistarast
+Status: Civilizational Layer Active  
 
 ---
 
-# 🔰 Start Here
+## 🚀 Start Here
 
 If you are new:
-
-👉 /civilizational/INDEX.md
+→ civilization/INDEX.md
 
 If you are academic:
-
-👉 /global/GLOBAL-POSITIONING.md
+→ global/GLOBAL-POSITIONING.md  
+→ docs/paper/Hebun-Zanabun-Framework-v1.2.md
 
 If you are formal / mathematical:
-
-👉 /formal  
-👉 /math  
+→ formal/  
+→ math/
 
 ---
 
-# 🧠 Core Layers
+## 🧱 Core Layers
 
 Hebûn → Ontological Ground  
 Zanabûn → Epistemological Structure  
@@ -38,54 +32,41 @@ Zanistarast → Meta-Integrative Civilization Layer
 
 ---
 
-# 🏛 Civilization Layer
+## 🏛 Civilization Layer
 
 Located in:
-
-👉 /civilizational/
+→ civilizational/
 
 Includes:
-
-- Governance architecture  
-- Economic model  
-- Educational system  
-- Cultural layer  
-- Meta stability mechanisms  
+- Governance architecture
+- Economic model
+- Educational structure
+- Cultural layer
+- Stability mechanisms
 
 ---
 
-# 📜 Constitution
+## 📜 Constitution
 
 Core constitutional documents:
-
-👉 /constitution/
-
----
-
-# 🌍 Academic Positioning
-
-International academic framing:
-
-👉 /global/
+→ constitution/
 
 ---
 
-# 📚 Full Framework Document
+## 📄 Official Academic Paper
 
-The complete extended framework document is archived here:
-
-👉 /docs/MASTER-FRAMEWORK-v2.md
+DOI-ready version:
+→ docs/paper/Hebun-Zanabun-Framework-v1.2.md
 
 ---
-## 📄 Official Academic Paper (DOI-ready)
 
-docs/paper/Hebun-Zanabun-Framework-v1.2.md
+## 📦 Extended Framework
 
-This repository is not a centralized political system.
+Full extended structure:
+→ docs/MASTER-FRAMEWORK-v2.md
 
-It is an open-source civilizational protocol grounded in:
+---
 
-- Ontology  
-- Epistemic responsibility  
-- Moral equilibrium  
-- Structural stability
+This repository is not a centralized political system.  
+It is an open civilizational protocol grounded in ontology, epistemic responsibility and moral equilibrium.
+
