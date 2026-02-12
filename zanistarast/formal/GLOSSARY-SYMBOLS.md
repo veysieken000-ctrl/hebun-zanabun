@@ -24,3 +24,9 @@
 - **Ruh / Kanun (Katman-4)**: 1–3'ü dengeleyen koordinasyon yasası
 - **Ahlak (Katman-5)**: ahlaki sorumluluk
 - **Hüküm (Katman-6)**: nihai bağlayıcı sonuç
+
+Fizik Ötesi:
+Fiziksel ölçüm katmanını aşan fakat ontolojik olarak gerçek olan 
+4–6. boyut düzlemleri.
+
+Metafizik terimi yerine kullanılır.
