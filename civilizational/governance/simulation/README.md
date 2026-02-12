@@ -66,3 +66,5 @@ Predefined scenario configs are available in `scenarios/`:
 Run example:
 python simulate.py --config scenarios/capture-attack.json
 
+“Outputs” kısmının altına ekle:
+Markdown
