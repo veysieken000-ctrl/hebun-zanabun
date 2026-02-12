@@ -344,6 +344,35 @@ def ExecutiveLegislation : Prop :=
 To block this structurally, we add a rule:
 If a decision is issued by E, it cannot be valid.
 -/
+
+/-
+Attack Model 5: Undocumented Policy Attack
+
+An attack attempt where an undocumented decision
+is treated as valid.
+-/
+
+def UndocumentedPolicyAttack : Prop :=
+  ∃ d : Decision, ¬ Documented d ∧ ValidDecision d
+
+theorem no_undocumented_policy_attack :
+  SystemIsSafe → ¬ UndocumentedPolicyAttack := by
+  intro hSafe
+  intro hAttack
+  rcases hAttack with ⟨d, hUndoc, hValid⟩
+
+  -- extract the transparency clause from SystemIsSafe
+  rcases hSafe with ⟨hU_noP,
+    ⟨hE_noP,
+    ⟨hUndocRule,
+    ⟨hUpperInvalid,
+    ⟨hNoBridge,
+    hNoDom⟩⟩⟩⟩⟩
+
+  have hInvalid : ¬ ValidDecision d := hUndocRule d hUndoc
+  exact hInvalid hValid
+
+
 axiom executive_cannot_issue_valid :
   ∀ d : Decision, Issuer d = E → ¬ ValidDecision d
 
