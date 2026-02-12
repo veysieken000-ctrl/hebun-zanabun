@@ -36,7 +36,15 @@ def load_config(path: str) -> Dict:
 
 
 def band(r_c: float, thresholds: Dict[str, float]) -> str:
-    safe = thresholds["safe"]
+  actions = recommended_actions(status, C, T_avg, O, I, tenure_max)
+Ve period raporunda print(f" R_c ...") satırının altına şunu ekle:
+Python
+Kodu kopyala
+print("Recommended actions:")
+        for a in actions:
+            print(f" - {a}") 
+    
+      safe = thresholds["safe"]
     warning = thresholds["warning"]
     breach = thresholds["breach"]
     if r_c < safe:
@@ -47,6 +55,12 @@ def band(r_c: float, thresholds: Dict[str, float]) -> str:
         return "WARNING"
     return "BREACH"
 
+feat(governance): add mandatory risk response protocol for concentration drift control
+
+- Defines SAFE/WATCH/WARNING/BREACH bands and required actions
+- Adds metric-specific triggers for opacity, overlap, tenure and centralization
+- Enforces measurement integrity and public reporting requirements
+- Establishes automatic review and renewal escalation procedures
 
 def centralization_ratio(councils: List[Council], council_power: Dict[str, float]) -> float:
     total = sum(council_power[c.name] for c in councils)
