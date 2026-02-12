@@ -244,8 +244,7 @@ theorem upper_review_issued_decision_invalid (d : Decision) :
   exact upper_review_cannot_issue_valid d h
 3) Güçlü koruma: “ValidDecision → Issuer ≠ U”
 Teoremler kısmına ekle:
-Lean
-Kodu kopyala
+
 /-
 Corollary: If a decision is valid, its issuer is not U.
 -/
@@ -266,6 +265,41 @@ theorem no_bridge_exists : ¬ BridgeExists := by
   have hlt : Power c * 2 < TotalPower := no_dominant_council c hc
   -- Contradiction: a value cannot be both >= and < the same bound
   exact (not_lt_of_ge hge) hlt
-end Zanistarast
+
+/-
+Safety Packaging
+
+We package core anti-capture guarantees into a single predicate.
+This does not claim "all attacks are impossible" in a sociological sense;
+it claims the structural constraints enforce these invariants.
+
+Theorems can then target SystemIsSafe as the foundation.
+-/
+
+/-- System safety predicate: core structural invariants hold. -/
+def SystemIsSafe : Prop :=
+  (¬ P U) ∧
+  (¬ P E) ∧
+  (∀ d : Decision, ¬ Documented d → ¬ ValidDecision d) ∧
+  (∀ d : Decision, Issuer d = U → ¬ ValidDecision d) ∧
+  (¬ BridgeExists) ∧
+  (∀ c : Entity, Council c → ¬ Dominant c)
+
+/-
+Theorem: SystemIsSafe holds under our axioms and derived theorems.
+-/
+theorem system_is_safe : SystemIsSafe := by
+  refine And.intro upper_review_has_no_decision ?_
+  refine And.intro executive_has_no_decision ?_
+  refine And.intro (by
+    intro d hnd
+    exact undocumented_decision_not_valid d hnd) ?_
+  refine And.intro (by
+    intro d hEq
+    exact upper_review_issued_decision_invalid d hEq) ?_
+  refine And.intro no_bridge_exists ?_
+  intro c hc
+  exact no_council_is_dominant c hc
+Not: Bu paketleme “kanıt zinciri”ni tek noktaya toplar. İleride “SystemIsSafe → AttackImpossible” gibi daha büyük teoremleri bunun üstüne koyarsın.
 
 
