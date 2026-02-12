@@ -1,3 +1,6 @@
+> Canonical white paper (v1.2):
+> **/docs/paper/Hebun-Zanabun-Framework-v1.2.md**
+
 # Hebûn – Zanabûn Civilization Framework
 
 A layered civilization model integrating ontology, epistemology,
