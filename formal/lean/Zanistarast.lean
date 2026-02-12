@@ -124,6 +124,41 @@ def BridgeExists : Prop :=
   ∃ m : Member, BridgeMember m
 
 /-
+Decision & Transparency Model
+
+We model decisions as objects produced by councils.
+A decision must have public documentation to be valid.
+-/
+
+/-- Abstract type of decisions. -/
+constant Decision : Type
+
+/-- Producer of a decision (which entity issued it). -/
+constant Issuer : Decision → Entity
+
+/-- Predicate: decision has full public documentation (record + reasoning). -/
+constant Documented : Decision → Prop
+
+/-- Predicate: decision is valid (legitimate for execution). -/
+constant ValidDecision : Decision → Prop
+
+/-
+Transparency Requirement Axiom
+
+If a decision is not documented, it is invalid.
+We encode this as: ¬Documented d → ¬ValidDecision d.
+-/
+axiom undocumented_invalid : ∀ d : Decision, ¬ Documented d → ¬ ValidDecision d
+
+/-
+Optional strengthening:
+A decision is valid only if issued by a council.
+-/
+axiom valid_decision_requires_council :
+  ∀ d : Decision, ValidDecision d → Council (Issuer d)
+
+
+/-
 Theorem A: Any entity with both decision and execution authority is invalid.
 This is a direct corollary of separation_of_authority.
 -/
@@ -174,6 +209,22 @@ theorem no_bridge_member (m : Member) : ¬ BridgeMember m := by
   have heq : c₁ = c₂ :=
     no_multi_council_membership m c₁ c₂ hc₁ hc₂ hin₁ hin₂
   exact hne heq
+
+/-
+Theorem: Undocumented decisions cannot be valid.
+-/
+theorem undocumented_decision_not_valid (d : Decision) :
+  ¬ Documented d → ¬ ValidDecision d := by
+  intro hnd
+  exact undocumented_invalid d hnd
+
+/-
+Theorem: Any valid decision must be issued by a council.
+-/
+theorem valid_decision_issuer_is_council (d : Decision) :
+  ValidDecision d → Council (Issuer d) := by
+  intro hv
+  exact valid_decision_requires_council d hv
 
 /-- Corollary: No capture bridge can exist in the system. -/
 theorem no_bridge_exists : ¬ BridgeExists := by
