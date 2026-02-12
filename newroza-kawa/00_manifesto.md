@@ -110,3 +110,27 @@ Ahlak inşa edilmeden toplum korunmaz.
 Hüküm insanın değildir.
 Newroza Kawa Medeniyeti
 Fıtrat ve Ahlak Çağı’nın adıdır.
+
+🖋 MÜHÜR
+Bu manifesto,
+Fıtrat ve Ahlak Çağı’nı başlatma niyetiyle,
+hak merkezli bir medeniyet tasavvuru olarak ilan edilmiştir.
+Newroza Kawa Medeniyeti’nin
+Ontolojik temeli Hebûn,
+Epistemolojik yöntemi Zanabûn,
+Ahlaki çerçevesi Zanistarast,
+Yönetim modeli Hebûn Yönetim,
+Ekonomik modeli Mabûn,
+Okuma yöntemi Rasterast’tır.
+Bu medeniyetin müdebbiri:
+Veysi yê MALA SAF
+Niyeti:
+Hakikati aramak,
+Varlığı korumak,
+Varlık sahasını ahlakla genişletmek.
+Bu bir zorbalık çağrısı değildir.
+Bu bir hak çağrısıdır.
+Bu bir dayatma değildir.
+Bu bir davettir.
+Hüküm Ehad’a aittir.
+İnsan ahlakla yürür.
