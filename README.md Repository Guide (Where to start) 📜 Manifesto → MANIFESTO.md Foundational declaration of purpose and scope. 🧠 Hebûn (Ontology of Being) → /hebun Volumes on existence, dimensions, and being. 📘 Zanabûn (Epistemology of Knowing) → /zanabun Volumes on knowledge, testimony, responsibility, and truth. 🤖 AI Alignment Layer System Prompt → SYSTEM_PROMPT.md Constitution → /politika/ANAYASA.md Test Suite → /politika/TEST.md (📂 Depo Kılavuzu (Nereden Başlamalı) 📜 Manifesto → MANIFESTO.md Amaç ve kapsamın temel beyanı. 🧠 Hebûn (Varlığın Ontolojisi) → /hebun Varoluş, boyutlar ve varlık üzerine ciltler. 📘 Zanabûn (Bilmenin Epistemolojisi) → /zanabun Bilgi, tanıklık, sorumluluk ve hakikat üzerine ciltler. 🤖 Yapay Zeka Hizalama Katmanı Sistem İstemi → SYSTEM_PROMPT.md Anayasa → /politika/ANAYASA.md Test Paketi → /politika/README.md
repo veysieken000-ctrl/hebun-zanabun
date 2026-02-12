@@ -591,4 +591,40 @@ Core structure:
 This framework is not a centralized political system.
 It is an open-source civilizational protocol grounded in Zanistarast.
 
+# hebun-zanabun
+
+Bu depo, **Zanistarast Bilimi** ve onun medeniyet uygulaması olan **Newroza Kawa Medeniyeti** için
+katmanlı bir sistem mimarisidir.
+
+## Nereden başlamalı?
+
+### 1) Düz okuyucu (10–30 dk)
+- Okuma şeması ve medeniyet portalı: `portal/README.md`
+
+### 2) Akademisyen / araştırmacı (hızlı erişim)
+- Kütüphane kataloğu: `INDEX.md`
+- Depo haritası (klasörler ne işe yarıyor?): `MAP.md`
+
+### 3) Formal / Matematik / AI
+- Aksiyomlar: `AXIOMS.md`
+- Teoremler: `THEOREMS.md`
+- Kanıtlar: `zanistarast/formal/proofs/`
+- AI amaç-kapsam-harita: `AI-REPO-OVERVIEW.md`
+
+---
+
+## Çekirdek kavramlar (kısayollar)
+- Zanistarast: `zanistarast/`
+- Hebûn (ontoloji): `hebun/`
+- Zanabûn (epistemoloji): `zanabun/`
+- Mabûn (ekonomi): `mabun/`
+- Rasterast (okuma yöntemi): `rasterast/`
+
+---
+
+## Not
+Bu repo iki okuma düzeyini aynı anda taşır:
+- **Portal düzeyi:** hızlı, yönlendirici, okur dostu
+- **Formal düzey:** tanımlar, aksiyomlar, teoremler, kanıtlar
+
 
