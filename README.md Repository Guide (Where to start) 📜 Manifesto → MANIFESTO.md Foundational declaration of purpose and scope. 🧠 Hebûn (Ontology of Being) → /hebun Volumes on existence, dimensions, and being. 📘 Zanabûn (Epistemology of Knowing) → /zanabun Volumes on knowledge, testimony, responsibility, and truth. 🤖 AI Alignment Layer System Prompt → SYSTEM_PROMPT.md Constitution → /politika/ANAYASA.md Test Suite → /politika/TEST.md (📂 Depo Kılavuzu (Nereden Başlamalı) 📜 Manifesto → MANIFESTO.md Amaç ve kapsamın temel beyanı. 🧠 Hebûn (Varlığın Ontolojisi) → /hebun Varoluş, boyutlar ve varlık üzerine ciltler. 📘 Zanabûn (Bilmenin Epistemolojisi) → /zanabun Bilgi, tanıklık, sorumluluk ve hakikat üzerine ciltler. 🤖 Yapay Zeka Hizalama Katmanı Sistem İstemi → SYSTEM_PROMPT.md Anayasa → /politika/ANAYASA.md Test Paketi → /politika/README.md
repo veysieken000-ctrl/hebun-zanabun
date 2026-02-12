@@ -77,6 +77,9 @@ The complete extended framework document is archived here:
 👉 /docs/MASTER-FRAMEWORK-v2.md
 
 ---
+## 📄 Official Academic Paper (DOI-ready)
+
+docs/paper/Hebun-Zanabun-Framework-v1.2.md
 
 This repository is not a centralized political system.
 
