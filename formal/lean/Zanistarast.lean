@@ -324,6 +324,36 @@ def BridgeCapture : Prop :=
   BridgeExists
 
 /-
+Attack Model 3: Dominance Capture
+
+An attack attempt where a single council becomes dominant
+(i.e., holds at least half of total decision power).
+-/
+
+def DominanceCapture : Prop :=
+  ∃ c : Entity, Dominant c
+
+/-
+Theorem: Under SystemIsSafe, DominanceCapture is impossible.
+-/
+theorem no_dominance_capture :
+  SystemIsSafe → ¬ DominanceCapture := by
+  intro hSafe
+  intro hAttack
+  rcases hAttack with ⟨c, hDom⟩
+
+  -- unpack SystemIsSafe and extract (∀ c, Council c → ¬ Dominant c)
+  rcases hSafe with ⟨hU_noP,
+    ⟨hE_noP,
+    ⟨hUndoc,
+    ⟨hUpperInvalid,
+    ⟨hNoBridge,
+    hNoDom⟩⟩⟩⟩⟩
+
+  have hc : Council c := hDom.1
+  exact (hNoDom c hc) hDom
+
+/-
 Theorem: Under SystemIsSafe, BridgeCapture is impossible.
 -/
 theorem no_bridge_capture :
