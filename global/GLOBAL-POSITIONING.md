@@ -1,3 +1,18 @@
+## Document Scope
+
+This document defines the international academic positioning 
+of the Zanistarast civilizational framework.
+
+It clarifies:
+
+- Scientific status
+- Methodological compatibility
+- Epistemic structure
+- Civilizational modeling claim
+
+This is not a political declaration.
+It is an academic classification statement.
+
 # Global Academic Positioning — Zanistarast v2
 
 ## Amaç
