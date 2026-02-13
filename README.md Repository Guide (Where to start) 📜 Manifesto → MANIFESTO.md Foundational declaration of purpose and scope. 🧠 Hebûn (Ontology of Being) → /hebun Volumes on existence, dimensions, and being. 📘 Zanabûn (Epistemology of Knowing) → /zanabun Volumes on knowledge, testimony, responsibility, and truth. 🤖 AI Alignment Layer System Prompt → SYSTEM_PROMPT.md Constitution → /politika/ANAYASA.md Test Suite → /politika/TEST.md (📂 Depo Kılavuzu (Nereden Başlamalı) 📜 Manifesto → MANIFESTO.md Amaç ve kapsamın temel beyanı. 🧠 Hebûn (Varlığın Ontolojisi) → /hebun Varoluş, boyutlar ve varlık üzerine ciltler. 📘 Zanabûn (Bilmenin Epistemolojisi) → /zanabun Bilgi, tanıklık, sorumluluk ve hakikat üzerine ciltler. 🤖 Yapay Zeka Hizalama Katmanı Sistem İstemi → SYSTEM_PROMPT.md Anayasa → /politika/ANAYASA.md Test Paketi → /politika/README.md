@@ -1,3 +1,15 @@
+# 🌱 Newroza Kawa Civilizational Framework – V2
+
+Status: Stable Release  
+Evaluation: Open to scholarly review  
+Layer: Ontological → Constitutional → Civilizational
+Altına sadece şu:
+Kodu kopyala
+
+Start here:
+→ civilizational/HUMANITY-CALL.md
+→ constitution/PREAMBLE.md
+→ core/
 # Hebûn–Zanabûn Framework
 
 A hak-centered ontological, epistemological and civilizational model.
@@ -80,3 +92,6 @@ It is an open civilizational protocol grounded in ontology, epistemic responsibi
 
 For complete navigation see: `NAVIGATION.md`
 
+This repository is structured for long-term civilizational research.
+It is not a reaction.
+It is a construction.
