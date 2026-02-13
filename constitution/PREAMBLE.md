@@ -1,3 +1,5 @@
+> This constitutional text binds all applied civilization structures.
+
 # Fıtrat ve Ahlak Çağı Anayasası
 ## Önsöz
 
