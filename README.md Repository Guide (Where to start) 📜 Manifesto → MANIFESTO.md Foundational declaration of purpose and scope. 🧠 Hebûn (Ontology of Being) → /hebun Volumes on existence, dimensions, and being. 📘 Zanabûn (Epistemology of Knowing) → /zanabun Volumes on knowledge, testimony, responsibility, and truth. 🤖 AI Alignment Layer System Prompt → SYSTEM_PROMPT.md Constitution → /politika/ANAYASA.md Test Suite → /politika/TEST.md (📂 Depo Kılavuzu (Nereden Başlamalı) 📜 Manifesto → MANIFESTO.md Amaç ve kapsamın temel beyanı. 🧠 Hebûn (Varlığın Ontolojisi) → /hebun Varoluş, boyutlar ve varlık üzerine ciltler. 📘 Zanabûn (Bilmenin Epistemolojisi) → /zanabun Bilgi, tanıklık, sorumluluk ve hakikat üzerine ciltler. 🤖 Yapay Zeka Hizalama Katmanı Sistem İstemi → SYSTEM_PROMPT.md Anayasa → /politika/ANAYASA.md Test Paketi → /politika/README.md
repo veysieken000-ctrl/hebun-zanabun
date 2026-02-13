@@ -19,7 +19,8 @@ If you are academic:
 If you are formal / mathematical:
 → formal/  
 → math/
-
+```markdown
+- Repo architecture (V2 locked): `REPO-ARCHITECTURE-V2.md`
 ---
 
 ## 🧱 Core Layers
