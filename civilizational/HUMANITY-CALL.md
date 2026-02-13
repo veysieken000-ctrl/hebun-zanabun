@@ -74,3 +74,27 @@ Kim gelirse gelsin,
 kim anlamak isterse anlasın.
 Hak açık durur.
 Ve bahar mutlaka gelir. 🌿
+
+## 🌍 Global Civilizational Declaration
+
+This call is not against any nation.
+It is not against any people.
+It is not against any faith.
+
+It is against injustice.
+It is against moral collapse.
+It is against dehumanization.
+
+Newroza Kawa is a call to restore:
+- Human dignity
+- Moral order
+- Natural balance
+- Civilizational stability
+
+Every winter ends.
+Spring returns.
+
+This is that spring.
+
+V2 Civilizational Release
+Newroza Kawa
