@@ -1,10 +1,10 @@
 # 🌱 Newroza Kawa Civilizational Framework – V2
 
+Katman: Ontolojik → Epistemolojik → Operasyonel → Medeniyetsel
+
 Status: Stable Release  
 Evaluation: Open to scholarly review  
 Layer: Ontological → Constitutional → Civilizational
-Altına sadece şu:
-Kodu kopyala
 
 Start here:
 → civilizational/HUMANITY-CALL.md
@@ -14,7 +14,7 @@ Start here:
 
 A hak-centered ontological, epistemological and civilizational model.
 
-Current Phase: v1.2  
+Current Phase: v2 (Stable) 
 Status: Civilizational Layer Active  
 
 ---
