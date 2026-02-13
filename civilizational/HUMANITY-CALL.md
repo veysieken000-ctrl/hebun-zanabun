@@ -98,3 +98,47 @@ This is that spring.
 
 V2 Civilizational Release
 Newroza Kawa
+---
+
+## 🌱 Civilizational Spring – V2 Declaration
+
+Humanity is not collapsing because it lacks technology.
+Humanity is collapsing because it lacks moral alignment.
+
+We have built systems without conscience.
+We have built power without justice.
+We have built speed without wisdom.
+
+The result:
+Fragmented societies.
+Lonely individuals.
+Silent oppression.
+Institutional decay.
+
+Newroza Kawa does not offer anger.
+It offers restoration.
+
+It does not seek domination.
+It seeks balance.
+
+It does not divide humanity.
+It calls humanity back to its higher dimension.
+
+This is a civilizational recalibration.
+
+From power-centered systems
+to dignity-centered order.
+
+From fear-driven structures
+to justice-driven institutions.
+
+From fragmentation
+to moral coherence.
+
+Newroza Kawa is not a rebellion of destruction.
+It is a reconstruction of meaning.
+
+A spring after exhaustion.
+A moral re-alignment after drift.
+
+V2 Release – Civilizational Layer Activated.
