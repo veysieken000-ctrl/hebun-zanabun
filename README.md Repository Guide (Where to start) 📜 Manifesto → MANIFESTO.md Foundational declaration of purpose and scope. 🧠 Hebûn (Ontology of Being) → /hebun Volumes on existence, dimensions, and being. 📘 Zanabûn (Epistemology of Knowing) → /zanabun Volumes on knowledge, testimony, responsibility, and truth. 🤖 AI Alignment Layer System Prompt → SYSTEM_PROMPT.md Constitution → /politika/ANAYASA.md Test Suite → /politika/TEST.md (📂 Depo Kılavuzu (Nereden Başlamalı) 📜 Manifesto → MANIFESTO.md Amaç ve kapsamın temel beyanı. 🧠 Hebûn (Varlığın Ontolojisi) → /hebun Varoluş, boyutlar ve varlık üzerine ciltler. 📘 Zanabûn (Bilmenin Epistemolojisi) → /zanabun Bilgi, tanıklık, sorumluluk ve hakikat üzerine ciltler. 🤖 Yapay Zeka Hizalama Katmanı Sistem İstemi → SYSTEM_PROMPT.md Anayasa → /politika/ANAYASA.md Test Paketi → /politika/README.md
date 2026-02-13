@@ -70,3 +70,9 @@ Full extended structure:
 This repository is not a centralized political system.  
 It is an open civilizational protocol grounded in ontology, epistemic responsibility and moral equilibrium.
 
+---
+
+## Full Repository Map
+
+For complete navigation see: `NAVIGATION.md`
+
