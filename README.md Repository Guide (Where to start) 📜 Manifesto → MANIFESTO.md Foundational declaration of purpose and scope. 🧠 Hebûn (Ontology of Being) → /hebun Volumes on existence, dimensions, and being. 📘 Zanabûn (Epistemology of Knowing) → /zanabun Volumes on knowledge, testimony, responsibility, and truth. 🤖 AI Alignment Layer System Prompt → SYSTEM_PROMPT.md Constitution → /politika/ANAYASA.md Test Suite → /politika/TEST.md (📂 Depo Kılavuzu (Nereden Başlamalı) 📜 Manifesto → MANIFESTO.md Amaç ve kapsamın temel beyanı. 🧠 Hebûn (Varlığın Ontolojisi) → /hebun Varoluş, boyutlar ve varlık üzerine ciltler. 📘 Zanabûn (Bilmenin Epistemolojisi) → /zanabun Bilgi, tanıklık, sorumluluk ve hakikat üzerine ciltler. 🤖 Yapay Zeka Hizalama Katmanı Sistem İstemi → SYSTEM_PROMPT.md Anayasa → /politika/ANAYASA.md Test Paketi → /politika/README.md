@@ -45,6 +45,9 @@ Includes:
 - Cultural layer
 - Stability mechanisms
 
+## 🌍 Humanity Call
+Read the declaration:
+[civilizational/HUMANITY-CALL.md](civilizational/HUMANITY-CALL.md)
 ---
 
 ## 📜 Constitution
