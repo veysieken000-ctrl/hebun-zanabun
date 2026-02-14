@@ -1,7 +1,13 @@
 # NEWROZA KAWA CIVILIZATIONAL ARCHITECTURE
-## Abstract
+## Civilizational Positioning
 
-The Newroza Kawa Civilizational Architecture proposes a structured ontological–epistemological framework integrating:
+Newroza Kawa is a symbolic civilizational architecture.
+It represents:
+- Resistance (structural correction)
+- Rebirth (ontological reset)
+- Epistemic transformation
+
+V2 stabilizes this architecture.
 
 Hebûn → Ontology (Layered Being Structure)  
 Zanabûn → Epistemology (Two-Knower Verification Principle)  
