@@ -1,4 +1,110 @@
 # NEWROZA KAWA CIVILIZATIONAL ARCHITECTURE
+## Abstract
+
+The Newroza Kawa Civilizational Architecture proposes a structured ontological–epistemological framework integrating:
+
+Hebûn → Ontology (Layered Being Structure)  
+Zanabûn → Epistemology (Two-Knower Verification Principle)  
+Mabûn → Structural–Economic Equilibrium Model  
+Rasterast → Correct Reading Method (Coherence Filtering)  
+Zanistarast → Civilizational Synthesis  
+
+This framework does not assert supernatural suspension of physical law.  
+It proposes a layered coherence model in which higher-order structures modulate lower layers without violating conservation principles.
+
+The model is explicitly falsifiable.
+
+If:
+- No measurable coherence amplification can be demonstrated,
+- No structured biological deviation under intentional coherence is measurable,
+- No statistical anomaly beyond chance occurs under defined constraints,
+- No entropy stabilization effect is observable under coherence conditions,
+
+then the extended-layer hypothesis collapses.
+
+The architecture is open to scientific verification.
+
+Truth > Power  
+Evidence > Ideology
+
+---
+
+## Scientific Method & Falsifiability Framework
+
+### Core Hypothesis
+
+A dimension can only expand within a higher-order containing structure.
+
+Formal layered model:
+
+L1 = Physical  
+L2 = Biological  
+L3 = Cognitive  
+L4 = Integrative / Ontological Order  
+L5 = Ethical Coherence  
+L6 = Binding Judgment Layer  
+
+Layer rule:
+
+If L(n+1) exists, then it must coherently regulate L(n) without violating L(n)'s internal conservation rules.
+
+---
+
+### Testable Claims (Non-Supernatural Formulation)
+
+1. Biological coherence may measurably influence physical-level statistical distributions without violating conservation laws.
+
+2. Structured intentional coherence may produce statistically detectable deviations in complex systems (within probabilistic margins).
+
+3. Higher-order ethical coherence correlates with measurable long-term structural stability in civilizational systems.
+
+4. Collapse of coherence at higher layers produces measurable systemic instability at lower layers.
+
+If none of these produce measurable outcomes under controlled conditions, the extended-layer model is invalid.
+
+---
+
+### Mathematical Formalization
+
+Layer Expansion Principle:
+
+L(n) ⊂ L(n+1)
+
+Coherence Function:
+
+C = f(Alignment, Stability, Entropy Reduction)
+
+System Stability:
+
+If dC/dt > 0 → Structural stabilization  
+If dC/dt < 0 → Structural decay  
+
+Falsification Rule:
+
+If ∀ measurable systems:
+C ≈ Random Distribution  
+and no deviation from null hypothesis is observed,  
+then Extended Layer Hypothesis = False.
+
+---
+
+### Civilizational Interpretation (Non-Metaphysical Framing)
+
+The model does not require suspension of physics.  
+It requires:
+
+Coherence > Randomness  
+Structure > Chaos  
+Judgment > Impulse  
+
+If coherence demonstrably affects lower-order systems within lawful boundaries, layered ontology gains empirical grounding.
+
+If not, it must be rejected.
+
+---
+
+🔒 V2 Locked — Open to Scientific Falsification  
+⚖ Truth > Power | Evidence > Ideology
 
 ## Ontological–Epistemological Framework  
 Open to Scientific Falsification  
