@@ -1,3 +1,58 @@
+# NEWROZA KAWA CIVILIZATIONAL ARCHITECTURE
+
+## Ontological–Epistemological Framework  
+Open to Scientific Falsification  
+Truth > Power | Evidence > Ideology
+
+## Academic Positioning
+
+This repository presents the Newroza Kawa Civilizational Architecture as a testable ontological–epistemological framework.
+
+The model is structured, formalized, and open to empirical scrutiny.
+
+It does NOT claim miraculous proof, supernatural intervention, or suspension of physical laws.
+
+Instead, it proposes:
+
+- A layered dimensional ontology (Hebûn → Zanabûn → Mabûn → Rasterast → Zanistarast)
+- A structured coherence–probability model
+- A measurable equilibrium framework
+- A falsifiable architecture under scientific conditions
+
+### Scientific Method Commitment
+
+This framework is explicitly designed to be falsifiable.
+
+The model must collapse if:
+
+- No measurable coherence amplification exists
+- No statistical deviation under structured coherence is detectable
+- No cognitive entropy modulation is observable
+- No structural equilibrium stabilization can be demonstrated
+
+If falsified → the model is revised or abandoned.  
+If partially validated → the model is refined.  
+If replicated → the model expands.
+
+### Research Invitation
+
+This repository invites interdisciplinary academic review from:
+
+- Physicists  
+- Mathematicians  
+- Biologists  
+- Cognitive Scientists  
+- Logicians  
+- AI Researchers  
+- Statisticians  
+
+All testing must be conducted under measurable, peer-reviewable conditions.
+
+Contradictions should be published.  
+Supportive evidence should be replicated.
+
+Truth > Power  
+Evidence > Ideology
 # 🌱 Newroza Kawa Civilizational Framework – V2
 
 Katman: Ontolojik → Epistemolojik → Operasyonel → Medeniyetsel
