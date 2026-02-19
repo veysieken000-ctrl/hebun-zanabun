@@ -92,21 +92,4 @@ Güzellik, düzenin görünür hâlidir.
 Medeniyet, estetikle yükselir.
 Newroza Kawa’da estetik:
 Varlık düzeninin yeryüzündeki yansımasıdır.
-Commit Message
 
-Add Zelal–Delal Aesthetic Balance Theory
-
-This paper introduces a dual aesthetic framework based on 
-Zelal (purity/order) and Delal (structured magnificence).
-
-Includes:
-- Formal balance equation
-- Ontological aesthetic mapping
-- Natural system validation
-- Cultural sustainability implications
-
-Aligned with:
-Hebûn ontology
-Zanabûn epistemology
-Zanistarast scientific structure
-Newroza Kawa civilizational aesthetics
