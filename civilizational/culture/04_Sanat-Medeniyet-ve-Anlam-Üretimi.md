@@ -93,20 +93,5 @@ Bilinç üretir
 Değer taşır
 Newroza Kawa’da sanat:
 Varlığın anlamlı biçimde görünmesidir.
-Commit Message
 
-Add Civilization–Art–Meaning Production Framework
-
-This paper establishes art as a civilizational carrier layer
-within the Newroza Kawa framework.
-
-Includes:
-- Ontological mapping of art
-- Epistemological positioning
-- Mathematical symbolic formulation
-- Cultural stability implications
-
-Aligned with Hebûn ontology,
-Zanabûn epistemology,
-Zanistarast scientific structure.
 
