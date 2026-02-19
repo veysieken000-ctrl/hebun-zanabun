@@ -24,17 +24,15 @@ Değer sistemi, adalet anlayışı
 Hüküm Katmanı
 Nihai referans, bağlayıcılık ilkesi
 Formel ifade:
-Kodu kopyala
 
 Culture = Σ(L1..L6)
 Eğer bir katman zayıflarsa:
-Kodu kopyala
 
 ΔLi < 0 → Kültürel Erozyon
 3. Katmanlar Arası Uyum
 Kültürün gücü yalnızca varlığa değil, uyuma bağlıdır.
 Uyum katsayısı:
-Kodu kopyala
+
 
 Cohesion = f(InterLayer Harmony)
 Uyum yoksa:
@@ -47,7 +45,6 @@ Kültür:
 Medeniyet:
 → İç düzen + genişleme kapasitesi
 Formel fark:
-Kodu kopyala
 
 Civilization = Culture + Expansion Capacity
 Newroza Kawa medeniyetinde kültür, genişlemeyi ahlakla sınırlar.
@@ -77,7 +74,6 @@ Katmanlıdır
 Ahlak merkezlidir
 Hükme bağlıdır
 Amaç:
-Kodu kopyala
 
 Kültür → Varlık Sahasını Koruma
 8. Test Edilebilirlik
@@ -99,7 +95,6 @@ Hükümle sabitlenir
 Newroza Kawa medeniyeti:
 Kültürü katmanlı ontolojik denge olarak yeniden tanımlar.
 Commit Message
-Kodu kopyala
 
 Add Culture & Civilization Layered Model (Zelal–Delal aligned)
 
