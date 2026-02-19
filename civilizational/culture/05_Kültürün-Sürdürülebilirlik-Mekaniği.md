@@ -91,20 +91,4 @@ Ekonomi bozulur
 Yönetim zayıflar
 Newroza Kawa’da kültür:
 Varlığın sürdürülebilirliğidir.
-Commit Message
-
-Add Cultural Sustainability Mechanics Framework
-
-This paper formalizes culture as the long-term
-stability engine of civilization.
-
-Includes:
-- Ontological positioning
-- Mathematical sustainability model
-- Resilience formula
-- Economic–moral interaction mapping
-
-Aligned with Hebûn ontology,
-Zanabûn epistemology,
-Zanistarast systemic logic.
 
