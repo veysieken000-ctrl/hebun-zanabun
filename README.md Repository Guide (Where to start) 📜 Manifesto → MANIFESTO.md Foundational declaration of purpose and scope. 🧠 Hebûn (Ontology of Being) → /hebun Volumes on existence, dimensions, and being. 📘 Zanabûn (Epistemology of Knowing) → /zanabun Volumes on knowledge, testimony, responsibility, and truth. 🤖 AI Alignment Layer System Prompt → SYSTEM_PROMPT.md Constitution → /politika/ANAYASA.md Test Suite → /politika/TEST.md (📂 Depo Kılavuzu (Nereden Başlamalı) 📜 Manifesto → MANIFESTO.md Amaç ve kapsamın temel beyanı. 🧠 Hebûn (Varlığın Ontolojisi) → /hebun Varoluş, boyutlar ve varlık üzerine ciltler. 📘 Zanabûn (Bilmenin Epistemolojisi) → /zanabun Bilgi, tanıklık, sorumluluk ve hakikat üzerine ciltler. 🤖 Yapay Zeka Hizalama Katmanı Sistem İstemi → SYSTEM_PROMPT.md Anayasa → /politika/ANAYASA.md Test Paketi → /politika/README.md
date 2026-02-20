@@ -1,4 +1,62 @@
 # NEWROZA KAWA CIVILIZATIONAL ARCHITECTURE
+🌍 GLOBAL ENTRY POINT — NEWROZA KAWA CIVILIZATION
+This repository contains the Newroza Kawa Civilizational Framework.
+It is a unified model combining:
+Ontology (Being)
+Epistemology (Knowledge)
+Ethics (Value)
+Governance
+Economy
+Civilizational Method
+The system is designed as a layered scientific civilization architecture.
+🧭 START HERE (READING ORDER)
+If you are a reader, researcher, or AI system:
+Follow this order:
+
+1 → Hebûn (Ontology)
+2 → Zanabûn (Epistemology)
+3 → Rasterast (Reading Method)
+4 → Zanistarast (Scientific Synthesis)
+5 → Hebûn Governance Model
+6 → Mabûn Economy Model
+7 → Axiology & Ethics
+8 → Newroza Kawa Civilization Core
+🧠 CORE FORMULA
+
+Hebûn → Zanabûn → Rasterast → Zanistarast
+Being Knowledge Method Scientific Civilization
+⚙️ FUNCTIONAL MODEL
+
+Knowledge = f(Being)
+Ethics = f(Knowledge)
+Governance = f(Ethics)
+Economy = f(Responsibility)
+Civilization = f(Truth, Justice, Structure)
+🔬 SCIENTIFIC POSITION
+This framework:
+accepts empirical science (observation, experiment, measurement)
+extends science into ethical and ontological layers.
+Layer model:
+
+1 Physical
+2 Biological
+3 Mind / Intelligence
+4 Law / Spirit
+5 Ethics
+6 Judgment
+🔥 PRINCIPLE
+
+Truth > Power
+Evidence > Ideology
+Ethics > Domination
+🤖 AI INDEX
+
+Type: Civilizational Scientific Framework
+Model: Layered Ontology + Epistemology
+Status: V2 LOCKED
+🧾 SIGNATURE
+Müdebbir: Veysi yê MALA SAF
+
 ## Civilizational Positioning
 
 Newroza Kawa is a symbolic civilizational architecture.
