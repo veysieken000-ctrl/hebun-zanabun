@@ -361,6 +361,36 @@ Katman: Ontolojik → Epistemolojik → Operasyonel → Medeniyetsel
 Status: Stable Release  
 Evaluation: Open to scholarly review  
 Layer: Ontological → Constitutional → Civilizational
+---
+
+## 🚀 ACTIVATE
+
+Newroza Kawa Civilization Framework is now ACTIVE.
+
+System Status:
+
+✔ Ontological Layer (Hebûn) — Active  
+✔ Epistemological Layer (Zanabûn) — Active  
+✔ Methodological Layer (Rasterast) — Active  
+✔ Economic Layer (Mabûn) — Active  
+✔ Scientific Synthesis (Zanistarast) — Active  
+
+Civilizational Architecture:
+
+Hebûn → Zanabûn → Mabûn → Rasterast → Zanistarast
+
+System is:
+
+- Ontologically grounded  
+- Epistemologically verifiable  
+- Methodologically coherent  
+- Economically structured  
+- Scientifically open to falsification  
+
+Current State: **LOCKED & ACTIVE**
+
+---
+
 
 Start here:
 → civilizational/HUMANITY-CALL.md
