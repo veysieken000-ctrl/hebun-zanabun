@@ -109,7 +109,83 @@ The goal of this repository is:
 to define a coherent civilizational model
 to align ontology, knowledge, ethics, and governance
 to offer a structured alternative framework for human civilization.
-🧾 MÜDEBBİR
+🧾 AUTHOR
+Müdebbir: Veysi yê MALA SAF
+
+🌍 NEWROZA KAWA CIVILIZATION — CORE LOCK
+This repository is officially locked as a civilizational-scale framework.
+From this point:
+Modules are not independent articles.
+They are structural components of one unified model.
+Interpretation must follow the locked order.
+🧠 CORE PRINCIPLE
+
+Reality is layered.
+Knowledge is structured.
+Ethics stabilizes power.
+Judgment preserves balance.
+🧩 CORE ARCHITECTURE
+
+Hebûn → Ontological Foundation
+Zanabûn → Knowledge Structure
+Rasterast → Correct Reading Method
+Zanistarast → Scientific Integration
+Governance → Structural Order
+Mabûn → Economic Stabilization
+Axiology → Value Hierarchy
+Civilization → Newroza Kawa Manifestation
+⚙️ CIVILIZATIONAL EQUATION
+
+Civilization =
+Ontology
++ Epistemology
++ Method
++ Ethics
++ Governance
++ Economy
++ Shared Meaning
+or formally:
+
+C = f(B, K, M, E, G, Ec, V)
+Where:
+B = Being (Hebûn)
+K = Knowledge (Zanabûn)
+M = Method (Rasterast)
+E = Ethics
+G = Governance
+Ec = Economy (Mabûn)
+V = Value system
+🧬 NON-REDUCTION RULE
+
+Upper layers cannot be explained solely by lower layers.
+Meaning:
+Biology ≠ only physics
+Mind ≠ only biology
+Ethics ≠ only mind
+Judgment ≠ only ethics
+System collapse occurs if this rule is violated.
+🔬 SCIENTIFIC POSITION LOCK
+This framework:
+accepts empirical science
+extends it through layered validation
+Validation types:
+
+Layer 1–3 → Observation / Experiment
+Layer 4–6 → Consistency / Ethical Coherence
+Science definition (locked):
+
+Science = multi-layer validated knowledge.
+🔥 CIVILIZATIONAL MOTTO
+
+Truth > Power
+Meaning > Chaos
+Ethics > Domination
+🧭 FINAL PURPOSE
+The purpose of Newroza Kawa Civilization:
+restoring coherence between existence and knowledge
+aligning human action with ethical structure
+preventing civilizational collapse through layered thinking.
+🧾 AUTHOR LOCK
 Müdebbir: Veysi yê MALA SAF
 
 ## Civilizational Positioning
