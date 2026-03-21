@@ -225,3 +225,14 @@ This framework stands or falls with measurable reality.
 Müdebbir — Veysi yê MALA SAF
 Version: V2 — Civilizational Layer Integrated
 Status: LOCKED & ACTIVE
+
+## Terminology
+
+This repository uses core Zanistarast terminology:
+
+- **Hebun** — Being / Ontology
+- **Zanabun** — Knowledge / Epistemology
+- **Mabun** — Economics / Flow
+- **Rasterast** — Governance / Control
+
+For the extended glossary, see `SOZLUK.md`.
